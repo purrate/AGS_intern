@@ -1,0 +1,261 @@
+
+Result Type: ED Physician Notes
+Result Date: March 03, 2023 12:53 EST
+Result Status: Auth (Verified)
+Result title: ED Physician Note
+Performed by: Boreham, Alex DO on March 03, 2023 12:56 EST
+Verified By: Boreham, Alex DO on March 03, 2023 14:53 EST
+Encounter info: 62404549, Mon Marion Neighborhood Hospital, Emergency, 3/3/2023 - 3/3/2023
+
+Basic Information
+Time Seen:
+Boreham, Alex DO / 03/03/2023 12:42
+History of Present Illness
+90-year-old female with history of CKD, hypertension, presented
+emergency department for evaluation of head and hip pain after
+a mechanical fall out of bed. Patient has been struggling
+with leg cramps for a while and recently started on magnesium
+and potassium for them. Those affected her this morning
+causing her to fall out of bed striking her right ear onto a corner
+of a wall not dresser. She then fell onto her right hip. She has
+pain in the posterior aspect of both hips worse on the right. She
+is still able to walk. She denies any weakness or numbness,
+LOC, vomiting. She did get somewhat dizzy after this but
+reports no other falls and was able to get herself back into
+bed and debated for most the day whether or not to come in.
+Review of Systems
+10 point ROS was obtained and is otherwise negative except as
+mentioned above.
+Physical Exam
+General: alert, no acute distress
+Skin: warm, dry
+Head: Punctate laceration to the outer aspect of the pinna, dried
+blood covering the pinna otherwise no evident trauma,
+normocephalic
+Neck: trachea midline, no meningismus, no midline cervical
+spine tenderness
+Eye: normal conjunctiva, sclera clear
+Cardiovascular: HRRR normal peripheral perfusion
+Respiratory: CTAB, non-labored respirations
+Gastrointestinal: soft, ND, NT
+Extremities: no deformity, tenderness at the right PSIS greater
+than right trochanter greater than left PSIS, otherwise no
+deformity, bony tenderness
+Neurological: oriented x4, LOC appropriate, CN II-XII intact,
+motor strength equal and normally bilaterally, speech normal
+Psychiatric: cooperative, affect appropriate for age, normal
+judgement, normal psychiatric thoughts
+Medical Decision Making
+90-year-old female presented to the emergency department for
+evaluation of injuries after a fall including ear trauma, head
+trauma and right hip trauma. Given the patient's advanced age
+she is at high risk for intracranial injuries and cervical spine
+fracture for which CT head and neck were ordered. Obtain
+screening chest x-ray, screening labs and EKG as well as x-rays
+of both hips for further evaluation of possible fracture.
+
+Imaging showed no acute traumatic injuries. Labs showed
+creatinine 1.7 which is near the patient's baseline. Labs
+otherwise show no clinically significant abnormalities. EKG
+showed no evidence of arrhythmia ischemia or block. Patient
+stable for outpatient management. Advised patient follow-up
+with her primary care provider. Return precautions discussed.
+Patient discharged home.
+Assessment/Plan
+Ordered:
+CT Cervical Spine Routine UN, 03/03/23 12:52:00 EST, Priority:
+Stat, Reason: Neck trauma, Marion Co. Neighborhood Hospital,
+Diabetic: Unknown, Pregnant: Patient denies, Isolation:
+Standard, 03/03/23 12:52:00 EST
+CT Head UN, 03/03/23 12:51:00 EST, Priority: Stat, Reason:
+Head trauma, moderate-severe, Marion Co. Neighborhood
+Hospital, Diabetic: Unknown, Pregnant: Patient denies,
+Isolation: Standard, 03/03/23 12:51:00 EST
+EKG-Outpatient, 03/03/23 12:51:00 EST, Stat, Abnormal EKG,
+Standard, 03/03/23 12:51:00 EST
+Hips Bilat, 03/03/23 12:52:00 EST, Priority: Stat, Transport
+Mode: Bed, Reason: fall, R>L pain, Diabetic: Unknown,
+Pregnant: Patient denies, Mon General Hospital, Isolation:
+Standard, 03/03/23 12:52:00 EST
+MC CBC + Diff, Blood, Stat collect, 03/03/23 12:51:00 EST,
+Marion Co. Neighborhood Hospital, 03/03/23 12:52:00 EST
+MC Comprehensive Metabolic Panel (CMP), Blood, Stat collect,
+03/03/23 12:51:00 EST, Marion Co. Neighborhood Hospital,
+03/03/23 12:52:00 EST
+Portable Chest, 03/03/23 12:51:00 EST, Priority: Stat,
+Transport Mode: Bed, Reason: fall, Diabetic: Unknown,
+Pregnant: Patient denies, Mon General Hospital, Isolation:
+Standard, 03/03/23 12:51:00 EST
+Follow Up
+No qualifying data available
+Medication Reconciliation
+Unchanged
+acetaminophen (Tylenol Arthritis Extended Release
+650 mg oral tablet, extended release) 1 tab(s) Oral every
+8 hours as needed pain.
+amLODIPine (amLODIPine 2.5 mg oral tablet) 1 tab(s)
+Oral Twice a Day. Refills: 5.
+aspirin (aspirin 81 mg oral tablet) 1 tab(s) Oral Twice a
+Day for 30 Days. Refills: 0.
+betamethasone topical (betamethasone dipropionate
+0.05% topical ointment) 1 Application Topical 2 times a
+week. Vaginal dryness.
+cholecalciferol (Vitamin D3 25 mcg (1000 intl units)
+oral capsule) 1 Capsules Oral once a day.
+hydroCHLOROthiazide (hydroCHLOROthiazide 25 mg
+oral tablet) 1 tab(s) Oral once a day. Refills: 3.
+magnesium oxide (magnesium oxide 400 mg oral
+tablet)
+multivitamin 1 tab(s) Oral once a day.
+naphazoline-pheniramine ophthalmic (Naphcon-A
+0.025%-0.3% ophthalmic solution) 1 Drops Each
+Affected Eye Four Times a Day as needed as needed for
+ocular congestion. Refills: 0.
+
+Problem List/Past Medical History
+Ongoing
+Anxiety
+Arthritis
+Chronic kidney disease stage 3
+Depression
+Hearing loss
+Hypertension
+Mitral valve regurgitation
+Osteoarthritis
+Pain in left knee
+Postherpetic neuralgia
+Pulmonary hypertension
+Urinary incontinence
+Varicose vein
+Historical
+Carpal tunnel release
+Hip fracture
+Hysterectomy
+Knee replacement status
+Palpitations
+Rheumatic fever
+Shingles
+Toe joint deformity
+Tonsillectomy
+Allergies
+Tape
+Percocet 7.5/325 (Sleepiness)
+Lab Results
+Chemistry - LATEST RESULTS HISTORICAL
+General RESULTS
+MC Glucose 03/03/23 122 High 01/05/22 145 High
+12:52
+MC BUN 03/03/23 32 High 01/05/22 30 High
+12:52
+MC Creatinine 03/03/23 1.7 High 01/05/22 1.6 High
+12:52
+MC Sodium 03/03/23 141 01/05/22 140
+12:52
+MC Potassium 03/03/23 4.4 01/05/22 4.8
+12:52
+MC Chloride 03/03/23 105 01/05/22 107
+12:52
+MC CO2 03/03/23 27 01/05/22 24
+12:52
+MC Anion 03/03/23 9.0 Low 01/05/22 9.0 Low
+Gap 12:52
+MC eGFR non 03/03/23 28 Low 01/05/22 30 Low
+African 12:52
+American
+MC eGFR 03/03/23 46 Low 01/05/22 49 Low
+African 12:52
+American
+MC Calcium 03/03/23 10.2 01/05/22 9.3
+12:52
+MC Total 03/03/23 6.7 01/05/22 6.7
+Prot 12:52
+MC Albumin 03/03/23 3.9 01/05/22 3.4
+12:52
+MC Alk Phos 03/03/23 61 01/05/22 69
+12:52
+MC AST 03/03/23 29 01/05/22 21
+(SGOT) 12:52
+MC ALT 03/03/23 23 01/05/22 17
+(SGPT) 12:52
+MC Total Bili 03/03/23 1.1 01/05/22 .8
+12:52
+
+Hematology LATEST RESULTS HISTORICAL
+CBC/Diff RESULTS
+WBC 03/03/23 9.2 12/14/22 4.2
+12:52
+
+MCNH LATEST RESULTS HISTORICAL
+RESULTS
+Hematology
+CBC/Diff
+MC RBC 03/03/23 3.84 01/05/22 3.64 Low
+12:52
+MC HGB 03/03/23 12.1 Low 01/05/22 10.9 Low
+12:52
+MC HCT 03/03/23 35.2 Low 01/05/22 33.6 Low
+12:52
+MC MCV 03/03/23 91.7 01/05/22 92.3
+12:52
+MC MCH 03/03/23 31.5 01/05/22 29.9
+12:52
+MC MCHC 03/03/23 34.4 01/05/22 32.4
+12:52
+MC RDW 03/03/23 13.1 01/05/22 12.9
+12:52
+MC PLT 03/03/23 201 01/05/22 247
+12:52
+MC MPV 03/03/23 9.2 01/05/22 8.4
+12:52
+MC NEUT% 03/03/23 88.6 High 01/05/22 72.8
+12:52
+MC LYMPH% 03/03/23 6.3 Low 01/05/22 19.9
+12:52
+MC NEUT# 03/03/23 8.1 01/05/22 4.8
+12:52
+MC LYMPH# 03/03/23 0.6 01/05/22 1.3
+12:52
+Diagnostic Results
+CT Cervical Spine Routine UN
+
+MAR/03/23 13:05:00
+Impression: No acute fracture of the cervical spine.
+
+CT Head UN
+
+MAR/03/23 13:08:00
+Impression: No acute intracranial abnormality.
+
+AMH
+
+Hips Bilat
+
+MAR/03/23 13:05:00
+Impression: Stable chronic healed fracture deformity of the
+left femoral neck. No acute fracture identified. Stable
+degenerative changes. Osteopenia limits assessment of the
+sacrum.
+
+Portable Chest
+
+MAR/03/23 13:01:00
+Impression: Chronic interstitial changes of the lungs.
+ECG
+EKG interpreted contemporaneously by ED physician
+shows: Normal sinus rhythm, left axis deviation, normal
+PR, QRS, QTc. Nonspecific ST and T wave changes. No
+evidence of acute ischemia. No significant change from
+EKG 2 years ago.
+
+Signature Line
+
+Electronically Signed By
+Boreham, Alex DO
+on 03.03.2023 14:53
+
+Completed Action List:
+* Perform by Boreham, Alex DO on March 03, 2023 12:56 EST
+* Modify by Boreham, Alex DO on March 03, 2023 14:53 EST
+* Sign by Boreham, Alex DO on March 03, 2023 14:53 EST Requested by Boreham, Alex DO on March 03, 2023 12:56 EST
+* VERIFY by Boreham, Alex DO on March 03, 2023 14:53 EST
+

@@ -1,0 +1,508 @@
+
+DOCUMENT TYPE: ED Physician Notes
+SERVICE DATE/TIME: 8/11/2023 16:23 EDT
+RESULT STATUS: Auth (Verified)
+PERFORM INFORMATION: Fisher ,Allen M DO (8/11/2023 16:23 EDT)
+SIGN INFORMATION: Fisher ,Allen M DO (8/11/2023 16:23 EDT)
+
+Chief Complaint
+per PMD changes on pt EKG since last EKG pt denies symptoms
+History of Present Illness
+Date/Time Seen: 08/11/2023 15:11:28
+
+Patient Provided History: Yes
+Interpreter used: No
+History limitation: None
+Independent History Source:
+
+Chief Complaint: Reason for Visit Narrative: per PMD changes on pt EKG since last
+EKG pt denies symptoms (08/11/23 15:01:00)
+Mode of Arrival: ED Mode of Arrival: Ambulatory/WC/Carried (08/11/23 15:01:00)
+PCP: Primary Care Physician: None found.
+Birth Sex: female
+Administrative Sex: Female
+
+HPI: Patient is a 75 Years old Female presenting with a complaint of abnormal EKG.
+Patient states that she has been having emotional distress over some anxiety related to
+caring for a loved 1 who is related to her nieces by blood but not to her. Patient got an
+argument with her nieces and subsequently has been feeling the lump in your throat
+when feel acute on a cry for the last several days. Currently she is asymptomatic from
+that standpoint went to see her doctor concerned about the stress and her doctor did an
+EKG. There were notable changes on the EKG so the doctors are in the emergency
+room. Patient Nuys any chest pain or shortness of breath denies nausea or vomiting..
+
+Physical Exam
+Vitals & Measurements
+Initial:
+T: 98 °F (Oral) HR: 66 (Peripheral) BP: 153/74 RR: 18 SpO2: 98%
+WT: 82 kg BMI: 31
+
+Latest:
+HR: 57 (Peripheral) BP: 132/65 RR: 21 SpO2: 93%
+General: alert, no acute distress.
+ENT: Mucous membranes moist
+Cardiovascular: regular rate and rhythm, normal peripheral perfusion.
+Respiratory: Lungs CTA, respirations non labored.
+Extremities: no deformity, no trauma.
+Neurological: oriented x4, LOC appropriate for age
+Medical Decision Making
+Differential Diagnosis: Left bundle branch block, conduction abnormality, underlying
+coronary disease
+
+Consideration of Admission/Observation:
+
+Chronic conditions affecting care:
+
+MDM Rationale: Patient presented to the emergency room from her primary care
+physician's office where an EKG was performed and noted to be different than priors.
+Patient is asymptomatic was sent to the emergency room for evaluation. EKG revealed
+left bundle branch block. Patient is not having chest pain or shortness of breath patient
+be discharged home to follow-up with a cardiologist
+
+Discussion of management with other physician/healthcare provider: []
+
+-
+
+External Notes Reviewed:
+
+-
+
+Independent Interpretation:
+EKG performed on 8/11/2023 at 1503: My independent interpretation is: Is a normal
+sinus rhythm rate of 64. There is left axis deviation and findings consistent with a left
+bundle branch block.
+Rhythm Strip: My independent interpretation is: n/a
+X-ray: My independent interpretation is: n/a
+Ultrasound: My independent interpretation is: n/a
+CT: My independent interpretation is: n/a
+
+Discussion of Radiology Result with Radiologist:
+
+Testing considered but not performed:
+The following testing was considered but ultimately not selected after discussion with
+patient/family: n/a
+
+Prescription medication was considered but ultimately not given after discussion
+with patient/family:
+I considered prescription management with: n/a
+
+Patient's care significantly limited by Social Determinants of Health including: []
+Behavioral Health:
+Initial CSSRS: CSSRS Suicide Risk Level
+No qualifying data available.
+CSSRS Re-evaluation: n/a
+
+Sepsis: n/a
+
+Stroke: n/a
+
+STEMI: n/a
+
+Assessment/Plan
+Diagnosis List
+1. Abnormal EKG (Abnormal electrocardiogram [ECG] (EKG))(R94.31)
+Medical screening exam (Medical screening
+xam)(ECA063B9-B39D-4A2B-9825-138BBC0833AB)
+Orders:
+Cardiac Monitor
+Chest Pain PowerPlan Initiated
+Discharge Patient
+IV Reseal Insertion/Care
+Oxygen Therapy
+Pulse Oximetry
+Troponin hs 2hr
+Vital Signs
+Primary Diagnosis Statement: n/a
+
+Condition: stable
+Medically Cleared: n/a
+Disposition: Discharged
+Counseled: Patient regarding diagnosis, results and treatment plan.
+
+Discharge Prescriptions:
+
+Controlled Substance Prescribed: No
+Acute Pain Exception:
+E-Prescribe: n/a
+
+Emergency Medical Condition Attestation:
+I hereby attest that, upon arrival in the Emergency Department, the patient met the
+definition of Emergency Medical Condition pursuant to Florida Statute 627.732 (16)
+which states:
+
+"Emergency medical condition" means a medical condition manifesting itself by acute
+symptoms of sufficient severity, which may include severe pain, such that the absence
+of immediate medical attention could reasonably be expected to result in any of the
+following:
+Financial Assistance
+
+BayCare Health System is committed to meeting the health care needs of the
+of Insurance. For information regarding eligibility for financial assistance with your
+application process, visit BayCareFinancialAssistance.org or call 855-233-1555.
+
+DOCUMENT TYPE: ED Physician
+PERFORMED BY: Fisher ,Allen M DO
+RESULT STATUS: Auth (Verified)
+Allergies
+sulfa drugs (itch)
+Problem List/Past Medical History
+Ongoing
+Abnormal EKG
+Historical
+No qualifying data
+Procedure/Surgical History
+nodules removed from thyroid
+partial hysterectomy
+Social History
+Tobacco
+Tobacco Use: Never a smoker (08/11/23)
+Alcohol
+Denies use
+Substance Abuse
+Denies use
+Lab Results
+Hematology LATEST RESULTS
+WBC 10.8
+
+RBC 4.95
+
+HGB 14.3
+
+HCT 42.8
+
+MCV 86.6
+
+MCH 29.0
+
+MCHC 33.5
+
+RDW 14.3
+
+PLT 303
+
+MPV 8.0
+
+Segs 54.2
+
+Lymphs 36.1
+Mono 6.5
+
+Eos 2.7
+
+Baso 0.5
+
+Neutrophil, Abs. 5.8
+
+Lymph, Abs 3.9
+
+Monocyte, Abs. 0.7
+
+Eosinophil, Abs 0.3
+
+08/11/20
+Basophil, Abs 0.1
+18.28
+
+General Chem LATEST RESULTS
+Sodium 142
+
+Potassium 4.0
+
+Chloride 104
+
+Carbon Dioxide 25
+
+Glucose 08/11/20 107 High
+
+BUN 18
+
+Creatinine 08/11/20 0.736
+
+BUN/Creatinine 08/11/20 24
+
+Calcium 10.0
+
+T Protein 7.7
+
+Albumin 4.7
+
+Globulin 3.0
+
+Alb/Glob 1.6
+
+Bili Total 0.5
+
+Alk Phos 81
+
+ALT 18
+
+AST 17
+
+Anion Gap 08/11/2020 13
+eGFR (Cr) >60
+
+eCrCl (Drug Dosing) 63 Low
+
+AKI Suspected N/A
+
+Cardiac Markers LATEST RESULTS
+6
+Troponin High
+Sensitivity
+
+Diagnostic Results
+Radiology Results (08/10/23 00:00 -
+08/11/23 16:23)
+
+Chest 1V - Diagnostic Imaging
+Performed on: 08/11/2023 16:09
+IMPRESSION: No acute cardiopulmonary
+process.
+
+Electronically signed by Matthew Assing on
+8/11/2023 4:11 PM
+INTERPRETED BY: Matthew Allan Assing
+Finalized On: 08/11/2023 16:13
+communities we serve regardless of ability to pay or lack
+medical expenses at a BayCare facility and the
+
+Notes
+(8/11/2023 16:23 EDT)
+
+ELECTRONICALLY SIGNED BY: Fisher ,Allen M DO (8/11/2023 16:23 EDT)
+
+Chief Complaint
+per PMD changes on pt EKG since last EKG pt denies symptoms
+History of Present Illness
+Date/Time Seen: 08/11/2023 15:11:28
+
+Patient Provided History: Yes
+Interpreter used: No
+History limitation: None
+Independent History Source:
+
+Chief Complaint: Reason for Visit Narrative: per PMD changes on pt EKG since last
+EKG pt denies symptoms (08/11/23 15:01:00)
+Mode of Arrival: ED Mode of Arrival: Ambulatory/WC/Carried (08/11/23 15:01:00)
+PCP: Primary Care Physician: None found.
+Birth Sex: female
+Administrative Sex: Female
+
+HPI: Patient is a 75 Years old Female presenting with a complaint of abnormal EKG.
+Patient states that she has been having emotional distress over some anxiety related to
+caring for a loved 1 who is related to her nieces by blood but not to her. Patient got an
+argument with her nieces and subsequently has been feeling the lump in your throat
+when feel acute on a cry for the last several days. Currently she is asymptomatic from
+that standpoint went to see her doctor concerned about the stress and her doctor did an
+EKG. There were notable changes on the EKG so the doctors are in the emergency
+room. Patient Nuys any chest pain or shortness of breath denies nausea or vomiting..
+
+Physical Exam
+Vitals & Measurements
+Initial:
+T: 98 °F (Oral) HR: 66 (Peripheral) BP: 153/74 RR: 18 SpO2: 98%
+WT: 82 kg BMI: 31
+Latest:
+HR: 57 (Peripheral) BP: 132/65 RR: 21 SpO2: 93%
+General: alert, no acute distress.
+ENT: Mucous membranes moist
+Cardiovascular: regular rate and rhythm, normal peripheral perfusion.
+Respiratory: Lungs CTA, respirations non labored.
+Extremities: no deformity, no trauma.
+Neurological: oriented x4, LOC appropriate for age
+Medical Decision Making
+Differential Diagnosis: Left bundle branch block, conduction abnormality, underlying
+coronary disease
+
+Consideration of Admission/Observation:
+
+Chronic conditions affecting care:
+
+MDM Rationale: Patient presented to the emergency room from her primary care
+physician's office where an EKG was performed and noted to be different than priors.
+Patient is asymptomatic was sent to the emergency room for evaluation. EKG revealed
+left bundle branch block. Patient is not having chest pain or shortness of breath patient
+be discharged home to follow-up with a cardiologist
+
+Discussion of management with other physician/healthcare provider: []
+
+External Notes Reviewed:
+
+Independent Interpretation:
+EKG performed on 8/11/2023 at 1503: My independent interpretation is: Is a normal
+sinus rhythm rate of 64. There is left axis deviation and findings consistent with a left
+bundle branch block.
+Rhythm Strip: My independent interpretation is: n/a
+X-ray: My independent interpretation is: n/a
+Ultrasound: My independent interpretation is: n/a
+CT: My independent interpretation is: n/a
+
+Discussion of Radiology Result with Radiologist:
+
+Testing considered but not performed:
+The following testing was considered but ultimately not selected after discussion with
+patient/family: n/a
+
+Prescription medication was considered but ultimately not given after discussion
+with patient/family:
+I considered prescription management with: n/a
+
+Patient's care significantly limited by Social Determinants of Health including: []
+
+-
+
+Behavioral Health:
+Initial CSSRS: CSSRS Suicide Risk Level
+No qualifying data available.
+CSSRS Re-evaluation: n/a
+
+Sepsis: n/a
+
+Stroke: n/a
+
+STEMI: n/a
+
+Assessment/Plan
+Diagnosis List
+1. Abnormal EKG (Abnormal electrocardiogram [ECG] (EKG))(R94.31)
+Medical screening exam (Medical screening
+am)(ECA063B9-B39D-4A2B-9825-138BBC0833AB)
+Orders:
+Cardiac Monitor
+Chest Pain PowerPlan Initiated
+Discharge Patient
+IV Reseal Insertion/Care
+Oxygen Therapy
+Pulse Oximetry
+Troponin hs 2hr
+Vital Signs
+Primary Diagnosis Statement: n/a
+
+Condition: stable
+Medically Cleared: n/a
+Disposition: Discharged
+Counseled: Patient regarding diagnosis, results and treatment plan.
+
+Discharge Prescriptions:
+
+Controlled Substance Prescribed: No
+Acute Pain Exception:
+E-Prescribe: n/a
+Allergies
+sulfa drugs (itch)
+Problem List/Past Medical History
+Ongoing
+Abnormal EKG
+Historical
+No qualifying data
+Procedure/Surgical History
+nodules removed from thyroid
+partial hysterectomy
+Social History
+Tobacco
+Tobacco Use: Never a smoker (08/11/23)
+Alcohol
+Denies use
+Substance Abuse
+Denies use
+Lab Results
+Hematology LATEST RESULTS
+WBC 10.8
+
+RBC 4.95
+
+HGB 14.3
+
+HCT 42.8
+
+MCV 86.6
+
+MCH 29.0
+MCHC 08/11/20 33.5
+
+RDW 14.3
+
+PLT 303
+
+MPV 8.0
+
+Segs 54.2
+
+Lymphs 36.1
+
+Mono 6.5
+
+Eos 2.7
+
+Baso 0.5
+
+Neutrophil, Abs 5.8
+
+Lymph, Abs. 3.9
+
+Monocyte, Abs. 0.7
+
+Eosinophil, Abs. 0.3
+
+Basophil, Abs 0.1
+
+General Chem LATEST RESULTS
+Sodium 142
+
+Potassium 4.0
+
+Chloride 104
+
+Carbon Dioxide 25
+
+Glucose 107 High
+
+BUN 18
+
+Creatinine 0.736
+
+BUN/Creatinine 08/11/23 24
+
+Calcium 08/11/20 10.0
+
+T Protein 7.7
+
+Albumin 4.7
+
+Globulin 3.0
+Alb/Glob 08/11/2020 1.6
+
+Bili Total 0.5
+
+Alk Phos 81
+
+ALT 18
+
+AST 17
+
+Anion Gap 13
+
+eGFR (Cr) >60
+
+eCrCl (Drug Dosing) 63 Low
+
+AKI Suspected N/A
+
+Cardiac Markers LATEST RESULTS
+Troponin High 6
+Sensitivity 16.28
+
+Diagnostic Results
+Radiology Results (08/10/23 00:00 -
+08/11/23 16:23)
+
+Chest 1V - Diagnostic Imaging
+Performed on: 08/11/2023 16:09
+IMPRESSION: No acute cardiopulmonary
+process.
+
+Electronically signed by Matthew Assing on
+8/11/2023 4:11 PM
+INTERPRETED BY: Matthew Allan Assing
+Finalized On: 08/11/2023 16:13
+

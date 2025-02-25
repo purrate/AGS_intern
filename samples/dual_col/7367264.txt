@@ -1,0 +1,420 @@
+
+* Final Report *
+
+DATE/TIME NOTE CREATED:
+08/25/2023 23:56:06
+DATE/TIME PATIENT SEEN:
+Time seen: No qualifying data
+History Source: Patient [ and grandmother ]
+Arrival Mode: No qualifying data available.
+History Limitation: None
+Additional Information:
+CHIEF COMPLAINT:
+Left sided abdominal pain onset about one hour prior to arrival.
+HISTORY OF PRESENT ILLNESS:
+Pt is a 11 year old male who presents to the ED with c/o LLQ abdominal pain. Pt states his pain onset at
+22:00 this evening. Pt states his pain is only felt when walking but started when he was sitting at the
+piano. Pt denies any penile or testicular pain. Pt also denies any fever, chills, N/V, urinary SXS, and any
+flu like SXS.
+
+PMHx: ADHD
+PSHx: None
+Social Hx: Lives at home
+PCP: Roberto Canales
+REVIEW OF SYSTEMS:
+Constitutional symptoms:
+no fever
+no chills
+Skin symptoms:
+no rash
+Eye symptoms:
+no discharge.
+ENMT symptoms:
+no ear pain,
+no sore throat
+Respiratory symptoms:
+no shortness of breath
+no cough
+Cardiovascular symptoms:
+no chest pain.
+Gastrointestinal symptoms:
+LLQ abdominal pain when walking
+no nausea
+no vomiting
+no diarrhea
+no constipation
+Genitourinary symptoms:
+no dysuria
+no hematuria
+Musculoskeletal symptoms:
+no trauma
+no back pain
+LLQ abdominal pain when walking
+Neurologic symptoms:
+no headache
+no dizziness
+Psychiatric symptoms:
+no substance abuse.
+
+Additional review of systems information: All other systems reviewed and otherwise negative.
+
+I reviewed nurse's notes.
+PHYSICAL EXAM:
+VITAL SIGNS:
+Vital Signs: Last Charted:
+Temperature Oral 36.9 degC (08/25 23:56)
+Heart Rate 94 bpm (08/25 23:56)
+Pulse/HR Method Monitor (08/25 23:56)
+Respiratory Rate 18 breaths/min (08/25 23:56)
+Systolic BP 115 mmHg (08/25 23:56)
+Diastolic BP 82 mmHg (H) (08/25 23:56)
+Mean Arterial Pressure 93 mmHg (H) (08/25 23:56)
+Blood Pressure Location Right, Upp (08/25 23:56)
+Blood Pressure Method Automatic (08/25 23:56)
+SpO2/Pulse Oximetry 97 % (08/25 23:56)
+17
+Dosing BMI (08/25 23:56)
+Pulse oximetry Interpretation: Normal on room air
+General: Alert, appropriate for age, no acute distress.
+Skin: Warm, dry, intact, no pallor, normal for ethnicity.
+Head: Normocephalic, atraumatic.
+Neck: trachea midline, no large visible masses.
+Eye: normal conjunctiva,
+Ears, nose, mouth and throat: Oral mucosa moist.
+Cardiovascular: regular rhythm, Signs of normal peripheral perfusion.
+Respiratory: Respirations are non-labored, Symmetrical chest wall expansion.
+Chest wall: No deformity.
+Back: No deformity, no obvious step-offs.
+Musculoskeletal: no swelling, no deformity.
+
+Gastrointestinal: Soft, Nontender, Non distended; No guarding, rebound tenderness, or rigidity.
+Genitourinary: Deferred AS CHILD REFUSED
+
+Neurological: No focal neurological deficit observed, normal motor
+observed, normal speech observed, normal coordination observed, Alert and oriented
+appropriate to age, CN grossly intact appropriate to age.
+Lymphatics: No lymphadenopathy.
+Psychiatric: cooperative
+MEDICAL DECISION MAKING:
+
+Differential Diagnosis (Ddx) includes:
+groin sprain
+constipation
+muscle cramp
+
+Nurses notes: The history from nurses notes was reviewed and I agree with what is documented.
+
+A) Complexity of Problems: High
+1) 1 or more chronic illnesses with severe exacerbation, progression, or side effects of treatment:
+-Acute exacerbation/progression of chronic illness:
+or
+2) 1 acute or chronic illness or injury that poses a threat to life or bodily function:
+--Acute: LLQ pain
+--Chronic: Constipation
+
+B) Data Analyzed: Extensive
+(Need 2 of 3 categories)
+
+Category 1: Tests, documents, or independent historian(s)
+* Any combination of 3 from the following:
+1) Review of prior external note(s) from each unique source (not from same ED):
+--Reviewed external note: None.
+2) Ordering of each unique test:
+-- no labs
+--Imaging ordered: XR Abdomen 2 Views
+3)Review of the result(s) of each unique tests:
+
+Laboratory values were independently reviewed and interpreted by this Emergency
+Physician.
+Imaging results were independently reviewed and interpreted by this
+Emergency Physician.
+EKG was independently reviewed and interpreted by this Emergency Physician.
+
+--Abnormal labs results include:
+--Abnormal imaging results include:
+Constipation.
+
+-Abnormal EKG results include:
+
+4) Assessment requiring an independent historian(s):
+--History obtained from Pt and grandmother.
+or
+Category 2: Independent interpretation of tests
+Independent interpretation of a test performed by another physician:
+-- N/A
+or
+Category 3: Discussion of management or test interpretation with external physician/appropriate
+source:
+-- N/A
+
+C) Risk of Management: High Risk Examples
+1) Drug therapy requiring intensive monitoring for toxicity:
+-- N/A
+2) Decision regarding elective major surgery with identified patient or procedure risk factors:
+-- N/A
+3) Decision regarding emergency major surgery:
+-- N/A
+4) Decision not to resuscitate or to de-escalate care because of poor prognosis:
+-- N/A
+5) Parenteral controlled substances:
+-- N/A
+
+D)
+1) Were prescription drugs managed?:
+-- N/A
+2) How did social determinants affect management?:
+N/A
+CONSTIPATION ON XRAY, HAD HIM JUMP UP AND DOWN ON HIS HEELS AND NO ABD TTP ON MY
+EXAM. NO SIGNS OF TORSION OR APPENDICITIS AT THIS TIME BUT GAVE STRICT PRECAUTIONS!!!!
+Denies fever/chills/nausea/vomiting/diarrhea/constipation/dark tarry or
+bloody stools/cp/sob/cough/ent/back pain/headache/dysuria/hematuria. GRANDMOTHER
+UNDERSTANDS PRECAUTIONS. Patient better. Discharged with precautions. Agrees with
+disposition and plan. Return for worsening condition.
+
+REEXAMINATION/REEVALUATION:
+08/26/2023 00:38
+Pt is feeling better. Pt jumped up and down with no pain.
+
+08/26/2023 00:41
+Date Time Vital Sign(s) Result(s)
+08/26/23 00:42:00 MDT Dosing BMI 17
+08/26/23 00:20:00 MDT Heart Rate 97 bpm
+Respiratory Rate 16 breaths/min
+Systolic BP 91 mmHg
+Diastolic BP 61 mmHg
+Mean Arterial Pressure 71 mmHg
+SpO2/Pulse Oximetry 97 %
+08/26/23 00:15:00 MDT SpO2/Pulse Oximetry 96 %
+08/26/23 00:12:00 MDT Heart Rate 107 (H) bpm
+Respiratory Rate 16 breaths/min
+Systolic BP 93 mmHg
+Diastolic BP 69 mmHg
+Mean Arterial Pressure 77 mmHg
+SpO2/Pulse Oximetry 96 %
+08/25/23 23:56:00 MDT Temperature Oral 36.9 degC
+Heart Rate 94 bpm
+Pulse/HR Method Monitor
+Respiratory Rate 18 breaths/min
+Systolic BP 115 mmHg
+Diastolic BP 82 (H) mmHg
+Mean Arterial Pressure 93 (H) mmHg
+Blood Pressure Location
+Right, Upp
+Blood Pressure Method Automatic
+SpO2/Pulse Oximetry 97 %
+Dosing BMI 17
+08/25/23 23:55:00 MDT Respiratory Rate 16 breaths/min
+Systolic BP 109 mmHg
+Diastolic BP
+74 mmHg
+97 %
+SpO2/Pulse Oximetry
+08/25/23 23:50:00 MDT Respiratory Rate 17 breaths/min
+Systolic BP 115 mmHg
+Diastolic BP
+82 (H) mmHg
+97 %
+SpO2/Pulse Oximetry
+
+Pt reevaluation. EDMD at bedside. Pt is feeling better. Pt's results discussed at bedside. Questions
+answered, and Pt reassured. Advised f/u with PCP. Pt given precautions to return. Pt in NAD, VSS,
+verbally affirms understanding and agrees with treatment plans, f/u instructions, and discharge.
+IMPRESSION/PLAN:
+Abdominal pain, LLQ (left lower quadrant) R10.32
+Constipation K59.00
+Orders:
+Discharge Patient
+Primary Assessment
+Screenings/History Peds
+Triage Part 1
+Triage Part 2
+XR Abdomen 2 Views
+DISPOSITION:
+08/26/2023 00:41
+Discharge home
+Condition stable
+
+Discharge Medications (3) Order Details Status
+New
+acetaminophen (Tylenol Childrens 160 15.5 milliliter(s) Oral Every 6 New
+mg/5 mL oral suspension) hours for 7 day(s). as needed
+for pain/fever; weight 34 kg.
+Refills: 0.
+ibuprofen (Motrin Childrens 100 mg/5 mL 17 milliliter(s) Oral Every 6 New
+oral suspension) hours for 7 day(s). as needed
+for pain/fever; weight 34 kg.
+Refills: 0.
+polyethylene glycol 3350 (MiraLax oral 8.5 gram Oral Daily as needed New
+powder for reconstitution) Constipation for 14 day(s).
+dissolve in water before taking.
+Refills: 0.
+PATIENT EDUCATION:
+Abdominal Pain, Pediatric(Spanish)
+FOLLOW UP:
+With When Contact Information
+ALDO MASPONS Within 3-5 days 100 E. SCHUSTER
+EL PASO, TX 79902-
+831-627-7667 Business (1)
+Additional Instructions:
+ROBERTO CANALES Within 3-5 days 1733 CURIE SUITE 103
+EL PASO, TX 79902-
+(915) 532-2985 Business (1)
+Additional Instructions:
+
+ATTESTATION:
+By signing my name below, I, Violeta Amaya, attest that this documentation has been prepared under
+the direction and in the presence of Dr. Achalla. Electronically signed: Violeta Amaya, Scribe.
+Date: 08/26/2023 00:03:35
+
+I, Dr. Madhu Achalla, personally performed the services described in this documentation. All medical
+record entries made by the scribe were at my direction and in my presence. I have reviewed the chart
+and discharge instructions and agree that the record reflects my personal performance and is accurate
+and complete.
+PROBLEM LIST/PAST
+MEDICAL HISTORY:
+Ongoing
+ADHD (Patient Stated)
+Historical
+No qualifying data
+
+PROCEDURE/SURGICA
+HISTORY:
+None
+SOCIAL HISTORY:
+Tobacco
+Tobacco Use: Never
+smoker.
+FAMILY HISTORY:
+Diabetes mellitus type 2:
+Grandparent.
+MEDICATIONS ORDER
+No qualifying data availab
+MEDICATIONS
+ADMINISTERED:
+Given
+Motrin, 347 mg, Oral
+HOME MEDICATIONS:
+New
+acetaminophen (Tyle
+Childrens 160 mg/5
+oral suspension) 15,5
+milliliter(s) Oral Every 6
+hours for 7 day(s). as
+needed for pain/fever;
+weight 34 kg. Refills: 0.
+ibuprofen (Motrin
+Childrens 100 mg/5
+oral suspension) 17
+milliliter(s) Oral Every 6
+hours for 7 day(s). as
+needed for pain/fever;
+weight 34 kg. Refills: 0.
+polyethylene glycol
+3350 (MiraLax oral
+powder for
+reconstitution) 8.5 gr
+Oral Daily as needed
+Constipation for 14 day
+dissolve in water before
+taking. Refills: 0.
+
+Unchanged
+cloNIDine (cloNIDino
+0.1 mg oral tablet)
+dexmethylphenidate
+(Focalin XR 15 mg or
+capsule, extended
+release)
+fluticasone nasal
+(Flonase 0.05 mg/inl
+nasal spray) 1 spray(s
+Nasal Twice daily for 30
+day(s). Refills: 3.
+ondansetron (Zofran
+ODT 4 mg oral tablet
+disintegrating) 0.5 ta
+(s) Oral Every 6 hours
+scheduled as needed
+Nausea and/or Vomiting
+3 day(s). allow tablet to
+dissolve on tongue. Ref
+0.
+sodium chloride nasa
+(Ayr Saline Mist 0,65
+nasal spray) 1 spray(s
+Each Nostril Twice daily
+30 day(s). Refills: 3.
+
+ALLERGIES:
+NKA
+RADIOLOGY/DIAGNOS
+RESULTS:
+Radiology - Last 36 ho
+(1)
+XR Abdomen 2
+Views (08/26 00:19)
+FINDINGS:
+LOWER THORAX: Visualiz
+inferior lungs clear. No
+pleural fluid seen. Visuali:
+cardiothymic silhouette no
+enlarged.
+INTRAPERITONEAL SPACI
+No pneumoperitoneum S
+GASTROINTESTINAL TRA
+Significant fecal retention
+without apparent bowel
+obstruction. No bowel
+pneumatosis identified.
+BONES/JOINTS: No acute
+bony abnormality seen.
+OTHER FINDINGS: No
+abnormal calcifications
+projected over the abdom
+or pelvis.
+
+IMPRESSION:
+
+Significant fecal retentio
+without apparent bowel
+obstruction.
+
+Thank you for allowing us
+participate in the care of t
+patient.
+
+Diagnostics - Non-
+Radiology - Last 36 ho
+(0)
+No results in past 36 hour
+
+Signature Line
+Electronically Signed On 08.26.23 01:10 MDT
+
+Amaya, Violeta
+Electronically Signed On 08/27/23 23:26 MDT
+
+ACHALLA M.D., MADHU
+
+Completed Action List:
+* Perform by Amaya, Violeta on August 25, 2023 23:56 MDT
+Modify by Amaya, Violeta on August 26, 2023 00:01 MDT
+* Modify by Amaya, Violeta on August 26, 2023 00:04 MDT
+* Modify by Amaya, Violeta on August 26, 2023 00:10 MDT
+* Modify by Amaya, Violeta on August 26, 2023 01:09 MDT
+* Modify by Amaya, Violeta on August 26, 2023 01:10 MDT
+* Sign by Amaya, Violeta on August 26, 2023 01:10 MDT Requested by Amaya, Violeta on
+August 25, 2023 23:56 MDT
+* Modify by ACHALLA M.D., MADHU on August 26, 2023 02:25 MDT
+* Sign by ACHALLA M. D., MADHU on August 27, 2023 23:26 MDT Requested by Amaya, Violeta
+on August 26, 2023 01:10 MDT
+* VERIFY by ACHALLA M.D., MADHU on August 27, 2023 23:26 MDT
+
+Result type: ED Note-Physician
+Result date: August 26, 2023 00:56 CDT
+Result status: Auth (Verified)
+Result title: ED Note
+Performed by: Amaya, Violeta on August 25, 2023 23:56 MDT
+Verified by: ACHALLA M.D., MADHU on August 27, 2023 23:26 MDT
+Encounter info: 027162312, SIE, 3 - Emergency, 08/25/2023 - 08/26/2023
+

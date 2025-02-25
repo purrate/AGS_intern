@@ -1,0 +1,269 @@
+
+* Final Report *
+
+DATE/TIME NOTE CREATED:
+08/25/2023 18:30:37
+DATE/TIME PATIENT SEEN:
+Time seen: No qualifying data
+History was from obtained independent historian: Patient
+Patient arrived via: Private Vehicle
+History Limited due to: None
+CHIEF COMPLAINT:
+vag itching and discharge, bleeding. Recent std tx
+HISTORY OF PRESENT ILLNESS:
+27 y/o female presents to the ED wanting the results of her STD tests. Pt
+reports being here in the ED but unsure of when and wasn't given the
+results. She believes her sexual partner knew he was carrying but didn't tell
+her.
+REVIEW OF SYSTEMS:
+Constitutional symptoms: no fever, no chills.
+Skin symptoms: no rash.
+Eye symptoms: no discharge.
+ENMT symptoms: no nasal congestion.
+Respiratory symptoms: no shortness of breath.
+Cardiovascular symptoms: no chest pain.
+Gastrointestinal symptoms: no nausea, no vomiting.
+Genitourinary symptoms: no dysuria, no hematuria.
+Musculoskeletal symptoms: Reports: no trauma.
+Neurologic symptoms: no altered level of consciousness.
+Additional review of systems information: Positive or negative
+as noted in HPI and ROS, otherwise reviewed and negative or not
+pertinent.
+PHYSICAL EXAM:
+VITAL SIGNS:
+Vital Signs: Last Charted:
+Temperature Temporal 36.6 degO (08/25 18:15)
+Heart Rate 88 bpm (08/25 18:15)
+Respiratory Rate 18 breaths/min (08/25 18:15)
+Systolic BP 112 mmHg (08/25 18:15)
+Diastolic BP 62 mmHg (08/25 18:15)
+Mean Arterial Pressure 79 mmHg (08/25 18:15)
+SpO2/Pulse Oximetry 99 % (08/25 18:15)
+Dosing BMI 31 (08/25 18:15)
+SpO2 Interpretation: Normal on Room Air.
+General: Alert, no acute distress.
+Skin: Warm, dry.
+Head: Normocephalic, atraumatic.
+Neck: Supple, trachea midline, no tenderness.
+Eye: Normal conjunctiva, normal sclera.
+Ears, nose, mouth and throat: Normal oral mucosa, moist mucous
+membranes, External ear: Bilateral, normal, Nose: Bilateral nares, normal.
+Cardiovascular: Regular rate and rhythm, No murmur, No edema, no
+gallop, No cardiac rub, Arterial pulses: Bilateral, dorsalis pedis, 2+.
+Respiratory: Respirations: Regular, Breath sounds: clear throughout, no
+crackles present, no rales present, no rhonchi present, no wheezes
+present.
+Chest wall: No tenderness, No deformity.
+Back: Nontender, Normal range of motion, No CVA tenderness.
+Musculoskeletal: Normal ROM, normal strength, no tenderness, no
+swelling.
+Gastrointestinal: Soft, Nontender, No guarding, No rebound, Non
+distended, Normal bowel sounds.
+Lymphatics: No lymphadenopathy.
+Neurological: Alert and oriented to person, place, time, and situation,
+normal motor observed.
+Psychiatric: Cooperative, appropriate mood & affect.
+MEDICAL DECISION MAKING:
+This is a 27 y/o female here with for her STD results. Pt is in no acute
+distress and is in stable condition. Alternate history obtained from
+an independent historian: n/a.
+
+Illnesses evaluated and complexity (list with severity)
+Acute: STD results
+Chronic: n/a
+
+Plan:
+1. Labs: none
+2. Radiology: none
+3. Medications: Rocephin, Zithromax
+
+Documents Reviewed: Nurses notes: The history from nurses notes
+was reviewed and I agree with what is documented.
+
+Review of external records performed: None were available for
+review
+
+Social determinants of health: None were identified
+
+Decision to de-escalate care and discharge to previous living
+arrangement was made d/t: stable acute.
+
+Rationale: Discharge
+REEXAMINATION/REEVALUATION:
+08/25/2023 18:44:07
+Reassessment at the time of disposition demonstrates that the pt is in no
+acute distress. Patient has remained hemodynamically stable throughout
+the entire ED visit and is without objective evidence for acute process
+requiring urgent intervention or hospitalization. The pt is stable for
+discharge, counseling is provided as documented below, discussed
+symptomatic treatment and specific conditions for return. Agrees with
+course of tx and need for out pt f/u if symptoms continue. Pt is VSS and
+ready to be d/c home.
+Date Time Vital Sign(s) Result(s)
+08/25/23 18:15:00 Temperature Temporal 36.6 degC
+MDT
+Heart Rate 88 bpm
+Respiratory Rate 18 breaths/min
+Systolic BP 112 mmHg
+Diastolic BP 62 mmHg
+Mean Arterial Pressure 79 mmHg
+SpO2/Pulse Oximetry 99 %
+Dosing BMI 31
+
+IMPRESSION/PLAN
+Acute lower UTI (urinary tract infection) N39.0
+Chlamydia infection A74.9
+Trichimoniasis A59.9
+Orders:
+Decision to Discharge
+Decision to Discharge
+Primary Assessment
+Screenings/History Adults
+Triage Part 1
+Triage Part 2
+DISPOSITION:
+Patient condition: Stable
+
+Disposition:
+Discharge Home at 19:00
+
+Counseled:
+Patient was counseled regarding diagnostics, treatment plan, diagnosis and
+prescriptions. Patient understood.
+
+PATIENT EDUCATION:
+Urinary Tract Infection, Adult, Easy-to-Read
+Trichomoniasis
+Chlamydia, Female
+FOLLOW UP:
+With When Contact Information
+ANNA JEZARI Within 3-5 days 1300 MURCHISON STE
+100
+EL PASO, TX 79902-
+(915) 577-9090 Busine
+SS (1)
+Additional Instructions:
+
+ATTESTATION:
+By signing my name below, I, Idalia Reyes, attest that this documentation
+has been prepared under the direction and in the presence of Dr. Kenneth
+Berumen, EDMD Electronically Signed: Idalia Reyes, Scribe 08/25/2023
+
+I, Kenneth Berumen, personally performed the services described in this
+documentation. All medical record entries made by the scribe were at my
+direction and in my presence. I have reviewed the chart and discharge
+instructions and agree that the record reflects my personal performance
+and is accurate and complete. Kenneth Berumen, MD
+PROBLEM LIST/PAST MEDICAL HISTORY:
+Ongoing
+Bipolar 1 disorder (Patient Stated)
+Historical
+No qualifying data
+
+SOCIAL HISTORY:
+Home/Environment
+Human Trafficking Red Flags None.
+Substance Abuse
+Use: Denies use.
+Tobacco
+Tobacco Use: Never smoker.
+MEDICATIONS ORDERED:
+No qualifying data available
+MEDICATIONS ADMINISTERED:
+Given
+Rocephin, 1 g, IntraMuscular
+Zithromax, 1000 mg, Oral
+HOME MEDICATIONS:
+Unchanged
+brompheniramine/dextromethorphan/PSE
+(Bromfed DM oral syrup) 10 milliliter(s) Oral
+Three times a day. Refills: 0.
+brompheniramine/dextromethorphan/PSE
+(Bromfed DM oral syrup) 10 milliliter(s) Oral
+Three times a day as needed Cough. Refills: 0.
+prompheniramine/dextromethorphan/PSE
+(Bromfed DM oral syrup) 10 milliliter(s) Oral
+Three times a day. Refills: 0.
+brompheniramine/dextromethorphan/PSE
+(Bromfed DM oral syrup) 10 milliliter(s) Oral
+Three times a day. Refills: 0.
+docusate (Dulcolax Stool Softener 100 mg
+oral capsule) 1 capsule(s) Oral Twice daily as
+needed for constipation for 30 day(s). Refills: 0.
+fluticasone nasal (Flonase 0.05 mg/inh
+nasal spray) 1 spray(s) Nasal Twice daily.
+Refills: 0.
+fluticasone nasal (Flonase 0.05 mg/inh
+nasal spray) 1 spray(s) Nasal Twice daily.
+Refills: 0.
+ibuprofen (ibuprofen 600 mg oral tablet) 1
+tablet(s) Oral Every 8 hours scheduled. Refills:
+0.
+lidocaine topical (Lidocaine Viscous 2%
+mucous membrane solution) 1 application
+(s) Topical Four times daily as needed for
+mouth sore pain. Refills: 0.
+magic mouthwash (Magic Mouthwash oral
+suspension) 10 mL Swish and Spit QID 1:1:1
+visous lidocaine, Maalox, Benadryl. Refills: 0.
+naproxen (Naprosyn 500 mg oral tablet) 1
+tablet(s) Oral Twice daily. Refills: 0.
+ondansetron (Zofran 4 mg oral tablet) 1
+tablet(s) Oral Every 6 hours scheduled as
+needed Nausea and/or Vomiting. Refills: 0.
+ondansetron (Zofran 4 mg oral tablet) 1
+tablet(s) Oral Every 6 hours scheduled as
+needed Nausea and/or Vomiting for 2 day(s).
+Refills: 0.
+oxymetazoline nasal (Afrin Nasal Sinus
+0.05% spray) 2 spray(s) Nasal Twice daily.
+Refills: 0.
+oxymetazoline nasal (Afrin Nasal Sinus
+0,05% spray) 2 spray(s) Nasal Twice daily.
+Refills: 0.
+oxymetazoline nasal (Afrin Nasal Sinus
+0.05% spray) 2 spray(s) Nasal Twice daily.
+Refills: 0.
+phenol topical (Chloraseptic Citrus 1.4%
+topical spray) 5 spray Oral. Refills: 0.
+
+ALLERGIES:
+Afrin
+RADIOLOGY/DIAGNOSTIC RESULTS:
+Radiology - Last 36 hours (0)
+No results in past 36 hours
+
+Diagnostics - Non-Radiology - Last 36 hours
+(0)
+No results in past 36 hours
+
+Signature Line
+Electronically Signed On 08.25.23 19:31 MDT
+
+Reyes, Idalia
+
+Electronically Signed On 08/26/23 08:08 MDT
+
+BERUMEN M.D., KENNETH A
+
+Completed Action List:
+* Perform by Reyes, Idalia on August 25, 2023 18:31 MDT
+Modify by Reyes, Idalia on August 25, 2023 18:36 MDT
+Modify by Reyes, Idalia on August 25, 2023 18:44 MDT
+* Modify by Reyes, Idalia on August 25, 2023 19:31 MDT
+* Sign by Reyes, Idalia on August 25, 2023 19:31 MDT Requested by Reyes, Idalia on
+August 25, 2023 18:31 MDT
+* Modify by BERUMEN M.D., KENNETH A on August 26, 2023 08:08 MDT
+* Sign by BERUMEN M. D., KENNETH A on August 26, 2023 08:08 MDT Requested by Reyes,
+Idalia on August 25, 2023 19:31 MDT
+VERIFY by BERUMEN M.D., KENNETH A on August 26, 2023 08:08 MDT
+
+Result type: ED Note-Physician
+Result date:
+August 25, 2023 19:30 CDT
+Result status: Auth (Verified)
+Result title: STD exposure
+Performed by: Reyes, Idalia on August 25, 2023 18:31 MDT
+Verified by: BERUMEN M.D., KENNETH A on August 26, 2023 08:08 MDT
+Encounter info: 027162223, SIE, 3 - Emergency, 08/25/2023 - 08/25/2023
+

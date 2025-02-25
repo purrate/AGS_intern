@@ -1,0 +1,488 @@
+============================================================================================
+
+WK Medical Center
+2600 Greenwood Road
+Shreveport, LA 71103
+
+Emergency Department Note
+Signed
+
+Patient: JOHNSON JAMES W MR#: D000038768
+DOB: 10/17/1960 Acct:W10084184976
+Age/Sex: 62 / M ED ADM Date: 08/05/23
+Loc: ER ED DIS Date:
+Attending Dr:
+
+CC: ~
+HPI - Back Pain/Injury
+General
+Chief Complaint: Chest Pain
+Stated Complaint:
+BACK PAIN
+Time Seen by Provider: 08/06/23 01:29
+Source: patient, EMS and RN notes reviewed
+Mode of arrival: EMS
+Limitations: no limitations
+History of Present Illness
+HPI Narrative:
+REVIEW EMS REPORT. 62 Y/O M PRESENTS TO THE ED CC R LOW BACK PAIN X TODAY. PT FELL AT
+GROUND LEVEL WHILE WALKING ON THE SIDEWALK. PT USES A CANE TO WALK. PT HAS A HX OF 2
+BACK SURGERIES. PT IS NOT ON ANY PAIN MEDICATIONS. PT IS A SMOKER.
+MD elicited complaint: back pain
+Pertinent past history: back surgery
+Onset (ago): hour(s)
+Timing: constant
+Severity: moderate
+Similar Symptoms Previously: Yes
+Quality: aching
+Location: right lower back
+Radiation: none
+Exacerbating factors: none
+Context: fall
+Associated symptoms: Yes denies other symptoms
+Related Data
+Previous Rx's
+
+Medication Instructions Recorded
+valsartan 40 mg tablet 40 mg ORAL 1XDAY #30 tabs 05/19/23
+albuterol sulfate 90 mcg/actuation 90 puff INHALED Q4H PRN shortness 06/22/23
+aerosol inhaler (ProAir HFA) of breath or wheezing #6 grams
+amlodipine 5 mg tablet 5 mg ORAL 1XDAY #30 tabs 06/22/23
+aspirin 81 mg tablet,delayed 81 mg ORAL 1XDAY #0 tabs 06/22/23
+release
+atorvastatin 20 mg tablet 40 mg ORAL BEDTIME #60 tabs 06/22/23
+clopidogrel 75 mg tablet 75 mg ORAL 1XDAY #30 tabs 06/22/23
+diazepam 5 mg tablet 10 mg ORAL BEDTIME PRN sleep # 14 06/22/23
+tabs
+============================================================================================
+furosemide 20 mg tablet 20 mg ORAL 1XDAY #30 tabs 06/22/23
+magnesium oxide 400 mg (241.3 mg 400 mg ORAL 2XDAY #60 tabs 06/22/23
+magnesium) tablet (MagOx)
+methocarbamol 750 mg tablet 750 mg ORAL Q8H PRN pain #20 tabs 06/22/23
+pantoprazole 40 mg ablet,delayed 40 mg ORAL 1XDAY #30 tabs 06/22/23
+release
+potassium chloride 20 mEq 20 meq ORAL 1XDAY #30 tabs 06/22/23
+tablet,extended release(part/cryst)
+oxycodone-acetaminophen 7.5 mg-325 1 tab ORAL 3XDAY PRN pain (scale 06/23/23
+mg tablet (Percocet) score 7-10) #10 tabs
+albuterol sulfate 90 mcg/actuation 1 inh INHALED 4XDAY PRN shortness 06/30/23
+aerosol inhalen of breath or wheezing #6.7 grams
+tizanidine 4 mg capsule (Zanaflex) 4 mg ORAL 3XDAY PRN muscle 06/30/23
+spasticity #20 caps
+benzonatate 200 mg capsule 200 mg ORAL 4XDAY PRN cough #20 07/03/23
+caps
+ipratropium bromide 17 1 puff INHALED 4XDAY #12.9 grams 07/03/23
+mcg/actuation HFA aerosol inhalen
+(Atrovent HFA)
+theophylline 200 mg 200 mg ORAL 2XDAY #30 caps 07/03/23
+capsule, extended release 24 hr
+carvedilol 25 mg tablet 25 mg ORAL 2XDAY #60 tabs 07/27/23
+finasteride 5 mg tablet 5 mg ORAL BEDTIME #30 tabs 07/27/23
+hyoscyamine sulfate 0.125 mg 0.125 mg SUBLINGUAL 4XDAY PRN 07/27/23
+sublingual tablet abdominal pain #20 tabs
+levofloxacin 500 mg tablet 500 mg ORAL 1XDAY #5 tabs 07/27/23
+metronidazole 500 mg tablet 500 mg ORAL 2XDAY #10 tabs 07/27/23
+tamsulosin 0.4 mg capsule 0.8 mg ORAL 1XDAY@180 #30 caps 07/27/23
+meloxicam 15 mg tablet 15 mg ORAL 1XDAY #30 tabs 08/06/23
+methocarbamol 500 mg tablet 500 mg ORAL 3XDAY PRN MUSCLE SPASM 08/06/23
+#20 tabs
+
+Allergies
+
+Allergy/AdvRead Type Severity Reaction Status Date / Time
+morphine Allergy Severe Hives Verified 07/26/23 21:36
+Sulfa (Sulfonamide Allergy Intermediate Blister Verified 07/26/23 21:36
+Antibiotics)
+
+ROS
+Status of ROS
+10 or more systems reviewed and unremarkable except in HPI and below
+Const.
+Constitutional: Denies: fever(s), chills, change in weight or night sweats
+Head
+Denies: headache and Denies: head injury
+Eyes
+============================================================================================
+Denies: blind spots, eye discomfort, blurred vision, diplopia, discharge, dryness, itching, loss of
+vision, pain, photophobia, redness or swelling
+Ears
+Denies: discharge, hearing impairment, loss of balance, pain, ringing or tinnitus
+Nose
+Denies: epistaxis or rhinorrhea
+Mouth
+Denies: dryness of mouth, Denies: lesion, Denies: ulcer, Denies: mouth pain and Denies: tooth pain
+Throat
+Denies: dysphagia or sore throat
+Neck
+Denies: mass, Denies: neck stiffness, Denies: neck pain and Denies: swelling
+Cardio
+Denies: chest pain, Denies: palpitations, Denies: edema and Denies: syncope
+Breast
+Denies: breast pain and Denies: breast swelling
+Resp.
+Denies: dyspnea, Denies: cough, Denies: stridor, Denies: pain on inspiration, Denies: change in
+phlegm color, Denies: hemoptysis and Denies: snoring
+GI
+Denies: abdominal pain, nausea, vomiting, diarrhea, constipation or hematemesis
+Rectum & Anus
+Denies pain or rectal swelling
+GU
+Denies: dysuria, Denies: urinary frequency and Denies: hematuria
+Musculoskeletal
+Reports: back pain;
+Denies: myalgia
+Peripheral Vascular
+Denies extremity coldness, Denies extremity numbness and Denies claudication
+Neuro
+Denies: headache(s), change of speech, dizziness, memory difficulty or difficulty walking
+Psych
+Denies: anxiety, suicidal ideation, homicidal ideation, depression or hallucination
+Endocrine
+Denies: fatigue
+Allergic & Immuno
+Denies: wheezing
+
+PFSH
+PFSH
+Medical History (Reviewed 08/06/23 @ 02:15 by Reaghen Jones)
+
+Amphetamine abuse
+Amphetamine abuse
+CHF (congestive heart failure)
+Chronic back pain
+COPD (chronic obstructive pulmonary disease)
+CVA (cerebral vascular accident)
+GERD (gastroesophageal reflux disease)
+============================================================================================
+Herpes simplex
+HFrEF (heart failure with reduced ejection fraction)
+History of myocardial infarction
+HLD (hyperlipidemia)
+Hypertension
+Loosening of hardware in spine
+Myocardial infarction
+Noncompliance
+Noncompliance
+Reduced ejection fraction concurrent with and due to acute on chronic heart failure
+Tachycardia
+Tobacco dependence
+
+Surgical History (Reviewed 08/06/23 @ 02:15 by Reaghen Jones)
+
+H/O angioplasty
+History of back surgery
+History of inguinal hernia repair
+History of PTCA
+Hx of CABG
+S/P CABG (coronary artery bypass graft)
+S/P cholecystectomy
+S/P hernia repair
+
+Family History (Reviewed 08/06/23 @ 02:15 by Reaghen Jones)
+Father Deceased
+Heart disease
+Mother Deceased
+Heart disease
+
+Social History (Reviewed 08/06/23 @ 02:15 by Reaghen Jones)
+Lives With: Significant Other/ Support Person
+Community/Outpatient services: None
+What is your current living situation: I presently have a place to live
+Are you now married, widowed, divorced, separated, never married or living with a partner:
+divorced
+Known occupational exposures/hazards: No
+Highest Level of Education: Bachelor's Degree
+Physical activity type: None
+How many days of moderate to strenuous exercise, like a brisk walk, did you do in the last 7
+days?: 0
+Leisure activities: None
+Smoking Status: Current every day smoker
+What nicotine containing products do you use/have you used?: Cigarettes Smoking packs per
+day: 2 Smoking cigarettes per day: 40.0 Years smoked: 40 Smoking pack-years: 80.00 Smoking quit
+date/years: < = 15 years ago
+Nicotine containing products detail: Marlboro
+============================================================================================
+Second hand tobacco smoke exposure: No
+How often do you have a drink containing alcohol?: Monthly or less Alcohol type: hard liquor
+How many standard drinks containing alcohol do you have on a typical day?: 1 or 2
+How often do you have six or more drinks on one occasion?: Less than monthly
+AUDIT-C Alcohol total score: 2
+Non-Prescribed Substance Use: Denies Use
+Non-Prescribed Substance Use Details: md charting suggest otherwise. plz see md charting.
+Caffeine: Yes
+Does Your Home Environment Cause You Fear, Pain, or Injury: Denies
+Have You Recently Felt Abused, Taken Advantage of, or Neglected?: Denies
+Little interest or pleasure in doing things: not at all
+Feeling down, depressed, or hopeless: not at all
+Feel stressed/tense/nervous/anxious/difficulty sleeping: not at all
+Life Stressors: Financial Matters
+Due to Disability, Difficulty Making Decisions: No
+
+Exam
+Const
+Attestation: Documenting provider has reviewed patient's vital signs
+Exam limitations: No altered mental status
+General appearance: cooperative;
+No well kempt
+Orientation/consciousness: awake, oriented to person, oriented to place and oriented to time
+HENMT
+Head and scalp: normal to inspection and normocephalic
+Ear: external ears normal and TM's normal bilaterally
+Mouth: Normal oral and palatal mucosa present and tonsils normal
+Eye
+General: appearance normal, both eyes and all related structures, normal light reflex and Equal,
+round and reactive pupils present;
+No EOM abnormal
+Vision: acuity normal
+Direct Ophthalmoscopy: normal light reflex
+Neck & C-Spine
+General: trachea midline
+Thyroid: Thyroid normal;
+no masses
+Cervical spine: cervical ROM normal;
+No Cervical spine tenderness
+Chest
+Chest: No Pacemaker present
+Respiratory
+Effort & inspection: normal and able to speak in complete sentences
+Auscultation: clear to auscultation bilaterally;
+no wheezes
+Percussion: percussion normal
+Cardio
+Rate/Rhythm: regular rate and regular rhythm;
+============================================================================================
+No bradycardic, No tachycardic and No abnormal rhythm
+GI
+Inspection: normal to inspection
+Auscultation: normoactive bowel sounds
+Palpation: Soft to palpation;
+non-tender, No Guarding due to palpation present (GI), No Hepatosplenomegaly present, no ascites
+present and no rebound tenderness present
+Percussion: normal to percussion
+Back & Pelvis
+General back: paraspinal muscle tenderness (MILD R LUMBAR) and tenderness paraspinal muscle
+tenderness (MILD R LUMBAR) and lumbar paraspinal muscle tenderness (MILD R )
+Lumbar spine/lower back: paraspinal muscle tenderness (MILD R ) and straight leg raise negative
+bilaterally;
+abnormal to inspection (WELL HEALED LUMBAR SX LUMBAR SCARS)
+Extremity/Vascular
+General: No calf tenderness, No cyanosis, No edema and No tenderness
+Peripheral pulses: radial pulses present and dorsalis pedis present
+Neuro
+Sensorium/orientation: awake, oriented to person, oriented to place and oriented to time
+Cranial Nerves: Cranial nerves II - XII intact
+Speech: speech normal
+Gait: Unable to assess gait
+Deep tendon reflexes: Right patellar reflex intensity grade: 1+ and Left patellar reflex intensity
+grade: 1+
+Psych
+Appearance: unkempt;
+No well kempt
+Attitude: calm
+Activity/motor behavior: appropriate eye contact
+Speech: incoherent (MUMBLED);
+No normal speech
+Thought content: Normal thought content present
+Memory/cognition: memory grossly intact
+Insight: Good insight present (Psych)
+Judgement: Good judgement present (Psych)
+Skin
+General skin exam: elasticity normal, turgor normal and scars surgical (LUMBAR) and well-healed;
+no erythema, no excoriation(s), no jaundice and no mottling
+Rashes: No rashes noted
+
+Course
+Vital Signs
+Vital signs:
+
+Vital Signs
+
+Temp Pulse Resp BP Pulse Ox 02 Del 02 Flow
+Method Rate
+97.2 F 102 H 18 134/82 97 Room Air 0
+============================================================================================
+08/05/23 08/05/23 08/05/23 08/05/23 08/05/23 08/05/23 08/05/23
+22:56 22:56 22:56 22:56 22:56 22:56 22:56
+
+Temperature: (F or C) 97.2 F 08/05/23 23:05
+Pulse Rate 91 08/06/23 02:01
+Respirations 19 08/06/23 02:01
+Blood Pressure 149/73 H 08/06/23 01:45
+02 Saturation 98 08/06/23 01:45
+02 Delivery Method Room Air 08/05/23 23:05
+Oxygen Flow Rate 0 08/05/23 23:05
+FiO2 0 08/05/23 23:03
+
+MDM - Back Pain/Injury
+MDM Narrative
+Medical decision making narrative:
+SCRIBE ATTESTATION: SAW THE PATIENT WITH SCRIBE. AGREE THAT DOCUMENTATION WAS
+CHARTED IN MY PRESENCE AND IS BOTH COMPLETE AND ACCURATE.
+
+PATIENT APPEARS POSSIBLY HOME WAS INITIALLY CHECKED IN WITH CHEST PAIN. ON MY
+HISTORY HE IS ASLEEP CURLED UP WALKING WITH A CANE. AND COMPLAINS OF LOW BACK PAIN
+MO.RE ON THE RIG HT. HE HAS HAD BACK SURGERY WITH HARDWARE PLACED INFUSION X2
+EKG REVIEWED NORMAL SINUS RHYTHM WITH NO ECTOPY NO BLOCKS NO ST ELEVATION NORMAL
+AXIS
+
+TROPONIN WAS. BORDERLINE BU
+T WAS REPEATED WAS BASICALLY THE SAME. LUMBAR SACRAL SPINE FILMS SHOWED. THE
+HARDWARE IN PLACE IN GOOD POSITION
+WILL START PATIENT ON SOME MEDICINE FOR HIS BACK AND RECOMMENDED THE STOP SMOKING
+AND FOLLOW UP WITH HIS BACK. DOCTOR
+
+ALL LABORATORY EKG IMAGING STUDIES AND ALL RECORDS INDEPENDENTLY INTERPRETED BY ME
+Lab Data
+
+08/05/23 23:50
+12.0L
+4.1 204
+35.6L
+
+08/05/23 23:50
+144 111H 15
+99
+3.6 24 1.14
+
+Labs:
+
+Lab Results
+============================================================================================
+08/05/23 08/06/23 Range/Units
+23:50 02:36
+WBC 4.1 (3.1-9.7) 10E3/uL
+RBC 4.00 L (4.08-5.70) 10E6/ul
+Hgb 12.0 L (13.1-16.8) g/dL
+Hct 35.6 L (38.2-48.4) %
+MCV 89.0 (81.4-98.5) fL
+MCH 29.9 (27.1-34.2) pg
+MCHC 33.7 (31.7-35.2) g/dL
+RDW 15.2 (12.3-16.3) %
+Plt Count 204 (130-351) 10E3/uL
+MPV 7.0 (6.6-10.2) fL
+Neut % (Auto) 41.6 (40.6-75.3) %
+Lymph % (Auto) 35.6 (16.1-45.7) %
+Mono % (Auto) 14.4 H (3.7-12.2) %
+Eos % (Auto) 6.5 H (0.0-6.3) %
+Baso % (Auto) 1.9 H (0.1-1.3) %
+Neut # (Auto) 1.7 (0.9-7.4) 10E3/uL
+Lymph # (Auto) 1.5 (0.9-3.3) 10E3/uL
+Mono # (Auto) 0.6 (0.2-0.9) 10E3/uL
+Eos # (Auto) 0.3 (0.0-0.5) 10E3/uL
+Baso # (Auto) 0.1 (0.0-0.1) 10E3/uL
+Sodium 144 (137-145) mmol/L
+Potassium 3.6 (3.5-5.1) mmol/L
+Chloride 111 H (98-107) mmol/L
+Carbon Dioxide 24 (21-32) mmol/L
+Anion Gap 9.0 (5.0-15.0) mmol/L
+BUN 15 (7-20) mg/dL
+Creatinine 1.14 (0.66-1.25) mg/dL
+Est GFR (CKD-EPI) 72.7 (>60) SeeBelow
+Glucose 99 (70-109) mg/dL
+Calcium 9.5 (8.4-10.2) mg/dL
+Total Bilirubin 0.4 (0.2-1.3) mg/dL
+Direct Bilirubin 0.2 (0.0-0.4) mg/dl
+AST 33 (3-45) U/L
+ALT 35 (0-50) U/L
+Alkaline Phosphatase 91 (38-126) U/L
+Troponin I 0.037 H 0.044 H (0-0.034) ng/mL
+B-Natriuretic Peptide 236 H (15-100) pg/mL
+Total Protein 7.0 (6.3-8.2) g/dL
+Albumin 4.1 (3.5-5.0) g/dL
+
+Discharge Plan
+Discharge
+Service Date/Time: 08/05/23 22:56
+============================================================================================
+ED Provider: Dillon, Brian Thomas
+
+Patient Disposition: Home
+
+Clinical Impression:
+Back pain, Fusion of lumbar spine
+
+Patient Education: Back Exercises, Easy-to-Read, Chronic Back Pain, Easy-to-Read
+
+Referrals/Follow-Up:
+Care Provider,OLSU Primary [Primary Care Provider] - Next Business Day
+
+Stand Alone Forms: Discharge Handout Stoplight, myWK Portal Instructions
+
+Discharge Orders:
+Discharge Order (Routine); Ordered 08/06/23
+Ordered By: Brian Thomas Dillon
+
+Discharge Medications:
+New
+methocarbamol 500 mg tablet
+500 mg ORAL 3XDAY PRN (Reason: MUSCLE SPASM) Qty: 20 ORF
+meloxicam 15 mg tablet
+15 mg ORAL 1XDAY Qty: 30 ORF
+
+No Action
+atorvastatin 20 mg Tablet
+40 mg ORAL BEDTIME Qty: 60 6RF
+diazepam 5 mg Tablet
+10 mg ORAL BEDTIME PRN (Reason: sleep) Qty: 14 ORF
+aspirin 81 mg Tablet, Delayed Release (Dr/Ec)
+81 mg ORAL 1XDAY Qty: 0 ORF
+magnesium oxide [MagOx] 400 mg (241.3 mg magnesium) Tablet
+400 mg ORAL 2XDAY Qty: 60 6RF
+pantoprazole 40 mg Tablet, Delayed Release (Dr/Ec)
+40 mg ORAL 1XDAY Qty: 30 2RF
+furosemide 20 mg Tablet
+20 mg ORAL 1XDAY Qty: 30 6RF
+potassium chloride 20 mEq Tablet,Er Particles/Crystals
+20 meq ORAL 1XDAY Qty: 30 6RF
+clopidogrel 75 mg tablet
+75 mg ORAL 1XDAY Qty: 30 ORF
+amlodipine 5 mg Tablet
+5 mg ORAL 1XDAY Qty: 30 3RF
+methocarbamol 750 mg tablet
+750 mg ORAL Q8H PRN (Reason: pain) Qty: 20 ORF
+albuterol sulfate [ProAir HFA] 90 mcg/actuation Hfa Aerosol Inhaler
+90 puff INHALED Q4H PRN (Reason: shortness of breath or wheezing) Qty: 6 2RF
+============================================================================================
+albuterol sulfate 90 mcg/actuation HFA aerosol inhaler
+1 inh INHALED 4XDAY PRN (Reason: shortness of breath or wheezing) Qty: 6.7 ORF
+tizanidine [Zanaflex] 4 mg capsule
+4 mg ORAL 3XDAY PRN (Reason: muscle spasticity) Qty: 20 ORF
+hyoscyamine sulfate 0.125 mg Tablet, Sublingual
+0.125 mg SUBLINGUAL 4XDAY PRN (Reason: abdominal pain) Qty: 20 ORF
+carvedilol 25 mg Tablet
+25 mg ORAL 2XDAY Qty: 60 6RF
+Rx Instructions:
+HOLD IF HR< 55
+tamsulosin 0.4 mg Capsule
+0.8 mg ORAL 1XDAY@1800 Qty: 30 6RF
+levofloxacin 500 mg tablet
+500 mg ORAL 1XDAY Qty: 5 ORF
+metronidazole 500 mg tablet
+500 mg ORAL 2XDAY Qty: 10 ORF
+finasteride 5 mg tablet
+5 mg ORAL BEDTIME Qty: 30 ORF
+oxycodone-acetaminophen [Percocet] 7.5-325 mg tablet
+1 tab ORAL 3XDAY PRN (Reason: pain (scale score 7-10)) Qty: 10 ORF
+valsartan 40 mg Tablet
+40 mg ORAL 1XDAY Qty: 30 3RF
+Rx Instructions:
+HOLD if upper BP is below 110
+Atrovent HFA 17 mcg/actuation HFA aerosol inhaler
+1 puff INHALED 4XDAY Qty: 12.9 4RF
+benzonatate 200 mg capsule
+200 mg ORAL 4XDAY PRN (Reason: cough) Qty: 20 ORF
+theophylline 200 mg capsule, extended release 24hr
+200 mg ORAL 2XDAY Qty: 30 ORF
+
+Interventions:
+ED Discharge Assessment Last Done: 08/06/23 04:09
+
+Discharge Date/Time: 08/06/23 04:11
+
+Dictated By: Dillon, Brian Thomas, M.D.
+Signed By: <Electronically signed by Brian Thomas Dillon, M.D.> 08/06/23 0640
+
+DD/DT: 08/06/23 0205
+TD/TT: 08/06/23 0205 Transcriptionist: RJ
+============================================================================================
+

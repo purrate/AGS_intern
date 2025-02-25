@@ -1,0 +1,272 @@
+
+DOCUMENT TYPE: ED Physician Notes
+RESULT STATUS: Auth (Verified)
+SIGNED INFORMATION: WELLBORN, CAITLIN, MD Emergency Medicine (10/22/2023
+02:37 CDT)
+SERVICE DATE/TIME 10/22/2023 01:38 CDT
+
+Chief Complaint
+p reports orthopnea, inability to sleep due to SOB when laying
+down. was seen at Conway Regional tuesday, sent home with lasix/
+K+ &nbsp;but still feels swollen and SOB continues
+History of Present Illness
+Certified Interpreter utilized for encounter
+
+52 year old spanish-speaking male with no reported pmh
+presenting with 3 weeks of nocturnal cough, bilateral distal leg
+swelling, dyspnea on exertion, and abdominal distention. Pt seen
+by a doctor around time of onset and completed a course of
+unspecified antibiotics without improvement. He established with a
+new PMD (Dr. Sikander Murad) last week and had blood work
+drawn x3 days ago on 10/18/2023. Pt presents with a copy of
+these results tonight, which are remarkable for wbc 9.6, hgb 13.6,
+hcg 42.9, plts 312, Cr 1.2, eGFR 72.8, Na 136, K 4.5, AST 253,
+ALT 287, prBNP 3740, Hgb A1c 5.6, TSH 1.81. Pt reports following
+these lab results, his PMD started him on furosemide 20mg BID
+and K supplementation. He has had no worsening of his symptom
+since then, but presents to the ED tonight because he is unable to
+sleep due to cough. He denies chest pain, orthopnea, fever, chills,
+or other ill symptom.
+Review of Systems
+Constitutional: negative for fever
+Eyes: negative for vision changes
+Cardiovascular: negative for chest pain
+Respiratory: see HPI
+GI: negative for abdominal pain
+GU: negative for dysuria
+Skin: negative for skin changes
+Neurologic: negative for confusion
+Physical Exam
+Vitals & Measurements
+T: 36.3 °C RR: 22 BP: 153/113 SpO2: 95%
+WT: 95.27 kg BMI: 38.4
+Constitutional: Alert, non-toxic appearing male
+Head: Atraumatic
+Eyes: Normal conjunctiva, PERRL
+ENT: Pharynx, uvula, and tonsils appear normal. Mucous
+membranes moist.
+Neck: Supple
+Respiratory: Mildly tachypnic. Respirations even, unlabored.
+Breath sounds clear bilaterally with equal chest rise. No wheezing
+or rales appreciated.
+Cardiovascular: Regular rate and rhythm. Holosystolic murmur
+best heard over left lower lateral chest. Normal peripheral
+perfusion. 3+ pitting edema of BLE distal to proximal shin.
+Abdomen: Protuberant, soft.
+MSK: Normal inspection and range of motion. Moving all
+extremities spontaneously and without pain.
+Skin: warm, dry
+Neuro: Awake, Alert with no appreciable focal neurologic deficits.
+Normal motor observed.
+Psych: cooperative
+Procedure
+EKG Interpretation:
+23:46 EKG interpreted as sinus tach at 108 bpm, R atrial
+enlargement, normal PR/QRS intervals, borderline qtc
+prolongation, no ischemic pattern. No prior available for
+comparison.
+Medical Decision Making
+Assessment: 52 yo M presenting with several weeks of nocturnal
+dry cough, leg edema, dyspnea on exertion. In ED, mildly
+tachypneic with stigmata of peripheral fluid overload but does not
+appear to be in acute respiratory distress and is not requiring
+supplemental O2 to maintain normal saturations. Recent outpt
+bloodwork notable for elevated proBNP, likely CKD, and elevated
+transaminases. Repeat blood work today with uptrending Cr not
+quite c/w AKI, improving LFTs, proBNP lateral. CXR with
+cardiomegaly and mild pulmonary edema. These findings are all
+suggestive of heart failure, although patient does not carry this
+diagnosis. No consolidation on x-ray or fever to suggest PNA. Pt is
+scheduled to establish with a cardiologist in clinic on
+10/30. Discussed this impression and findings with patient. Offered
+admission for continued diuresis, but pt requesting discharge
+home. He was provided with a dose of IV lasix while in the ED and
+encouraged to follow up as scheduled. Return precautions
+provided.
+Assessment/Plan (Discharge)
+Discharge Diagnosis
+1. Fluid overload 10/22/2023 E87.70 ICD-10-CM
+2. Heart murmur 10/22/2023 R01.1 ICD-10-CM
+Problem List/Past Medical History
+Ongoing
+No qualifying data
+Historical
+No qualifying data
+Medications
+Inpatient
+Lasix, 40 mg= 4 mL, IV Push, 1-Time
+potassium chloride, 40 mEq= 4 Tab, Oral, 1-Time
+Home
+No active home medications
+Allergies
+No Known Medication Allergies
+Lab Results
+Labs (Last four charted values)
+WBC 8.8 (OCT 21)
+Hgb 13.9 (OCT 21)
+Hct 43.3 (OCT 21)
+Plt 255 (OCT 21)
+Na 138 (OCT 21)
+K 3.7 (OCT 21)
+CO2 27 (OCT 21)
+CI 103 (OCT 21)
+Cr H 1.40 (OCT 21)
+BUN H 25 (OCT 21)
+Glucose H 112 (OCT 21)
+Mg 2.2 (OCT 21)
+PT H 17.1 (OCT 21)
+INR 1.5 (OCT 21)
+PTT 30.3 (OCT 21)
+Diagnostic Results
+No Radiology Results Found
+Request for Electronic Authentication By:
+
+WELLBORN, CAITLIN, MD Emergency Electronically Authenticated On: 10/22/2023 02:37 AM
+DOCUMENT TYPE: ED Nursing Record
+RESULT STATUS: Auth (Verified)
+SIGNED INFORMATION: McGriff,Ashlyn E, Temporary RN (10/22/2023 03:17 CDT)
+SERVICE DATE/TIME 10/22/2023 03:17 CDT
+
+ED Discharge Entered On: 10/22/2023 3:18 CDT
+Performed On: 10/22/2023 3:17 CDT by McGriff, Ashlyn E, Temporary RN
+
+Discharge Process
+Patient Disposition : Discharge
+IV Discontinued : Yes
+McGriff, Ashlyn E, Temporary RN - 10/22/2023 3:17 CDT
+ED Discharge
+Discharge To : Home without planned follow-up
+McGriff, Ashlyn E, Temporary RN - 10/22/2023 3:17 CDT
+Request for Electronic Authentication By:
+
+McGriff, Ashlyn E, Temporary R Electronically Authenticated On: 10/22/2023 03:17 AM
+DOCUMENT TYPE: ED Nursing Record
+RESULT STATUS: Auth (Verified)
+SIGNED INFORMATION: Dziobkowski,Cheryl,Rn-Ed (10/21/2023 23:24 CDT)
+SERVICE DATE/TIME 10/21/2023 23:24 CDT
+
+ED Triage Entered On: 10/21/2023 23:31 CDT
+Performed On: 10/21/2023 23:24 CDT by Dziobkowski, Cheryl, Rn-Ed
+
+ED Triage "Across the Room"
+Chief Complaint : p reports orthopnea, inability to sleep due to SOB when laying down. was seen at Conway Regional
+tuesday, sent home with lasix/ K+ but still feels swollen and SOB continues
+Triage Date/Time : 10/21/2023 23:24 CDT
+Dziobkowski, Cheryl, Rn-Ed - 10/21/2023 23:24 CDT
+DCP GENERIC CODE
+Tracking Acuity : 3 - Urgent SVI
+Tracking Group : SVI St. Vincent Inf
+Dziobkowski, Cheryl, Rn-Ed - 10/21/2023 23:24 CDT
+Mode of Arrival : Wheelchair
+Transported to ED by : Private vehicle
+To Room Via : Wheelchair
+Accompanied By : Sibling
+ED Vital Signs : Document
+Height & Weight : Document
+ED Allergies : Document
+Sepsis Screening Tool : Document
+ED Infection Control No
+ED Reason for Visit : Document
+ED Triage Treatments : Document
+Dziobkowski, Cheryl, Rn-Ed - 10/21/2023 23:24 CDT
+Infectious Disease History
+Does patient have symptoms of COVID-19? No
+Tested for COVID19 in the past 14 days : No, Patient stated
+Does the Patient state known exposure to a COVID-19 positive case in the last 14 days? : No
+Patient Vaccinated for COVID-19 : Fully vaccinated
+Dziobkowski, Cheryl, Rn-Ed - 10/21/2023 23:24 CDT
+Infectious Disease Risk Screening Grid
+Cough < 2 wks of unknown origin Yes
+Cough > 2 weeks : NO
+Blood in Sputum : NO
+Fever or self-reported Fever NO
+Rash of unknown origin : NO
+Headache NO
+Stiff neck : NO
+Night Sweats : NO
+Unexplained Weight Loss : NO
+Diarrhea (3 episode per day) NO
+Dziobkowski, Cheryl, Rn-Ed - 10/21/2023 23:24 CDT
+Physical contact outside US in the last 30 days No
+Hospitalized in Foreign Country : No
+Hemodialysis/AMB Sx Frgn Ctry Last 12 Mo No
+Overnite Stay Hosp/SNF Outside State No
+Infectious Disease History : None
+1
+INF Disease TB Screening Calc
+INF Disease Recent Travel Calc 0
+Dziobkowski, Cheryl, Rn-Ed 10/21/2023 23:24 CDT
+Vital Signs ED
+Temperature Source : Temporal artery scanning
+Temperature Mode : Fahrenheit
+Temperature, Fahrenheit 97.3 Deg F
+Clinical Temperature, C : 36.3 Deg C
+Pulse Rate : 100 bpm
+Respiratory Rate : 22 Breaths/Min (HI)
+Blood Pressure Location : Arm, left upper
+Blood Pressure Source : Non-Invasive BP Device
+Systolic Blood Pressure : 153 mmHg (HI)
+Diastolic Blood Pressure : 113 mmHg (HI)
+Mean Arterial Pressure (MAP) : 126 mmHg
+Oxygen Saturation : 95 %
+Oxygen Therapy Mode Room air
+ED Pain No
+Dziobkowski, Cheryl, Rn-Ed 10/21/2023 23:24 CDT
+Allergy Profile
+(As Of: 10/21/2023 23:31:23 CDT)
+Allergies (Active)
+No Known Medication Allergies Estimated Onset Date: Unspecified ; Created By:
+Dziobkowski, Cheryl, Rn-Ed; Reaction Status: Active ;
+Category: Drug ; Substance: No Known Medication Allergies ;
+Type: Allergy ; Updated By: Dziobkowski, Cheryl, Rn-Ed;
+Reviewed Date: 10/21/2023 23:27 CDT
+
+Diagnosis Control ED
+(As Of: 10/21/2023 23:31:23 CDT)
+Diagnoses(Active)
+Edema Date: 10/21/2023 ; Diagnosis Type: Reason For Visit
+Confirmation: Complaint of ; Clinical Dx: Edema ;
+Classification: Medical Clinical Service: Non-Specified
+Code: PNED ; Probability: 0 ; Diagnosis Code:
+ASYr9AEYvUr1YoYdCglGfQ
+SOB - Shortness of breath Date: 10/21/2023 ; Diagnosis Type: Reason For Visit ;
+Confirmation: Complaint of ; Clinical Dx: SOB Shortness of
+breath : Classification: Medical : Clinical Service:
+Non-Specified ; Code: PNED ; Probability: 0 : Diagnosis
+Code. 476A4569-4A67-41B5-B585-D00EF4BB837E
+
+ED Height and Weight
+Height Source : Stated
+Height Entry Format : Imperial
+Height, Inches : 62 Inch (Converted to: 5 ft 2 Inch, 157.48 cm)
+Clinical Height : 157.48 cm
+Weight Source, ED : Standing scale
+Weight Entry Format Imperial
+Clinical Dosing Weight : 95.27 kg
+Weight, Pounds : 209.6 lb
+Body Surface Area-(BSA) : 2.04 m2
+Body Mass Index : 38.4 kg/m2 (HI)
+Ideal Body Weight : 54 kg
+Dziobkowski, Cheryl, Rn-Ed - 10/21/2023 23:24 CDT
+Triage Initial Exam and Interventions, ED
+Level of Consciousness : Alert Awake
+Affect/Behavior : Appropriate, Calm, Cooperative
+Orientation : Oriented X 4
+Skin Temperature : Warm
+Skin Description : Normal for ethnicity, Dry, Pink
+Triage Interventions : EKG
+Current/Recent Head Injury : No
+Dziobkowski, Cheryl, Rn-Ed - 10/21/2023 23:24 CDT
+Sepsis Screening Tool
+SIRS Screening Vital Signs/Labs : No qualifying SIRS Screening Vital Signs/Labs.
+SIRS Indicator Signs and Symptoms Present/New : Tachycardia - greater than 95 beats per minute
+Two or More Signs and Symptoms SIRS Indicators : No
+Organ Dysfunction Vital Signs/Labs : No Qualifying Organ Dysfunction Vital Signs/Labs.
+Dziobkowski, Cheryl, Rn-Ed - 10/21/2023 23:24 CDT
+Clinical Trial Participant
+Currently Enrolled in a Clinical Trial? : No
+Dziobkowski, Cheryl, Rn-Ed - 10/21/2023 23:24 CDT
+Request for Electronic Authentication By:
+
+Dziobkowski, Cheryl, Rn-Ed Electronically Authenticated On: 10/21/2023 11:24 PM
+

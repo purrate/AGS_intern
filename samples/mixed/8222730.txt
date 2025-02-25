@@ -1,0 +1,277 @@
+
+DOCUMENT TYPE: ED Physician Notes
+RESULT STATUS: Modified
+SIGNED INFORMATION: WILBUR, LEE, MD Emergency Medicine (10/24/2023 16:06
+CDT); SCARBROUGH DEWEY,PA Emergency Medicine
+(10/22/2023 05:24 CDT); SCARBROUGH, DEWEY,P/
+Emergency Medicine (10/22/2023 05:13 CDT)
+SERVICE DATE/TIME 10/22/2023 03:48 CDT
+
+Headache *ED
+
+Patient: SANDERS, TRACI EUGENIA MRN: 1183599 FIN: A2329500011
+Age: 40 years Sex: Female DOB: 9/29/1983
+Associated Diagnoses: Migraine headache
+Author: SCARBROUGH, DEWEY, PA Emergency Medicine
+
+Basic Information
+Time seen: Date & time 10/22/2023 03:48:00.
+History source: Patient, significant other.
+Arrival mode: Private vehicle.
+History limitation: None.
+Additional information: Chief Complaint from Nursing Triage Note : Chief Complaint
+10/22/2023 3:42 CDT Chief Complaint reports headache/ photophobia
+weakness and vomiting. husband states she felt better after getting treatment in
+this ED last night but symptoms returned. actively vomting in triage
+10/21/2023 0:16 CDT Chief Complaint Pt c/o migraine since this
+afternoon, has her feeling weak, nauseous, and sensitive to light. PMHx:
+seizures
+
+History of Present Illness
+The patient presents with headache. The onset was chronic. The course/duration of symptoms is constant. Location: Bilateral frontal retro-orbital.
+Radiating pain: none. The character of symptoms is throbbing. The degree at onset was moderate. The degree at maximum was moderate. The
+degree at present is moderate, There are exacerbating factors including light, noise and exertion. There are relieving factors including light avoidance,
+noise avoidance, rest, lying down and medications(s). Risk factors consist of none. Prior episodes: frequent and migraine. Therapy today: none.
+Preceding symptoms: visual disturbance. Associated symptoms: nausea, vomiting, photophobia, denies dizziness, denies altered vision, denies fever,
+denies chills, denies neck pain, denies syncope, denies rash, denies altered speech, denies altered level of consciousness and denies seizure,
+
+Review of Systems
+Constitutional symptoms: Negative except as documented in HPI.
+Skin symptoms: Negative except as documented in HPI.
+Eye symptoms: Negative except as documented in HPI.
+ENMT symptoms: Negative except as documented in HPI.
+Respiratory symptoms: Negative except as documented in HPI.
+Cardiovascular symptoms: Negative except as documented in HPI.
+Gastrointestinal symptoms: Negative except as documented in HPI.
+Genitourinary symptoms: Negative except as documented in HPI.
+Musculoskeletal symptoms: Negative except as documented in HPI.
+Neurologic symptoms: Negative except as documented in HPI.
+Psychiatric symptoms: Negative except as documented in HPI.
+Endocrine symptoms: Negative except as documented in HPI.
+Hematologic/Lymphatic symptoms: Negative except as documented in HPI.
+Allergy/immunologic symptoms: Negative except as documented in HPI.
+
+Health Status
+Allergies:
+Allergic Reactions (Selected)
+Severe
+Geodon-Swelling.
+Moderate
+Codeine- Hives
+Unknown
+Morphine- No reactions were documented..
+Medications: (Selected)
+Inpatient Medications
+Ordered
+droPERidol 2.5 mg/mL injectable solution: 2.5 mg, 1 mL, IntraMuscular, 1-Time
+Documented Medications
+Documented
+OXcarbazepine 300 mg oral tablet: 600 mg, 2 Tab, Oral, BID, 120 Tab, 0 Refill(s)
+Vistaril 25 mg oral capsule: mg, Cap, Oral, At Bedtime, 0 Refill(s)
+divalproex sodium 500 mg oral tablet, extended release: mg, Tab, Oral, BID, 0 Refill(s)
+famotidine 20 mg oral tablet: 20 mg, 1 Tab, Oral, Daily, 30 Tab, 0 Refill(s)
+sertraline 50 mg oral tablet: 100 mg, 2 Tab, Oral, BID, 0 Refill(s), per nurse's notes.
+Immunizations: Per nurse's notes.
+
+Past Medical/ Family/ Social History
+Medical history:
+No active or resolved past medical history items have been selected or recorded., Reviewed as documented in chart.
+Surgical history:
+No active procedure history items have been selected or recorded., Reviewed as documented in chart.
+Family history:
+No family history items have been selected or recorded., Reviewed as documented in chart.
+Social history:
+Social & Psychosocial Habits
+
+No Data Available
+Reviewed as documented in chart.
+Problem list:
+Active Problems (2)
+Acute head injury
+Post-concussion syndrome
+per nurse's notes.
+
+Physical Examination
+
+Vital Signs
+Vital Signs/Vital Measures
+10/22/2023 3:42 CDT Blood Pressure Location
+Arm, left upper
+Blood Pressure Source Non-Invasive BP Device
+Systolic Blood Pressure 139 mmHg
+Diastolic Blood Pressure 78 mmHg
+Mean Arterial Pressure (MAP) 98 mmHg
+Temperature Source Temporal artery scanning
+Fahrenheit
+Temperature Mode
+Temperature, Fahrenheit 97.8 Deg F
+Clinical Temperature, C 36.6 Deg C
+Pulse Rate
+103 bpm HI
+Respiratory Rate 22 Breaths/Min HI
+Oxygen Saturation 94 %
+Oxygen Therapy Mode Room air
+10/21/2023 2:19 CDT Systolic Blood Pressure 113 mmHg
+Diastolic Blood Pressure 58 mmHg LOW
+Mean Arterial Pressure (MAP) 76 mmHg
+Heart Rate Monitored 58 bpm LOW
+96 %
+Oxygen Saturation
+10/21/2023 1:35 CDT Heart Rate Monitored 72 bpm
+94 %
+Oxygen Saturation
+10/21/2023 1:30 CDT
+Systolic Blood Pressure 105 mmHg
+Diastolic Blood Pressure
+54 mmHg LOW
+Mean Arterial Pressure (MAP) 71 mmHg
+Heart Rate Monitored
+74 bpm
+Oxygen Saturation 89 % LOW
+10/21/2023 1:00 CDT Systolic Blood Pressure 142 mmHg HI
+Diastolic Blood Pressure
+69 mmHg
+Mean Arterial Pressure
+(MAP) 93 mmHg
+Heart Rate Monitored 72 bpm
+95 %
+Oxygen Saturation
+10/21/2023 0:16 CDT Systolic Blood Pressure 165 mmHg HI
+Diastolic Blood Pressure HI
+102 mmHg
+Mean Arterial Pressure (MAP) 123 mmHg
+Oral
+Temperature Source
+Temperature Mode Fahrenheit
+Temperature, Fahrenheit 97.8 Deg F
+Clinical Temperature, C 36.6 Deg C
+Pulse Rate
+90 bpm
+Respiratory Rate 20 Breaths/Min
+Oxygen Saturation 95 of
+Oxygen Therapy Mode Room air .
+Measurements
+10/22/2023 3:42 CDT Stated
+Height Source
+Height Entry Format Imperial
+Height/Length ENGLISH (in) 62 Inch
+CLINICALHEIGHT 157,48 cm
+Weight Source, ED Standing scale
+Weight Entry Format Imperial
+Weight English lb 140 lb
+CLINICALWEIGHT 63.64 kg
+1.67 m2
+Body Surface Area (BSA)
+Body Mass Index 25.7 kg/m2 HI
+Ideal Body Weight 50 kg
+10/21/2023 0:16 CDT Height Source Stated
+Height Entry Format Imperial
+Height/Length, ENGLISH (ft) 5 ft
+Height/Length ENGLISH (in) 4 Inch
+CLINICALHEIGHT 162.56 cm
+Weight Source, ED Critical estimated dosing
+weight
+Weight Entry Format Imperial
+Weight English lb 130 lb
+CLINICALWEIGHT 59.09 kg
+Body Surface Area (BSA) 1.63 m2
+Body Mass Index 22.4 kg/m2
+Ideal Body Weight 54 kg
+Oxygen Saturation
+10/22/2023 3:42 CDT Oxygen Saturation 94 %
+10/21/2023 2:19 CDT Oxygen Saturation 96 %
+10/21/2023 1:35 CDT 94 %
+Oxygen Saturation
+10/21/2023 1:30 CDT 89 % LOW
+Oxygen Saturation
+10/21/2023 1:00 CDT 95 %
+Oxygen Saturation
+10/21/2023 0:16 CDT Oxygen Saturation 95 %
+General: Alert, grimacing, groaning, grunting.
+Skin: Warm, dry.
+Head: Normocephalic, atraumatic.
+Neck: Supple, trachea midline, no tenderness.
+Eye: Pupils are equal, round and reactive to light, extraocular movements are intact, normal conjunctiva.
+Ears, nose, mouth and throat: Oral mucosa moist.
+Cardiovascular: Regular rate and rhythm, No murmur.
+Respiratory: Lungs are clear to auscultation, respirations are non-labored, breath sounds are equal.
+Gastrointestinal: Soft, Nontender, Non distended.
+Neurological: No focal neurological deficit observed.
+Psychiatric: Cooperative, appropriate mood & affect.
+
+Medical Decision Making
+Differential Diagnosis: Migraine, tension headache, sinusitis, subarachnoid hemorrhage, cerebral vascular accident, transient ischemic attack,
+intracranial hemorrhage, vomiting, dehydration, anxiety, depression, viral syndrome.
+Rationale: 12:49 AM this patient is a 40-year-old female comes in the ER today complaining of migraine
+headache. Will obtain CT of head and Droperidol 2.5mg IM.
+
+Orders Include Previous Orders (Selected)
+Inpatient Orders
+Ordered
+droPERidol 2.5 mg/mL injectable solution: 2.5 mg, 1 mL, IntraMuscular, 1-Time
+Ordered (Exam Ordered)
+CT Head WO:
+
+Radiology results: Radiology Results (Last 48 hours)
+
+A2329500011 -- 10/22/2023 03:36
+
+CT Head WO (10/22/2023 04:38)
+Result: EXAMINATION: CT Head Without Contrast DATE: 10/22/2023 4:42 AMINDICATION: Headache.TECHNIQUE: CT of the head was
+performed without IV contrast.COMPARISON: None.FINDINGS:Gray-white matter differentiation is maintained without evidence of
+alarge acute territorial infarction. Brain volume is appropriate for thepatient's stated age. No intraparenchymal hemorrhage or extra-axial
+fluid collection. No mass, mass effect, or midline shift of structures. No ventricularoutflow obstruction. Basal cisterns are patent.No
+acute osseous abnormality. The visualized paranasal sinuses andmastoid air cells are clear.IMPRESSION:1. No acute intracranial
+abnormality. Signed by Gregory M Morris, MD 10/22/2023 5:05 AMAII CT scans are performed using dose optimization techniques
+asappropriate to a performed exam including automated exposurecontrol and/or standardized protocols for targeted exams wheredose
+is matched to indication/reason for exam/patient size.
+Reexamination/ Reevaluation
+Time: 10/22/2023 05:11:00
+Vital signs
+per nurse's notes
+Course: improving.
+Pain status: decreased.
+Assessment: exam improved.
+Interventions: Include Previous Orders (Selected)
+Inpatient Orders
+Completed
+droPERidol 2.5 mg/mL injectable solution: 2.5 mg, 1 mL, IntraMuscular, 1-Time
+
+Impression and Plan
+Diagnosis
+Migraine headache - Discharge-MD
+Plan
+Condition: Improved, Stable.
+Disposition: Discharged
+Admit/Transfer/Discharge:
+Discharge (Order): 10/22/2023 5:11 CDT, Discharge to: Home
+
+Prescriptions: Prescription Writer
+Pharmacy:
+Zofran ODT 4 mg oral tablet, disintegrating (Prescribe): 4 mg, 1 Tab, Oral, Q8H, 10 Tab, 0 Refill(s)
+Prescription Writer
+Pharmacy:
+Zofran ODT 4 mg oral tablet, disintegrating (Prescribe): 4 mg, 1 Tab, Oral, Q8H, 10 Tab, 0 Refill(s)
+
+Patient was given the following educational materials: Migraine Headache, Easy-to-Read.
+Follow up with: Follow up with primary care provider Within 1-2 days call for folowup appointment,Followup withprimary care provider Within
+1-2 days call for follow up appointment.
+Counseled: Patient, Family, Regarding diagnosis, Regarding diagnostic results, Regarding treatment plan, Regarding prescription, Patient
+indicated understanding of instructions, family understood.
+
+Addendum
+
+Teaching-Supervisory Addendum-Brief
+The case was discussed with: Midlevel provider.
+Evaluation and management service: I agree with the evaluation and management decisions made in this patient's care.
+Results interpretation: I agree with the study interpretation in this patient's care.
+Request for Electronic Authentication By:
+
+SCARBROUGH, DEWEY, PA Emergenc Electronically Authenticated On: 10/22/2023 05:13 AM
+
+CoSigner: SCARBROUGH, DEWEY, PA Emergency 10/22/2023 05:24 AM
+10/22/2023 05:24 AM
+
+CoSigner: WILBUR, LEE, MD Emergency Medi 10/24/2023 04:06 PM
+10/24/2023 04:06 PM
+

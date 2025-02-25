@@ -1,0 +1,259 @@
+
+Result Type: ED Physician Notes
+Result Date: March 07, 2023 21:42 EST
+Result Status: Auth (Verified)
+Result title: ED Physician Note
+Performed by: Bruno-De La Mata, Kimberly MD on March 07, 2023 21:42 EST
+Verified By: Bruno-De La Mata, Kimberly MD on March 07, 2023 21:42 EST
+Encounter info: 62414620, Mon Marion Neighborhood Hospital, Emergency, 3/7/2023 - 3/8/2023
+
+Basic Information
+Time Seen:
+Bruno-De La Mata, Kimberly MD / 03/07/2023 20:46
+Chief Complaint
+Hearing voices. Reports voices tell her to hurt herself. Reports does not want to
+hurt self at this time.
+
+History of Present Illness
+Is a 14-year-old female who presents to the ED with complaints of auditory
+hallucinations for the last week these voices are telling her to hurt herself. She has
+been in Chestnut ridge before for suicidal ideations.
+Review of Systems
+
+CONSTITUTIONAL: no fever, no chills, no weakness
+SKIN: no rash
+EYE: no visual changes, no redness, no pain
+EENT: no ear pain, no sore throat, no congestion
+RESPIRATORY :no shortness of breath, no cough, no wheezing, no hemoptysis
+CARDIOVASCULAR: no chest pain, no leg edema, no syncope/dizziness, no
+palpitations
+GASTROINTESTINAL: no abdominal pain, no
+nausea, no vomiting, no diarrhea, no melena, no hematemesis, no hematochezia
+GENITOURINARY: no dysuria, no hematuria, no frequency
+MUSCULOSKELETAL: no back pain, no neck pain, no upper extremity pain, no
+lower extremity pain, no trauma
+NEUROLOGIC: no headache, no motor weakness, no sensory changes, no
+change in dexterity or coordination
+patient having auditory hallucinations
+ADDITIONAL ROS: Info: Except as noted in the above Review of Systems and in
+the History of Present Illness, all other systems have been reviewed and are
+negative or noncontributory. Gave patient opportunity to voice any additional
+symptoms other than those listed above and there were no additional symptoms
+verbalized.
+Physical Exam
+Vitals & Measurements
+T: 36.9 °C (Temporal Artery) HR: 79 RR: 18 BP: 146/91 SpO2: 98%
+HT: 164 cm WT: 51.10 kg WT: 51.1 kg BMI: 19 WT Zscore: -0.09 HT
+Zscore: 0.34 BMI Zscore: -0.46 BMI %: 32.25
+General: alert, no acute distress
+Skin: warm, dry
+Head: no trauma, normocephalic
+Neck: trachea midline, no adenopathy, no tenderness
+Eye: normal conjunctiva, sclera clear
+Cardiovascular: regular rate and rhythm, normal peripheral perfusion
+Respiratory: lungs CTA, respirations non-labored
+Chest wall: no deformity
+Gastrointestinal: soft, non distended, no tenderness, no guarding
+Extremities: no deformity, no trauma
+Neurological: oriented x4, LOC appropriate for age, CN II-XII intact, motor
+strength equal and normally bilaterally, speech normal
+Psychiatric: cooperative, affect appropriate for
+age, normal judgement, suicidal psychiatric thoughts, positive hearing voices
+Medical Decision Making
+Differential diagnosis includes auditory hallucinations, sudicidal
+
+--I have looked at previous external notes on patient from previous ed visits and
+office visits
+--History was obtained from patient and mother only
+--I have ordered labs and reviewed them and have gone over results with the
+patient
+--I have not ordered radiology studies and reviewed the results and discussed
+results with patient
+--Patient's care was not discussed with any type of consultant
+--Risk of complications and/or mobility or mortality after shared making decision
+with patient included the use of no over-the-counter medication, the use of
+no prescribed medication, there is need for hospitalization. And patient's diagnosis
+or treatment was not significantly limited by social determinants of health care
+--patient is medically cleared to be transferred to psychiatric facility
+Assessment/Plan
+Ordered:
+Acetaminophen Level, Blood, Stat collect, 03/07/23 20:51:00 EST, Mon General
+Hospital, 03/07/23 20:53:00 EST
+Alcohol Level, Blood, Stat collect, 03/07/23 20:51:00 EST, Mon General Hospital,
+03/07/23 20:53:00 EST
+Salicylate Level, SO, Blood, Stat collect, 03/07/23 20:51:00 EST, Mon General
+Hospital, 03/07/23 20:53:00 EST
+Sars CoV 2 by PCR, NP Swab, RT collect, 03/07/23 21:33:51 EST, Mon General
+Hospital
+Thyroid Stimulating Hormone, HS, Blood, Stat collect, 03/07/23 20:51:00 EST,
+Mon General Hospital, 03/07/23 20:53:00 EST
+Follow Up
+No qualifying data available
+Medication Reconciliation
+Unchanged
+ibuprofen (ibuprofen 200 mg oral tablet) 2 tab(s) Oral Every 4 Hours as
+needed as needed for pain for 10 Days. Refills: 0.
+ondansetron (Zofran ODT 4 mg oral tablet, disintegrating) 1 tab(s) Oral
+every 8 hours as needed Nausea/Vomiting for 5 Days. Refills: 0.
+prednisoLONE (prednisoLONE 15 mg/5 mL oral syrup) 10 Milliliter Oral
+once a day for 5 Days. Refills: 0.
+sulfamethoxazole-trimethoprim (Septra 200 mg-40 mg/5 mL oral
+suspension) 5 Milliliter Oral Twice a Day for 7 Days. Refills: 0.
+Problem List/Past Medical History
+Ongoing
+No qualifying data
+Historical
+No qualifying data
+Allergies
+Adhesive Bandage (Mother states, "It
+melts into her skin.")
+Latex (Mother states, "It breaks her out.")
+Social History
+no tobacco or alcohol use
+Lab Results
+Chemistry - LATEST RESULTS
+General
+MC Glucose 03/07/23 93
+21:05
+MC BUN 03/07/23 10
+21:05
+MC Creatinine 03/07/23 .8
+21:05
+MC Sodium 03/07/23 143
+21:05
+MC Potassium 03/07/23 3.8
+21:05
+MC Chloride 03/07/23 103
+21:05
+MC CO2 03/07/23 29
+21:05
+MC Anion Gap 03/07/23 11.0
+21:05
+MC Calcium 03/07/23 10.6 High
+21:05
+MC Total Prot 03/07/23 7.5
+21:05
+MC Albumin 03/07/23 4.2
+21:05
+MC Alk Phos 03/07/23 121
+21:05
+MC AST (SGOT) 03/07/23 23
+21:05
+MC ALT (SGPT) 03/07/23 16
+21:05
+MC Total Bili 03/07/23 .5
+21:05
+Chemistry - LATEST RESULTS
+Miscellaneous
+MC Urine 03/07/23 Negative
+20:53
+Preg
+
+Chemistry - LATEST RESULTS
+Toxicology
+MC COC 03/07/23 Neg
+20:53
+MC AMP 03/07/23 Neg
+20:53
+MC THC 03/07/23
+Neg
+20:53
+MC OPI 03/07/23
+Neg
+20:53
+MC BAR 03/07/23
+Neg
+20:53
+MC BZO
+03/07/23 Neg
+20:53
+MC TCA 03/07/23
+Neg
+20:53
+MC mAMP 03/07/23 Neg
+20:53
+
+LATEST RESULTS
+Hematology
+CBC/Diff
+WBC 03/07/23 9.4
+21:05
+
+MCNH LATEST RESULTS
+Hematology
+CBC/Diff
+MC RBC 03/07/23 4.33
+21:05
+MC HGB 13.1
+03/07/23
+21:05
+MC HCT 38.8
+03/07/23
+21:05
+MC MCV 03/07/23 89.6
+21:05
+MC MCH 03/07/23 30.3
+21:05
+MC MCHC 03/07/23 33.8
+21:05
+MC RDW 03/07/23 12.5
+21:05
+MC PLT 03/07/23 304
+21:05
+MC MPV 03/07/23 9.2
+21:05
+
+Urinalysis - LATEST RESULTS
+General
+MC UA Color 03/07/23 Yellow
+20:53
+MC UA Clarity 03/07/23 Clear
+20:53
+MC UA 03/07/23 Negative
+Glucose 20:53
+MC UA Bili 03/07/23 Negative
+20:53
+MC UA 03/07/23 Negative
+Ketones 20:53
+MC UA Spec 03/07/23 1.015
+Grav 20:53
+MC UA pH 03/07/23 6.0
+20:53
+MC UA Protein 03/07/23 Negative
+20:53
+MC UA Urobili 03/07/23 0.2 E.U./dL
+20:53
+MC UA Nitrite 03/07/23 Negative
+20:53
+MC UA Blood 03/07/23 Negative
+20:53
+MC UA 03/07/23 Negative
+Leukocyte 20:53
+
+Micro - Misc LATEST RESULTS
+MC Flu A 03/07/23 Negative
+21:05
+MC Flu B 03/07/23 Negative
+21:05
+MC SARS 03/07/23 Negative
+Antigen 21:05
+
+Diagnostic Results
+No qualifying data available.
+ECG
+EKG done tonight March 7, 2023 at
+2103 shows normal sinus rhythm rate
+of 69, no STEMI, no evidence of acute
+ischemia
+
+Signature Line
+
+Electronically Signed By
+Bruno-De La Mata, Kimberly MD, MD
+on 03.07.2023 21:42
+
+Completed Action List:
+* Perform by Bruno-De La Mata, Kimberly MD on March 07, 2023 21:42 EST
+* Sign by Bruno-De La Mata, Kimberly MD on March 07, 2023 21:42 EST
+* VERIFY by Bruno-De La Mata, Kimberly MD on March 07, 2023 21:42 EST
+

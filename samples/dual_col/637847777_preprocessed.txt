@@ -1,0 +1,635 @@
+
+Date of Service
+5/2/2023
+Chief Complaint
+sent by pcp for abscess on L buttock/rectal area x1.5 weeks that has grown in size.
+History of Present Illness
+A 53-year-old female with significant past medical history of diabetes mellitus, history
+of stroke without any residual deficit, hyperlipidemia who presented to the hospital with
+complaining of left buttock pain. She reported she has been having this pain over the
+last more than a week which was getting worse. She was having discomfort over her
+left buttock. Initially she thought it might be small swelling and will go away but is
+getting bigger. Reported pain is getting worse. Never had similar problem in the past.
+Never diagnosed with any fistula in the past. She reported multiple urinary tract
+infection and vaginal infection due to diabetes. She smokes 1 pack/day. Denies any
+fever but reported chills. Denies any vaginal discharge currently.
+Review of Systems
+Pertinent positives above in HPI
+Remaining 12 point ROS has been reviewed and is negative
+Physical Exam
+Vitals & Measurements
+HR: 100 RR: 18 BP: 172/92 SpO2: 100% WT: 71.7 kg
+Gen: NAD
+CV: RRR
+Resp: No rhonchi, nonlabored breathing
+Skin: warm
+Abd: nontender, nondistended, BSs+
+Ext: normal bulk and tone. Large, softball sized, firm, erythematous area noted in left
+perineal region extending towards rectum. no drainage. TTP, warm to touch.
+Neuro: CNs symmetric
+Psych: appropriate affect, A&O to person, place, and situation
+Medical Decision Making
+I have seen this patient personally and take history from patient/relative along with
+physical examination. Review vital signs, labs, imaging studies, previous records.
+Discussed diagnosis with the patient and prognosis. Patient agrees with the following
+plan.
+
+Discussed advanced Care Planning:
+Addressed ease of symptoms or control of pain
+Used care team approach to complete goals of care
+Identified measures to improve quality of life
+Discussed advance directives
+Addressed emotional and psychological support, including family, caregivers,
+decision-making support.
+Assessment/Plan
+1. Cellulitis of buttock (L03.317: Cellulitis of buttock)
+Ordered:
+99222- Initial Hospital IP/OBS Care Mod MDM (55 min), 05/02/23 19:23:00 EDT
+
+2. Sepsis (A04.1: Enterotoxigenic Escherichia coli infection)
+Ordered:
+99222- Initial Hospital IP/OBS Care Mod MDM (55 min), 05/02/23 19:23:00 EDT
+
+Orders:
+acetaminophen, 650 mg /, PO, 05/02/23 19:52:00 EDT, q4hr, PRN, Pain, Mild-less than
+4, Routine, Tab, If less than 50kg, Max dose 12.5 mg/kg q4hr or 15 mg/kg q6hr., 2 Tab,
+05/02/23 19:52:00 EDT Comments: May alternate with ibuprofen if ordered. Max
+1,000 mg per 6 hours.
+docusate-senna, 2 Tab, PO, 05/02/23 21:00:00 EDT, qNightly, Routine, Tab, Hold for
+diarrhea, 05/02/23 19:52:00 EDT Comments: Hold for diarrhea
+insulin aspart, Use medium dose sliding scale,, SubCu, 05/02/23 21:00:00 EDT,
+TIDCC-HS, Routine, Soln, 05/02/23 19:52:00 EDT Comments: Administer when tray
+arrives. Blood Glucose & Dosage; <70 Call MD; 70-149 None; 150-200 2 Units; 201-250
+4 Units; 251-300 6 Units; 301-350 9 Units; 351-400 12 Units; >400 Call MD
+morphine, 1 mg /, IV Push, 05/02/23 19:53:00 EDT, q4hr, PRN, Pain, Severe-greater
+than 6, Routine, Injection, 0.5 mL, 05/02/23 19:53:00 EDT
+naloxone, 0.1 mg /, IV Push, 05/02/23 19:52:00 EDT, q2min, PRN, Other (see Order
+Comment), Routine, Injection, For respiratory rate less than 8; sedation scale 4; or O2
+sat less than 90% or 5 points less than baseline, whichever is lower., 0.25 mL, 05/02/23
+19:. Comments: Dilute 0.4 mg to total of 10 mL NS and give 2.5 mL (0.1 mg) q 2
+min as needed up to 0.4 mg. Re-assess the patient q 20 min X 2. (naloxone effect is of
+shorter duration than narcotics)
+ondansetron, 4 mg /, IV Push, 05/02/23 19:52:00 EDT, q6hr, PRN, Nausea/Vomiting,
+Routine, Injection, 2 mL, 05/02/23 19:52:00 EDT
+pantoprazole, 40 mg /, PO, 05/03/23 6:00:00 EDT, qAM, Routine, EC Tablet, Swallow
+tablets whole. Do NOT split, crush, or chew. Cannot be given via G-tube or J-tube
+routes., 1 Tab, 05/02/23 19:52:00 EDT
+piperacillin-tazobactam, 3.375 g /, IV Piggyback, 05/02/23 22:00:00 EDT, TID, Routine,
+PB, 05/02/23 19:52:00 EDT Comments: Infuse over 4 hours. Pharmacy may renally
+adjust this medication per policy.
+sodium chloride, 2 mL, IV Push, 05/02/23 19:52:00 EDT, As Needed, PRN, Other (see
+Order Comment), Routine, Injection, Flush a Peripheral Lock that is used for
+Intermittent or IV Push medications before and after every use., 05/02/23 19:52:00
+EDT
+Sodium Chloride 0.9% 1,000 mL, IV, 05/02/23 19:22:00 EDT, Routine, 16 hr, Physician
+Stop, Stop date 05/03/23 11:21:00 EDT, Rate: 125 mL/hr, Infuse Over: 8 hr, 05/02/23
+19:22:00 EDT
+vancomycin, Per Pharmacy Protocol, IV Piggyback, 05/02/23 21:00:00 EDT, Once UNS,
+Routine, Injection, 05/02/23 20:22:00 EDT
+Activity As Tolerated, 05/02/23 19:22:00 EDT, Routine
+Basic Metabolic Panel, Blood, AM Lab collect, 05/03/23 4:00:00 EDT, Mon General
+Hospital, qAM
+Blood Glucose Monitoring, 05/02/23 19:22:00 EDT, Routine, TIDCC-HS
+CBC + Diff, Blood, AM Lab collect, 05/03/23 4:00:00 EDT, Mon General Hospital, qAM
+Consult Request - Physician, 05/02/23 19:22:00 EDT, Routine, Consult Reason: Gluteal
+cellulitis, fistula?, Consulted Physician: Johnson, Mark MD
+Hemoglobin, A1C, Blood, AM Lab collect, 05/03/23 4:00:00 EDT, Mon General Hospital,
+05/03/23 4:00:00 EDT
+Insert Peripheral IV, 05/02/23 19:22:00 EDT, Routine
+Intake and Output, 05/02/23 19:22:00 EDT, Routine, q8hour
+Magnesium Level, Blood, AM Lab collect, 05/03/23 4:00:00 EDT, Mon General Hospital,
+qAM
+NPO, 05/03/23 0:01:00 EDT, NPO
+Oxygen Therapy, 05/02/23 19:22:00 EDT, Routine, NC, qAM, PRN, 2 L/min
+Power Plan Start Date, Expected plan start date:
+PSO Admit to Inpatient, Routine Acute, Medicine-General, Mendapara, Vivek MD, Admit
+Reason Complex mgt Cellulitis, fistula?, ELOS (midnights) 2, No, 05/02/23 19:20:00
+EDT, 05/02/23 19:20:00 EDT Comments: I certify that the patient discharge
+instructions have been or will be delivered to the patient prior to discharge.
+Regular Diet, 05/02/23 19:22:00 EDT, Consistent Carb Low (3-5), 2 gm NA, Regular
+Diet
+Venodynes, 05/02/23 19:22:00 EDT, qAM, To both lower extremities.
+Vital Signs, 05/02/23 19:22:00 EDT, Routine, q4hour
+VTE Risk Assessment, 05/02/23 19:22:00 EDT, Routine, q12hr, On admission, q shift
+and with any change in level of care.
+Wean O2 - Nursing, 05/02/23 19:22:00 EDT, Constant Order, To keep O2 saturation
+above 90%
+Weight, 05/02/23 19:22:00 EDT, Routine, qAM Comments: Need Current Wt for
+Dosing
+
+Sepsis secondary to left gluteal cellulitis without abscess
+Questionable sinus tract extending from perianal region to cellulitis left
+gluteal fat
+Type 2 diabetes mellitus
+History of stroke without any residual
+Hyperlipidemia
+-Seen and examined
+-Vital reviewed, as above. Heart rate 100
+-Lab reviewed, significant for glucose 333, sodium 134 hyponatremia, creatinine
+1.1, WBC count 14, lactic acid 0.9,
+-CT pelvis with contrast shows finding as above.
+-We will admit as inpatient without telemetry
+-General surgery was consulted in the ER and recommending starting on Vanco
+and Zosyn.
+-Consult general surgery. N.p.o. from midnight.
+-As needed Tylenol and morphine for pain. Continue with Vanco and Zosyn.
+-Further investigation as per general surgery.
+-Continue with insulin sliding scale with Accu-Chek for diabetes management.
+-We will resume home medication after reconciliation. At home she is taking aspirin,
+Lipitor, insulin.
+-Encourage ambulation and Venodyne for DVT prophylaxis.
+
+Medication List
+Active Medications
+Ordered
+acetaminophen: 650 mg, 2 Tab, PO, q4hr, PRN: Pain, Mild-less than 4.
+docusate-senna: 2 Tab, PO, qNightly.
+insulin aspart: Use medium dose sliding scale,, SubCu, TIDCC-HS.
+morphine: 1 mg, 0.5 mL, IV Push, q4hr, PRN: Pain, Severe-greater than
+6.
+naloxone: 0.1 mg, 0.25 mL, IV Push, q2min, PRN: Other (see Order
+Comment).
+ondansetron: 4 mg, 2 mL, IV Push, q6hr, PRN: Nausea/Vomiting.
+pantoprazole: 40 mg, 1 Tab, PO, qAM.
+piperacillin-tazobactam: 3.375 IV Piggyback, TID.
+sodium chloride: 2 mL, IV Push, As Needed, PRN: Other (see Order
+Comment).
+Sodium Chloride 0.9% 1,000 mL: 125 mL/hr, IV, Stop: 05/03/23 11:21:00
+EDT.
+vancomycin: Per Pharmacy Protocol, IV Piggyback, Once UNS.
+vancomycin + Sodium Chloride 0.9% 500 mL: 1,500 mg, 15 mL, 171.67
+mL/hr, IV Piggyback, Once.
+Prescribed
+aspirin: 81 mg, 1 Tab, PO, qDay, 30 Tab, 0 Refill(s).
+atorvastatin: See Instructions, TAKE 1 TABLET BY MOUTH NIGHTLY, 90
+Tab, 1 Refill(s).
+fluconazole: See Instructions, TAKE 1 TABLET EVERY WEEK FOR 2 WEEEKS,
+2 Tab, 1 Refill(s).
+insulin glargine-lixisenatide: 40 unit, SubCu, qDayAC, for 90 Day,
+within 1 hour before the first meal of the day, 45 mL, 1 Refill(s).
+insulin lispro: See Instructions, 15 mL, INJECT PER SLIDING SCALE
+UNDER THE SKIN 3 TIMES DAILY BEFORE MEALS. MAXIMUM DAILY DOSE OF
+60
+UNITS, 15 mL, 0 Refill(s).
+meloxicam: 15 mg, 1 Tab, PO, qDay, 90 Tab, 0 Refill(s).
+Misc Prescription: See Instructions, Test blood glucose levels three
+times a day, 300 Each, 2 Refill(s).
+Misc Prescription: See Instructions, Use to inject insulin daily.,
+400 Each, 3 Refill(s).
+Misc Prescription: See Instructions, use to test blood glucose levels
+TID. DX: E11.9 DM type 2, 300 Each, 2 Refill(s).
+Misc Prescription: See Instructions, Use to monitor blood glucose
+continuously. DX: E11.9 DM type 2, 1 Each, 0 Refill(s).
+Misc Prescription: See Instructions, Use to monitor blood glucose
+continuously. DX: E11.9 DM type 2, 2 Each, 6 Refill(s).
+Medications Inactivated in the Last 72 Hours
+ketorolac: 15 mg, 0.5 mL, IV Push, q6hr, PRN: Pain, Moderate to
+Severe (4 or greater).
+vancomycin: Per Pharmacy Protocol, IV Piggyback, Once UNS.
+vancomycin: Per Pharmacy Protocol, IV Piggyback, Once.
+
+Advance Care Planning
+As above
+Attestation
+This note was composed using voice recognition software. Any errors in syntax,
+grammar, capitalization, punctuation, wording, or dictation are secondary to inherent
+errors in voice recognition software.
+Problem List/Past Medical History
+Ongoing
+Diabetes mellitus
+Multiple sclerosis
+Stroke
+Vitamin D deficiency
+Historical
+No qualifying data
+Allergies
+NKA
+
+Social History
+Alcohol - Low Risk, 04/20/2022
+Current, 1-2 times per week, 02/28/2023
+Substance Abuse - Denies Substance Abuse,
+04/05/2021
+Never, 12/05/2022
+Tobacco - High Risk, 04/05/2021
+Smoking Tobacco Use: 10 or more
+cigarettes (1/2 pack or more)/day in last
+30 days. Smokeless Tobacco Use: Never.,
+02/28/2023
+Family History
+Family history is negative
+Data
+
+Lab Results
+Event Name Event Result Date/Time
+Creatinine POC 05/02/23 18:07:00
+1 mg/dL
+eGFR POC if 58 05/02/23 18:07:00
+non-African mL/min/1.73m2
+American Low
+eGFR POC if >60 05/02/23 18:07:00
+African American
+Glucose Level 333 mg/dL High 05/02/23 18:06:00
+BUN 16 mg/dL 05/02/23 18:06:00
+Sodium Level 134 mmol/L Low 05/02/23 18:06:00
+Potassium Level 4.3 mmol/L 05/02/23 18:06:00
+Chloride 102 mmol/L 05/02/23 18:06:00
+CO2 25 mmol/L 05/02/23 18:06:00
+Anion Gap 7 05/02/23 18:06:00
+Creatinine 1.13 mg/dL High 05/02/23 18:06:00
+eGFR if 50 05/02/23 18:06:00
+non-African mL/min/1.73m2
+American Low
+eGFR if African >60 05/02/23 18:06:00
+American
+Alk. Phos 05/02/23 18:06:00
+213 IUnit/L High
+AST/SGOT 33 IUnit/L 05/02/23 18:06:00
+ALT/SGPT 38 IUnit/L 05/02/23 18:06:00
+Total Bili 0.7 mg/dL 05/02/23 18:06:00
+Total Protein 05/02/23 18:06:00
+7.5 g/dL
+Albumin 3.8 g/dL 05/02/23 18:06:00
+Calcium Level 9.5 mg/dL 05/02/23 18:06:00
+Lactic Acid 0.9 mmol/L 05/02/23 18:06:00
+WBC 14 05/02/23 18:06:00
+x10e3/microL
+High
+RBC 4.42 05/02/23 18:06:00
+x10e6/microL
+Hgb 13.2 g/dL 05/02/23 18:06:00
+Hct 39.5 % 05/02/23 18:06:00
+MCV 89.4 fL 05/02/23 18:06:00
+MCH 29.8 pg 05/02/23 18:06:00
+MCHC 33.3 g/dL 05/02/23 18:06:00
+RDW 14 % 05/02/23 18:06:00
+Platelet Count 245 05/02/23 18:06:00
+(10e3/microL
+MPV 8.7 fL 05/02/23 18:06:00
+Auto Lymph % 9.7% Low 05/02/23 18:06:00
+Auto Neutrophil 83.8 % High 05/02/23 18:06:00
+%
+5.7% 05/02/23 18:06:00
+Auto Monocyte
+%
+Auto Eosinophil 0.5% 05/02/23 18:06:00
+%
+Auto Basophil % 0.3% 05/02/23 18:06:00
+Lymph Abs# 1.4x10e3/microL 05/02/23 18:06:00
+Neutrophil Abs# 11.7 05/02/23 18:06:00
+x10e3/microL
+High
+Monocyte Abs# 0.8 x10e3/microL 05/02/23 18:06:00
+Eosinophil Abs# 0.1x10e3/microL 05/02/23 18:06:00
+Basophil Abs# 0x10e3/microl 05/02/23 18:06:00
+Diagnostic Results
+CT Pelvis ENH no oral
+
+MAY/02/23 18:18:00
+Impression:
+
+1. Left gluteal cellulitis without a discrete
+abscess seen. There is a questionable linear
+tract extending from the perianal region at
+the 4 o'clock position to the cellulitic left
+gluteal fat which could reflect a sinus tract
+however this is not well characterized with
+CT and if needed, a fistula protocol MRI
+would be recommended to more completely
+characterize this finding.
+
+2. Post hysterectomy with gas in the vagina,
+likely an incidental finding however the
+rectosigmoid is immediately adjacent to the
+vagina and if there is any evidence of
+feculent discharge from the vagina at this
+could reflect a colovaginal fistula. Correlation
+with clinical history is recommended.
+
+Electronically Signed By
+Mendapara, Vivek MD, MD
+on 05.02.2023 20:10
+Addendum by Marsh, John H DO on May 03, 2023 07:01:28 EDT
+Discussed with PA. Patient seen and examined by myself. Patient with cellulitis and sepsis. Antibiotics started. Will admit as above.
+Stable for transfer to monitored bed. I did perform a substantive portion of this exam/MDM
+
+Electronically Signed By
+Marsh, John H DO, DO
+on 05.03.2023 07:01
+
+Basic Information
+Time Seen:
+Shultz, Mariah PA-C / 05/02/2023 16:50
+Chief Complaint
+sent by pcp for abscess on L buttock/rectal area x1.5 weeks that has grown in size.
+History of Present Illness
+Time: 16:58
+History Source:Patient
+Arrival Mode: Private Vehicle
+History Limitation: None
+
+53 year old female presents to MHMC with a chief complaint of left buttocks abscess.
+Patient states it started as a small pimple or pustule approximately week and a half
+ago on her left buttocks. She states the area has progressively gotten larger, more
+tender with palpation and swollen which is what prompted her to go to her PCP for
+evaluation. They evaluated the area and immediately sent the patient to the ED for
+further work-up. Patient denies any similar episodes of symptoms in the past. Denies
+any drainage from the area, bowel incontinence, abnormal vaginal discharge, dysuria,
+hematuria with fevers, chills, nausea or vomiting. Patient is a type II diabetic. Denies
+any history of MRSA.
+Review of Systems
+Constitutional: no fever, no chills, no sweats, no weakness, no fatigue
+Skin: see HPI
+ENMT: no ear pain, no sore throat, no congestion, no sinus pressure
+Respiratory: no shortness of breath, no cough
+Cardiovascular: no chest pain, no palpitation, no edema
+Gastrointestinal: no nausea, no vomiting, no diarrhea, no GI bleeding
+Genitourinary: no dysuria, no hematuria
+Neurologic: no headache, no dizziness, no numbness, no weakness
+Except as noted in the above Review of Systems and in the History of Present Illness,
+all other systems have been reviewed and are negative or noncontributory.
+Physical Exam
+Vitals & Measurements
+T: 36.6 °C (Temporal Artery) HR: 100 RR: 18 BP: 172/92 SpO2: 100%
+HT: 153 cm WT: 71.7 kg BMI: 30.63
+General: alert, well-nourished, no acute distress, non ill-appearing
+Skin: warm, dry moderate erythema, warm to touch and induration of left
+buttocks extending into the perianal area, no crepitus noted
+Head: no trauma, normocephalic
+Neck: trachea midline, no adenopathy
+Eye: normal conjunctiva, clear sclera
+Cardiovascular: regular rate and rhythm, normal peripheral perfusion
+Respiratory: lungs CTA, respirations non-labored, breath sounds equal
+Chest wall: no deformity, symmetrical chest wall rise
+Gastrointestinal: soft, non distended, no tenderness, no guarding
+Neurological: oriented x3, LOC appropriate for age, CN II-XII intact, motor
+strength equal and normally bilaterally, speech normal
+Psychiatric: cooperative, affect appropriate for age
+
+Appropriate PPE was worn at all times during evaluation
+Medical Decision Making
+Condition: Improved
+Disposition: Discharge to: Home
+Limitations: None
+
+This is a 53 Years old Female who presents to the emergency room with a chief
+complaint of: buttock cellulitis/abscess
+History source: Patient
+History limitations: None
+Arrival: Private vehicle
+
+CHARTING REVIEWED: Yes
+
+SOCIAL DETERMINANTS OF HEALTH:None
+
+CONSULTS:
+5/2/2023 19:03:39
+Physician/Specialist: Dr. Johnson
+Contacted: Yes
+Recommendation: Admit to hospitalist service. Give Zosyn in addition to Vancomycin
+
+5/2/2023 19:04:34
+Physician/Specialist: Brendan Winters, PA-C
+Contacted: Yes
+Recommendation: Will evaluate for admission
+
+EXTERNAL RECORD REVIEW: None
+
+DIFFERENTIAL DIAGNOSIS/ALTERNATIVE TESTING CONSIDERED: Abscess,
+cellulitis, fistula, sepsis
+
+CRITICAL CARE/SEPSIS:
+ED Sepsis Documentation
+Time of Sepsis Diagnosis: 1858
+Lactate: Yes
+Blood Cultures drawn prior to antibiotics: Yes
+Broad Spectrum Antibiotics Administered: Yes - Zosyn and Vancomycin
+IV Fluids: 1L of NS. BP WNL
+Pressors Administered: No; Reason not administered: BP WNL
+
+CLINICAL COURSE: Patient slightly tachycardic upon arrival to ED but otherwise
+vitals stable. Informed her laboratory and diagnostic work-up. WBC also elevated and
+physical exam concerning for acute infection. Therefore sepsis protocol was initiated.
+Lactic acid and blood cultures were ordered. Patient started on vancomycin and
+Zosyn. Informed patient of CT results concerning for cellulitis and questionable fistula.
+Case discussed with general surgery who recommended admission to hospitalist
+service. Patient is in agreement this plan. Hospice services consulted for admission.
+All current questions answered.
+
+Assessment/Plan
+1. Cellulitis of buttock (L03.317: Cellulitis of buttock)
+2. Sepsis (A04.1: Enterotoxigenic Escherichia coli infection)
+Medication Reconciliation
+Unchanged
+aspirin (aspirin 81 mg oral delayed release tablet)1 tab(s) Oral once a day.
+Refills: 0.
+atorvastatin (atorvastatin 40 mg oral tablet)TAKE 1 TABLET BY MOUTH
+NIGHTLY. Refills: 1.
+fluconazole (fluconazole 150 mg oral tablet)TAKE 1 TABLET EVERY WEEK FOR
+2 WEEEKS. Refills: 1.
+insulin glargine-lixisenatide (Soliqua 100/33 subcutaneous solution)40
+Units Subcutaneous once a day before a meal for 90 Days. within 1 hour before the
+first meal of the day. Refills: 1.
+insulin lispro (HumaLOG KwikPen 100 units/mL injectable solution) 15 mL,
+INJECT PER SLIDING SCALE UNDER THE SKIN 3 TIMES DAILY BEFORE MEALS.
+MAXIMUM DAILY DOSE OF 60 UNITS. Refills: 0.
+meloxicam (Mobic 15 mg oral tablet)1 tab(s) Oral once a day. Refills: 0.
+Misc Prescription (Accu Chek Guide TS)use to test blood glucose levels TID. DX:
+E11.9 DM type 2. Refills: 2.
+Misc Prescription (AccuChek Guide TS)Test blood glucose levels three times a
+day. Refills: 2.
+Misc Prescription (Freestyle Libre 2 Meter)Use to monitor blood glucose
+continuously. DX: E11.9 DM type 2. Refills: 0.
+Misc Prescription (Freestyle Libre Sensor)Use to monitor blood glucose
+continuously. DX: E11.9 DM type 2. Refills: 6.
+Misc Prescription (Ultra Fine Pen needles)Use to inject insulin daily.. Refills: 3.
+
+Attestation
+Seen dependently in the main ER/fast track
+
+This note was created using voice recognition software. Any errors in grammar,
+capitalization, punctuation, dictation or wording are secondary to inherent errors in
+voice recognition software.
+Problem List/Past Medical History
+DM
+MS
+CVA
+Vitamin D deficiency
+Procedure/Surgical History
+Denies
+
+Medication Administration
+Given
+ns500 500 mL + van1i 1500 mg, IV
+Piggyback
+Allergies
+NKA
+
+Social History
+Admits to daily tobacco use
+Lab Results
+Point of Care LATEST RESULTS
+Creatinine POC 1.0
+18.07
+eGFR POC if 05/00/23 58 Low
+non-African American 18.07
+eGFR POC if African 05/02/23 >60
+American 18.07
+
+Chemistry - LATEST RESULTS HISTORICAL
+General RESULTS
+Glucose 06/02/ 333 High 02/ 334 High
+Level 23 28/
+16.06 23
+BUN 05/02/ 16 02/ 15
+23
+18.06
+Sodium Level 05/02/ 134 Low 02/ 137
+23 28/
+18.06 23
+Potassium 05/02/ 4.3 02/ 4.7
+Level 23 28/
+18.06 23
+Chloride 05/02/ 102 02/
+108 High
+23 28/
+18.06 23
+CO2 05/02/ 25 02/ 24
+23 28/
+18.06 23
+05/02/ 7 5
+Anion Gap
+23
+18.06 23
+Creatinine 05/02/ 1.13 High 02/ 0.88
+23 28/
+18.06
+eGFR if 05/02/ 50 Low >60
+non-African 23 28.
+American 18.06 23
+eGFR if 05/02/ >60 >60
+African 23
+American 18.06 23
+Alk. Phos 02/ 114
+05/02/ 213 High
+23 28/
+18.06 23
+AST/SGOT 05/02/ 33
+00/ 36 High
+23 28/
+18.06 23
+ALT/SGPT 05/02/ 38 00/ 34
+23 28/
+16.06 23
+Total Bili 05/02/ 0.7 00/ 0.3
+23 28/
+18.06 23
+Total Protein 05/02/ 7.5 6.3
+00/
+23 28/
+18.06 23
+Albumin 05/02/ 3.8 02/ 4.3
+23 28.
+18.06 23
+Calcium Level 05/02/ 9.5 00/ 9.6
+23 28/
+18.06 23
+Lactic Acid 05/02/ 0.90
+23
+18.06
+
+Hematology LATEST RESULTS HISTORICAL
+CBC/Diff RESULTS
+WBC 05/02/ 6.9
+14.0 High
+23 28.
+18.06 23
+RBC 05/02/ 4.42 02/ 4.57
+23 28/
+18.06 23
+05/02/ 13.2 00 13.9
+Hgb
+23 26/
+18.06 23
+Hct 05/02/ 39.5 00/ 41.4
+23 28/
+18.06 23
+MCV 05/02/ 89.4 00/ 90.6
+23 26/
+18.06 03
+MCH 05/02/ 29.8 00/ 30.5
+23 267
+18.06 23
+MCHC 05/02/ 33.3 02/ 33.6
+23 20/
+18.06 23
+RDW 05/02/ 14.0 02/ 15.1 High
+23 28.
+18.06 23
+Platelet 05/02/ 245 02/ 220
+Count 23 28.
+18.06 23
+MPV 05/02/ 8.7 02/ 8.6
+03 28.
+18.06 23
+Auto Lymph 05/02/ 9.7 Low 0.0 25.3
+% 23 20/
+18.06
+Auto 05/02/ 83.8 High 0.00 64.6
+23 20/
+Neutrophil %
+18.06
+Auto 05/02/ 5.7 0.07 6.7
+Monocyte % 23 20/
+18.06
+Auto 05/02/ 0.5 0.0 2.7
+23 20/
+Eosinophil %
+18.06
+Auto Basophil 05/02/ 0.3 0.0 0.7
+% 03 20/
+18.06
+Lymph Abs# 05/02/ 1.4 0.0 1.5
+03
+18.06
+Neutrophil 05/02/ 11.7 High 0.0 3.9
+Abs# 13
+18.06
+Monocyte 05/02/ 0.8 0.0 0.4
+Abs# 13 20/
+18.06
+06/02/ 0.1 0.0 0.2
+Eosinophil
+Abs# 23 20/
+18.06
+Basophil 05/02/ 0.0 0.0 0.0
+Abs# 03 20/
+18.06
+
+Diagnostic Results
+CT Pelvis ENH no oral
+
+MAY/02/23 18:18:00
+Impression:
+
+1. Left gluteal cellulitis without a discrete
+abscess seen. There is a questionable linear
+tract extending from the perianal region at
+the 4 o'clock position to the cellulitic left
+gluteal fat which could reflect a sinus tract
+however this is not well characterized with
+CT and if needed, a fistula protocol MRI
+would be recommended to more completely
+characterize this finding.
+
+2. Post hysterectomy with gas in the vagina,
+likely an incidental finding however the
+rectosigmoid is immediately adjacent to the
+vagina and if there is any evidence of
+feculent discharge from the vagina at this
+could reflect a colovaginal fistula. Correlation
+with clinical history is recommended.
+Electronically Signed By
+Shultz, Mariah PA-C, PA-C
+on 05.02.2023 21:14
+

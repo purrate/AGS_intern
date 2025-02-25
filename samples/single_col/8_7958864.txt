@@ -1,0 +1,329 @@
+============================================================================================
+
+ED Arrival Information
+Expected Arrival Acuity
+- 10/15/2023 22:17 4 - Less Urgent
+
+Means of arrival Escorted by Service Admission type
+Ambulance Service Self Emergency Medicine Emergency
+
+Arrival complaint
+fall
+
+Chief Complaint
+Comment
+Complaint
+Chest Pain Midsternal chest pain 7/10, pt reports he was running from someone
+and fell face forward with phone hitting his chest.
+
+Hadac, Jason (MRN 14150249) Printed by Eastin, Michael, RN [364040] at 10/19/2023 12:04 AM
+============================================================================================
+ED Treatment Team
+Provider Role From To Phone Pager
+10/15/23 2240 10/15/23 2346 318-346-6681 --
+Gupta, Prashant, MD Attending Provider
+
+ED Vitals
+(RETIR
+ED) O2
+Device
+(Oxyge
+MAP BP Patient n
+(mmHg Locatio Positio Therap
+Date/Time Temp Pulse Resp BP ) n n SpO2 y) Weight Who
+-- -- -- -- --
+10/15/23 97 16 123/66 85 99% ME
+2315
+-- -- -- --
+10/15/23 97.5 °F 109 20 142/90 96% 77.1 kg SL
+2226 ?
+(36.4 (170 lb)
+°C)
+
+Hadac, Jason (MRN 14150249) Printed by Eastin, Michael, RN [364040] at 10/19/2023 12:04 AM
+============================================================================================
+Hadac, Jason (MRN 14150249) Printed by Eastin, Michael, RN [364040] at 10/19/2023 12:04 AM
+============================================================================================
+ED Provider Notes
+
+ED Provider Notes by Gupta, Prashant, MD at 10/15/2023 10:42 PM
+Author: Gupta, Prashant, MD Service: Emergency Medicine Author Type: Physician
+Filed: 10/15/2023 11:27 PM Creation Time: 10/15/2023 10:42 PM Status: Signed
+Editor: Gupta, Prashant, MD (Physician)
+
+Encounter Date:[PG.1] 10/15/2023
+
+History(PG.1)
+
+Chief Complaint
+Patient presents with
+Chest Pain
+Midsternal chest pain 7/10, pt reports he was running from someone and fell face forward with phone hitting
+his chest. [PG.2]
+
+Midsternal chest pain 7/10, pt reports he was running from someone and fell face forward with phone hitting his
+chest. Apparently a shotgun was involved and polcie are on their way to investigate
+
+The history is provided by the patient.
+Chest Pain
+The current episode started just prior to arrival. The chest pain is unchanged. The pain is associated with
+breathing and coughing. At its most intense, the chest pain is at 5/10. The chest pain is currently at 5/10. The
+quality of the pain is described as aching. The pain does not radiate. Chest pain is worsened by certain
+positions and deep breathing. He tried nothing for the symptoms. There are no known risk factors. [PG.1]
+
+Review of patient's allergies indicates:
+No Known Allergies
+No past medical history on file.
+No past surgical history on file.
+No family history on file.
+Social History
+
+Tobacco Use
+Smoking status: Never
+Smokeless tobacco: Never
+Substance Use Topics
+Alcohol use: Not Currently
+Never [PG.2]
+Drug use:
+
+Review of Systems
+Constitutional: Negative.
+HENT: Negative.
+Eyes: Negative.
+Respiratory: Negative.
+Cardiovascular: Positive for chest pain.
+Gastrointestinal: Negative.
+Endocrine: Negative.
+Genitourinary: Negative.
+Musculoskeletal: Negative.
+Skin: Negative.
+Allergic/Immunologic: Negative.
+Neurological: Negative.
+
+Hadac, Jason (MRN 14150249) Printed by Eastin, Michael, RN [364040] at 10/19/2023 12:04 AM
+============================================================================================
+ED Provider Notes (continued)
+ED Provider Notes by Gupta, Prashant, MD at 10/15/2023 10:42 PM (continued)
+Hematological: Negative.
+Psychiatric/Behavioral: Negative.
+All other systems reviewed and are negative.
+
+Physical Exam(PG.1)
+
+Initial Vitals [10/15/23 2226]
+BP Pulse Resp Temp SpO2
+20 97.5 °F 96%
+(1) 142/90 109
+(36.4 °C)
+
+MAP
+__[PG.2]
+
+Physical Exam
+
+Nursing note and vitals reviewed.
+Constitutional: He appears well-developed and well-nourished.
+HENT:
+Head: Normocephalic and atraumatic.
+Eyes: EOM are normal. Pupils are equal, round, and reactive to light.
+Neck: Neck supple.
+Normal range of motion.
+Cardiovascular: Normal rate, regular rhythm, normal heart sounds and intact distal pulses.
+Pulmonary/Chest: Breath sounds normal. Chest wall is not dull to percussion. He exhibits tenderness and bony
+tenderness. He exhibits no laceration, no edema, no deformity and no swelling.
+
+Abdominal: Abdomen is soft. Bowel sounds are normal.
+Musculoskeletal:
+General: Normal range of motion.
+Cervical back: Normal range of motion and neck supple.
+
+Neurological: He is alert and oriented to person, place, and time. He has normal strength. GCS score is 15.
+Hadac, Jason (MRN 14150249) Printed by Eastin, Michael, RN [364040] at 10/19/2023 12:04 AM
+============================================================================================
+ED Provider Notes (continued)
+
+ED Provider Notes by Gupta, Prashant, MD at 10/15/2023 10:42 PM (continued)
+GCS eye subscore is 4. GCS verbal subscore is 5. GCS motor subscore is 6.
+Skin: Skin is warm and dry.
+Psychiatric: He has a normal mood and affect. His behavior is normal. Judgment and thought content normal.
+
+ED Course
+Procedures{PG.1]
+Labs Reviewed - No data to display
+
+Imaging Results
+Result time 10/15/23 23:25:48
+
+X-Ray Chest PA And Lateral (Preliminary result)
+
+Wet Read by Gupta, Prashant, MD (10/15/23 23:25:48, Ochsner Abrom Kaplan - Emergency Dept,
+Emergency Medicine)
+No acute cardiopulmonary no acute cardiopulmonary process no bony thorax abnormalities.
+
+Medications
+ketorolac tablet 10 mg (10 mg Oral Given 10/15/23 2248)[PG.2]
+
+Medical Decision Making
+Normal chest x-ray. We will discharge home with ibuprofen
+
+Clinical Impression:!PG11
+Final diagnoses:
+[R07.89] Chest wall pain
+[S20.219A] Contusion of chest wall, initial encounter (Primary)
+
+ED Disposition Condition
+Discharge Stable
+
+ED Prescriptions
+
+Hadac, Jason (MRN 14150249) Printed by Eastin, Michael, RN [364040] at 10/19/2023 12:04 AM
+============================================================================================
+ED Provider Notes (continued)
+
+ED Provider Notes by Gupta, Prashant, MD at 10/15/2023 10:42 PM (continued)
+Medication Start Date End Date Auth. Provider
+Sig Dispense
+--
+20 tablet 10/15/2023
+ibuprofen (ADVIL,MOTRIN) 400 MG Take 1 tablet Gupta, Prashant, MD
+tablet
+(400 mg total)
+by mouth every
+6 (six) hours as
+needed for
+Other (PAIN).
+
+Follow-up Information
+
+Follow up With Specialties Details Why Contact Info
+Dawson-Caswell, Pediatrics In 1 day 717 Curtis Drive
+Marin, DO Rayne LA 70578
+337-334-7551
+
+Gupta, Prashant, MD
+10/15/23 2327
+[PG.2]
+
+Electronically signed by Gupta, Prashant, MD at 10/15/2023 11:27 PM
+Attribution Key
+PG.1 - Gupta, Prashant, MD on 10/15/2023 10:42 PM
+PG.2 - Gupta, Prashant, MD on 10/15/2023 11:27 PM
+
+ED Diagnoses
+Diagnosis Comment Associated Orders
+
+Final diagnoses
+Chest wall pain -- --
+
+Contusion of chest wall, initial --
+XR CHEST PA AND LATERAL
+encounter
+
+Hadac, Jason (MRN 14150249) Printed by Eastin, Michael, RN [364040] at 10/19/2023 12:04 AM
+============================================================================================
+ED Disposition
+ED Condition Comment
+Disposition Stable --
+Discharge
+
+Patient Care Timeline
+No data selected in time range
+
+Lab Results
+None
+
+Imaging Results
+
+X-Ray Chest PA And Lateral (Final result) Result time 10/16/23 07:13:16
+Final result by Stone, Andrew M, MD (10/16/23 07:13:16)
+
+Impression:
+
+No acute findings in the chest
+
+Electronically signed by: Andrew Stone, MD
+Date: 10/16/2023
+Time:
+07:13
+Narrative:
+EXAMINATION:
+XR CHEST PA AND LATERAL
+
+CLINICAL HISTORY:
+Contusion of unspecified front wall of thorax, initial encounter
+
+COMPARISON:
+None
+
+FINDINGS:
+PA and lateral views of the chest show no focal consolidation, pneumothorax or pleural effusion. Cardiac
+silhouette and pulmonary vasculature are normal. No acute osseous findings.
+
+ECG Results
+None
+
+Medication Administration through 10/19/2023 0004
+Date/Time Order Dose Route Action Action by Comments
+10/15/2023 ketorolac tablet 10 mg 10 mg Oral Given Eastin, --
+2248 CDT Michael,
+RN
+
+Home Medications
+No medications reported.
+
+Medication Documentation Review Audit
+Reviewed by Leger, Shelbee, RN (Registered Nurse) on 10/15/23 at 2228
+Documenting
+Medication Order Taking? Sig Provider Last Dose Status
+
+No Medications to
+Display
+
+Hadac, Jason (MRN 14150249) Printed by Eastin, Michael, RN [364040] at 10/19/2023 12:04 AM
+============================================================================================
+Medication Documentation Review Audit (continued)
+
+ED ADT Orders (From admission, onward)
+None
+
+ED Medication Orders (From admission, onward)
+Start Ordered Status Ordering Provider
+10/15/23 2245 10/15/23 2244 ketorolac tablet 10 mg ED 1 Last MAR action: GUPTA, PRASHANT
+Time Given - by EASTIN,
+Route: Oral Ordered Dose: 10 MICHAEL on
+mg 10/15/23 at 2248
+
+ED Imaging Orders (From admission, onward)
+Start Ordered Status Ordering Provider
+10/15/23 2245 10/15/23 2244 X-Ray Chest PA And Lateral Final result GUPTA, PRASHANT
+1 time imaging
+
+ED Micro, Lab, POCT (From admission, onward)
+None
+
+ED All Other Orders (From admission, onward)
+None
+
+Code,Iso,Restrain: (From admission, onward)
+None
+
+Hadac, Jason (MRN 14150249) Printed by Eastin, Michael, RN [364040] at 10/19/2023 12:04 AM
+============================================================================================
+ED Prescriptions
+Medication Sig Dispense Start Date End Date Auth. Provider
+Take 1 tablet 20 tablet 10/15/2023 --
+ibuprofen (ADVIL,MOTRIN) 400 MG Gupta, Prashant, MD
+tablet (400 mg total)
+by mouth every
+6 (six) hours as
+needed for
+Other (PAIN).
+
+ED Discharge Orders (From admission, onward)
+Start Ordered
+10/15/23 0000 10/15/23 2326
+ibuprofen (ADVIL,MOTRIN) 400 MG tablet Every 6 hours PRN
+
+Hadac, Jason (MRN 14150249) Printed by Eastin, Michael, RN [364040] at 10/19/2023 12:04 AM
+============================================================================================
+

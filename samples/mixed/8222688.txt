@@ -1,0 +1,142 @@
+
+DOCUMENT TYPE: ED Physician Notes
+RESULT STATUS: Auth (Verified)
+SIGNED INFORMATION: WILBUR, LEE, MD Emergency Medicine (10/22/2023 01:18
+CDT)
+SERVICE DATE/TIME 10/22/2023 01:09 CDT
+
+STD CONCERN
+
+Patient: YUSUF, JARRIEN JACQUAN ALEXAVIER MRN: 1246181 FIN: A2329500003
+Age: 24 years Sex: Male DOB: 12/21/1998
+Associated Diagnoses: Penile discharge; Concern about STD in male without diagnosis
+Author: WILBUR, LEE, MD Emergency Medicine
+
+Basic Information
+Time seen: Date & time 10/22/2023 01:00:00.
+Additional information: Chief Complaint from Nursing Triage Note : Chief Complaint
+10/22/2023 0:41 CDT Chief Complaint reports green discharge from his penis buring with urination x2 days and recent
+unprotected sex.
+
+History of Present Illness
+The patient presents with CONCERN FOR STD. The onset was 2 days ago. The course/duration of symptoms is constant. Location: PENILE DC.
+The character of symptoms is pain. The degree at onset was minimal. The degree at present is minimal. Risk factors consist of PT HAD STD TWICE
+IN PAST (GC) - PRESENTED SIMILAR TO TODAY. CONTINUES TO HAVE UNPROTECTED SEX.. Therapy today: none. Associated symptoms: NO
+TESTICLE PAIN, denies abdominal pain, denies nausea and denies vomiting.
+
+Review of Systems
+Constitutional symptoms: No fever,
+Skin symptoms: Negative except as documented in HPI.
+Eye symptoms: Negative except as documented in HPI.
+ENMT symptoms: Negative except as documented in HPI.
+Respiratory symptoms: No shortness of breath,
+Cardiovascular symptoms: No chest pain,
+Gastrointestinal symptoms: Negative except as documented in HPI.
+Genitourinary symptoms: Negative except as documented in HPI.
+Musculoskeletal symptoms: Negative except as documented in HPI.
+Neurologic symptoms: No headache,
+Psychiatric symptoms: Negative except as documented in HPI.
+Endocrine symptoms: Negative except as documented in HPI.
+Hematologic/Lymphatic symptoms: Negative except as documented in HPI.
+Allergy/immunologic symptoms: Negative except as documented in HPI.
+
+Health Status
+Allergies:
+Allergic Reactions (All)
+No Known Allergies.
+
+Past Medical/ Family/ Social History
+Medical history:
+No active or resolved past medical history items have been selected or recorded. COVID. GONORRHEA.
+Surgical history:
+No active procedure history items have been selected or recorded., NONE.
+Family history:
+No family history items have been selected or recorded..
+Social history:
+Social & Psychosocial Habits
+
+No Data Available
+SOCIAL MJ AND ETOH.
+Problem list:
+Active Problems (3)
+Disease caused by 2019 novel coronavirus
+Influenza A
+Urethritis
+
+Physical Examination
+
+Vital Signs
+Vital Measurements
+10/22/2023 0:41 CDT Blood Pressure Location Arm, right upper
+Blood Pressure Source Non-Invasive BP Device
+Systolic Blood Pressure 108 mmHg
+Diastolic Blood Pressure 68 mmHg
+Mean Arterial Pressure (MAP) 81 mmHg
+Temperature Source Temporal artery scanning
+Temperature Mode Fahrenheit
+Temperature, Fahrenheit 97.3 Deg F
+Clinical Temperature, C 36.3 Deg C
+Pulse Rate 54 bpm LOW
+18 Breaths/Min
+Respiratory Rate
+Oxygen Saturation 97 %
+Oxygen Therapy Mode Room air
+Oxygen saturation.
+General: Alert.
+Skin: Warm, pink, intact, no rash.
+Head: Normocephalic, atraumatic.
+Neck: Trachea midline.
+Eye: Pupils are equal, round and reactive to light.
+Ears, nose, mouth and throat: Oral mucosa moist.
+Cardiovascular: No edema.
+Respiratory: Respirations are non-labored, Symmetrical chest wall expansion.
+Chest wall: No deformity.
+Back: Normal range of motion.
+Musculoskeletal: No deformity.
+Gastrointestinal: Non distended.
+Genitourinary: PT DECLINED EXAM DUE LOCATION IN FAST TRACK.
+Neurological: Alert and oriented to person, place, time, and situation, No focal neurological deficit observed.
+Lymphatics: No lymphadenopathy.
+Psychiatric: Cooperative.
+
+Medical Decision Making
+Differential Diagnosis: STD, UTI.
+Documents reviewed: Emergency department nurses' notes, emergency department records.
+Notes: MDM: 24 YO AAM THAT C/O PENILE DC FOR 2 DAYS. HE HAS HAD AN STI TWICE IN PAST YEAR. | WILL TX EMPIRICALLY WITH
+ROCEPHIN/ DOXY AND DC WITH DOXY. GC/ CHL PENDING AT TIME OF DC. INSTRUCTED TO GO TO HEALTH DEPT FOR
+FURTHER TESTING (HIV/SYPHYLLIS/ETC).
+Impression and Plan
+Diagnosis
+Penile discharge - Discharge-MD
+Concern about STD in male without diagnosis - Discharge-MD
+Plan
+Condition: Stable.
+Disposition: Discharged
+Admit/Transfer/Discharge:
+Discharge (Order): 10/22/2023 1:15 CDT, Discharge to: Home.
+Prescriptions: Prescription Writer
+Pharmacy:
+doxycycline hyclate 100 mg oral capsule (Prescribe): 100 mg, 1 Cap, Oral, BID, for 10 Day(s), 20 Cap, 0 Refill(s).
+Patient was given the following educational materials: Gonorrhea Test, Chlamydia Test, Chlamydia Test, Gonorrhea Test.
+Follow up with: HEALTH DEPARTMENT FOR FURTHER STD TESTING Within 2-4 days.
+Counseled: Patient, Regarding diagnosis, Regarding diagnostic results, Regarding treatment plan, Regarding prescription, Patient indicated
+understanding of instructions.
+Request for Electronic Authentication By:
+
+WILBUR, LEE, MD Emergency Medi Electronically Authenticated On: 10/22/2023 01:18 AM
+DOCUMENT TYPE: ED Physician Record
+RESULT STATUS: Auth (Verified)
+SIGNED INFORMATION: WILBUR,LEE,MD Emergency Medicine (10/22/2023 01:09
+CDT)
+SERVICE DATE/TIME 10/22/2023 01:09 CDT
+
+Medicaid Medical Screening Determination Entered On: 10/22/2023 1:09 CDT
+Performed On: 10/22/2023 1:09 CDT by WILBUR, LEE, MD Emergency Medicine
+
+Medicaid Medical Screening Determination
+Today's visit Emergent or Non-Emergent Emergent
+WILBUR, LEE, MD Emergency Medicine - 10/22/2023 1:09 CDT
+Request for Electronic Authentication By:
+
+WILBUR, LEE, MD Emergency Medi Electronically Authenticated On: 10/22/2023 01:09 AM
+

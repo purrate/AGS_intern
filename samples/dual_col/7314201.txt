@@ -1,0 +1,227 @@
+
+* Final Report *
+
+DATE/TIME NOTE CREATED:
+08/30/2023 01:13:27
+DATE/TIME PATIENT SEEN:
+Time seen: 08/30/2023 00:09:45
+CHIEF COMPLAINT:
+c/o heavy period, +cramping X 2 days
+HISTORY OF PRESENT ILLNESS:
+29 yo morbidly obese female presents to en c/o menstrual cramping and heavy
+bleeding for the last 2 days; has not seen gyn in over 5 years; reports usual
+menstrual cycle is 3 days long and light to moderate in flow, but this time going
+thru 1 pad per hour. Sexually active without protection; denies pain with urination,
+denies n/v/d; denies headache or dizziness
+REVIEW OF SYSTEMS:
+see hpi for details
+PHYSICAL EXAM:
+VITAL SIGNS:
+Vital Signs: Last Charted:
+Temperature Oral 36.5 degO (08/30 01:11)
+Heart Rate 70 bpm (08/30 01:11)
+Respiratory Rate 18 breaths/min (08/30 01:11)
+Systolic BP 142 mmHg (H) (08/30 01:11)
+Diastolic BP 91 mmHg (H) (08/30 01:11)
+Mean Arterial Pressure 108 mmHg (08/30 01:11)
+Blood Pressure Location Left, Lowe (08/30 01:11)
+Blood Pressure Method Automatic (08/30 01:11)
+SpO2/Pulse Oximetry 96% (08/30 01:11)
+Dosing BMI 52 (08/30 01:11)
+GENERAL: morbidly obese female in[No acute distress, non-toxic appearing.]
+HEAD: [Normal with no signs of head trauma.
+EYES: [PERRLA, EOMI, conjunctiva normal, no discharge.]
+ENT: [Hearing grossly intact, normal oropharynx.]_
+NECK: [Supple, no tenderness, no lymphadenopathy, no masses, no thyromegaly,
+no bruits, no JVD.]
+LUNGS: [Clear breath sounds bilaterally. No wheezes, rales, or rhonchi.]
+HEART: [Regular rate and rhythm. Normal S1 and S2, without murmurs, rub, or
+gallop.]
+VASC: [No edema. Peripheral pulses normal and equal in all extremities.
+ABD: [Bowel sounds normal, soft, suprapubic tenderness, no masses, no
+organomegaly; massively obese pannus
+GU: [no cvat
+LYMPH: [No lymphadenopathy noted.]
+EXT: [Normal range of motion, no joint swelling, no clubbing, no cyanosis.
+SKIN: [No rashes or lesions.]
+NEURO: [Alert and oriented X 3. Normal affect. Cranial nerves intact. No focal
+sensory or strength deficits. Reflexes symmetric.]
+MEDICAL DECISION MAKING:
+1 - labs - hcg/cbc - r/o pregnancy/anemia
+2 - imaging - u/s - r/o pregnancy/fibroids/fb
+3 - meds - analgesic
+REEXAMINATION/REEVALUATION:
+resutls reviewed and d/w pt; feeling better
+IMPRESSION/PLAN:
+Dysmenorrhea N94.6
+Orders:
+Complete Blood Count w/3 pt Auto Diff
+Decision to Discharge
+Discharge Patient
+HCG Qual Urine
+Primary Assessment
+Screenings/History Adults
+Triage Part 1
+Triage Part 2
+US Art/Vein ABD/Pelvis/Scrotal Limited
+US Pelvis Non-OB Limited
+
+PATIENT EDUCATION:
+Dysmenorrhea, Easy-to-Read
+FOLLOW UP:
+With When Contact Information
+gyn Within 3-5 days
+Additional Instructions:
+PROBLEM LIST/PAST MEDICAL
+HISTORY:
+Ongoing
+No qualifying data
+Historical
+No qualifying data
+
+PROCEDURE/SURGICAL HISTORY:
+Uterine Dilatation of Cervix and
+Evacuation of Uterus with Suction
+(01/16/2023)
+o section
+SOCIAL HISTORY:
+Alcohol
+Use: Denies use.
+Home/Environment
+Human Trafficking Red Flags None.
+Substance Abuse
+Use: Denies use.
+Tobacco
+Tobacco Use: Unknown if ever smoked.
+FAMILY HISTORY:
+Breast cancer: Mother.
+Diabetes mellitus type 2: Grandparent.
+Father: History is negative
+MEDICATIONS ORDERED:
+No qualifying data available
+MEDICATIONS ADMINISTERED:
+Given
+Toradol, 60 mg, IntraMuscular
+HOME MEDICATIONS:
+New
+mefenamic acid (mefenamic acid
+250 mg oral capsule) 1 capsule(s)
+Oral Every 6 hours scheduled as needed
+for menstrual pain for 5 day(s). Refills:
+0.
+
+ALLERGIES:
+NKA
+
+LAB RESULTS:
+Test Test Date/Time
+Name Result
+WBC 08/30/2023
+9.9 10e9/L
+00:24 MDT
+RBC 4.79 10e12/ 08/30/2023
+L 00:24 MDT
+Test Test Date/Time
+Name Result
+Hgb 13.5 g/dL 08/30/2023
+00:24 MDT
+Hct 08/30/2023
+39.6 %
+00:24 MDT
+MCV 08/30/2023
+82.5 fL
+00:24 MDT
+MCH
+08/30/2023
+28.1 pg
+00:24 MDT
+MCHC 08/30/2023
+34.1 g/dL
+00:24 MDT
+RDW 08/30/2023
+14.6 %
+00:24 MDT
+Platelet Cou 08/30/2023
+227 10e9/L
+nt 00:24 MDT
+MPV 08/30/2023
+10.5 fL
+00:24 MDT
+Granulocyte 08/30/2023
+56.5 %
+Rel 00:24 MDT
+Lymphocyte 08/30/2023
+37.6 %
+Rel 00:24 MDT
+MixOthrCells 08/30/2023
+5.9 %
+Rel 00:24 MDT
+Lymphocyte 08/30/2023
+3.7 10e9/L
+Abs 00:24 MDT
+MixOthrCells 08/30/2023
+0.6 10e9/L
+Abs 00:24 MDT
+Granulocyte 08/30/2023
+5.6 10e9/L
+Abs 00:24 MDT
+HCG Qual U 08/30/2023
+Negative
+01:01 MDT
+results reviewed and d/w pt
+RADIOLOGY/DIAGNOSTIC RESULTS:
+Radiology - Last 36 hours (2)
+US Art/Vein ABD/Pelvis/Scrotal
+Limited (08/30 00:18)
+FINDINGS:
+
+Uterus is 8.1 X 4.6 X 6.2 cm. The
+endometrium is roughly 1.3 cm thick. The
+right ovary is 3.1 X 2.3 X 2.5 cm. The left
+ovary is 3.7 X 1.8 X 2.1 cm. Vascular flow
+demonstrated to both ovaries. No
+significant free fluid in the pelvis.
+Evaluation limited by patient body habitus
+
+IMPRESSION:
+Unremarkable for age.
+US Pelvis Non-OB Limited (08/30
+00:18)
+FINDINGS:
+
+Uterus is 8.1 X 4.6 X 6.2 cm. The
+endometrium is roughly 1.3 cm thick. The
+right ovary is 3.1 X 2.3 X 2.5 cm. The left
+ovary is 3.7 X 1.8 X 2.1 cm. Vascular flow
+demonstrated to both ovaries. No
+significant free fluid in the pelvis.
+Evaluation limited by patient body habitus
+
+IMPRESSION:
+Unremarkable for age.
+
+Diagnostics - Non-Radiology - Last
+36 hours (0)
+No results in past 36 hours
+
+interpreted by radiology; images reviewed
+by EDMD; results d/w pt
+
+Signature Line
+Electronically Signed On 08.30.23 01:14 MDT
+
+WOO-TELLES M.D., ARGELIA
+
+Completed Action List:
+* Perform by WOO-TELLES M.D., ARGELIA on August 30, 2023 01:14 MDT
+* Sign by WOO-TELLES M. D., ARGELIA on August 30, 2023 01:14 MDT
+* VERIFY by WOO-TELLES M.D., , ARGELIA on August 30, 2023 01:14 MDT
+
+Result type: ED Note-Physician
+Result date: August 30, 2023 03:13 EDT
+Result status: Auth (Verified)
+Result title: ED Note
+Performed by: WOO-TELLES M.D., ARGELIA on August 30, 2023 01:14 MDT
+Verified by: WOO-TELLES M.D., ARGELIA on August 30, 2023 01:14 MDT
+Encounter info: 515654762, SES, 3 - Emergency, 08/29/2023 - 08/30/2023
+

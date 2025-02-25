@@ -1,0 +1,822 @@
+
+DOCUMENT TYPE: ED Physician Notes
+SERVICE DATE/TIME: 8/12/2023 00:34 EDT
+RESULT STATUS: Auth (Verified)
+PERFORM INFORMATION: Scott Randall E PA-C (8/12/2023 00:35 EDT)
+SIGN INFORMATION: Rennie ,Chad T MD (8/12/2023 02:08 EDT); Scott Randall
+E PA-C (8/12/2023 00:35 EDT)
+
+Chief Complaint
+pt arrives with a C cof lower abd pain radiating to left flank
+History of Present Illness
+Date/Time Seen: 08/11/2023 1650
+
+Patient Provided History: Yes
+Interpreter used: No
+History limitation: None
+Independent History Source:
+
+Chief Complaint:
+Mode of Arrival: ED Mode of Arrival: Ambulatory/WC/Carried (08/11/23 16:41:00)
+PCP: Primary Care Physician: NO PCP PER PATIENT
+Birth Sex: male
+Administrative Sex: Male
+
+HPI: Patient is a 42 Years old Male presenting with a complaint of left lower quadrant
+abdominal pain for 3 days. Patient reports his symptoms are similar to when he
+previous had a kidney stone. States that he does have blood in his urine. He denies
+any fevers or chills. Denies any nausea or vomiting.
+
+Physical Exam
+Vitals & Measurements
+Initial:
+T: 99.3 °F (Oral) HR: 91 (Peripheral) BP: 109/75 SpO2: 99%
+WT: 99.4 kg BMI: 30.6
+
+Latest:
+T: 98.8 °F (Oral) HR: 88 (Peripheral) BP: 114/61 SpO2: 97%
+WT: 99.4 kg
+General: alert, in moderate distress. Vital signs noted.
+Skin: warm, dry. No rashes noted
+Head: Normocephalic nontraumatic
+Eyes: Pupils equal, round, reactive to light, EOMI, conjunctiva noninjected, no
+discharge
+ENT: No pharyngeal erythema, no tonsillar exudate, TMs clear bilaterally
+Neck: Supple, trachea midline, no adenopathy, no tenderness.
+Cardiovascular: Regular rate and rhythm, normal S1, S2. No murmurs, gallops or
+rubs. No peripheral edema
+Respiratory: Clear to auscultation, nonlabored respirations, breath sounds equal with
+symmetrical expansion. No adventitious sounds noted.
+Chest wall: Nontender, no deformities
+Gastrointestinal: normal active bowel sounds, nondistended. mild generalized
+tenderness. No organomegaly. No guarding, No rebound. Murphy's: negative,
+McBurney's negative, Psoas: negative, Obturator: neg, Rovsing: neg
+Back: Nontender, normal ROM, normal alignment, no step-offs
+Extremities: Normal ROM, normal strength, no tenderness, swelling or deformity.
+Neurological: Alert and oriented to person, place, time and situation. Level of
+consciousness is appropriate, CN II-XII intact. Normal motor, normal sensory, normal
+speech, normal coordination.
+Lymphatics: No lymphadenopathy noted.
+Psychiatric: Cooperative, appropriate mood and affect. Normal judgment. Not
+suicidal.
+Medical Decision Making
+Differential Diagnosis: Diverticulitis, abscess, gastroenteritis, cholecystitis, pancreatitis,
+gastritis/PUD, IBS, colitis, constipation
+
+Consideration of Admission/Observation: Based on the differential diagnosis
+documented above I considered escalation of care including admission/observation.
+
+Chronic conditions affecting care: [ ]
+
+MDM Rationale: 42 Years old Male presenting with a complaint of left lower quadrant
+abdominal pain for 3 days. Patient reports his symptoms are similar to when he
+previous had a kidney stone. States that he does have blood in his urine. He denies
+any fevers or chills. Denies any nausea or vomiting.
+
+This patient is well-appearing, afebrile, and hemodynamically normal.
+
+Lab results - current encounter
+WBC: 15.5 th/ut High
+RBC: 4.37 mill/uL
+HGB: 12.7 g/dl. Low
+HCT: 38.8 % Low
+MCV: 88.9 fL
+MCH: 29.2 pg
+MCHC: 32.8 g/dL
+RDW: 13.9 %
+PLT: 273 th/uL
+MPV: 7.8 fL
+Segs: 78.3 % High
+Lymphs: % Low
+Mono: 8.7 o %
+Eos: 1.6%
+Baso: 0.4%
+Neutrophil, Abs: 12.1 in/ui. High
+Lymph, Abs: 1.7 th/uL
+Monocyte, Abs: 1.4 th/ut High
+Eosinophil, Abs: 0.2 th/uL
+Basophil, Abs: 0.1 th/ul
+Color: Amber Abnormal
+Appearance: SI-Cloudy Abnormal
+Spec Grav: 1.032 High
+pH: 5
+Protein: 2+ Abnormal
+Glucose: Negative
+Ketone: Negative
+Bilirubin: Negative
+Blood: 2+ Abnormal
+Urobilinogen: 4.0 mg/dL Abnormal
+Leuk Est: Negative
+Nitrite: Negative
+RBC: TNTC Abnormal
+WBC: 6-10 Abnormal
+Sq Epith: Occasional
+Bacteria: Occasional Abnormal
+Mucous: Occasional Abnormal
+Hyaline Cast: Few Abnormal
+Granular Cast, Ur: Few Abnormal
+Culture Reflexed: No
+
+Sodium: 138 mmol/L
+Potassium: 3.4 mmol/L Low
+Chloride: 101 mmol/L
+Carbon Dioxide: 24 mmol/L
+Glucose: 91 mg/dL
+BUN: 16 mg/dL
+Creatinine: 0.848 mg/dL
+BUN/Creatinine: 19
+Calcium: 9.4 mg/dL
+T Protein: 6.8 g/dL
+Albumin: 3.3 g/dL Low
+Globulin: 3.5 g/dL
+Alb/Glob: 0.9
+Bili Total: 0.9 mg/dL
+Alk Phos: 112 IU/L
+ALT: 17 IU/L
+AST: 17 U/L
+Anion Gap: 13
+
+Lactic Acid: 0.8 mmol/L
+eGFR (Cr): >60
+AKI Suspected: N/A
+
+Procalcitonin: 2.19 ng/ml. High
+
+Abd/Pelvis W/Cont
+
+08/11/23 19:32:00
+IMPRESSION:
+1. Patient has an active inflammatory process in the central and left
+pelvis. There is a 5 cm abscess and there is inflammation about the
+sigmoid colon. The finding is likely related to diverticulitis with a
+diverticular abscess.
+
+Electronically signed by Michael B Esposito, Radiology on 8/11/2023
+7:36 PM
+DICOM format image data is available via a secure, media-free system.
+INTERPRETED BY: Michael Benedetto Esposito Finalized On: 08/11/2023 19:38
+
+Signed By: Esposito, Michael B MD
+
+Discussion of management with other physician/healthcare provider:
+My ED attending: [RENNIE ]
+Hospitalist: []
+Other specialist: [RENNIE to BAMARNI ] REC: TRANSFER CENTER/IR
+IR: Dr Merta: contact RIS
+RIS: Dr. Mina, admit, continue abx, will perform over weekend or Monday depending
+on staffing/facilities
+
+External Notes Reviewed: Previous ED and Inpatient records
+
+Independent Interpretation:
+EKG: My independent interpretation is: .ekg
+Rhythm Strip: My independent interpretation is: n/a
+X-ray: My independent interpretation is: n/a
+
+Discussion of Radiology Result with Radiologist:
+
+Testing considered but not performed:
+The following testing was considered but ultimately not selected after discussion with
+patient/family: n/a
+
+Prescription medication was considered but ultimately not given after discussion with
+patient/family:
+I considered prescription management with: n/a
+
+Patient's care significantly limited by Social Determinants of Health including: []
+
+-
+
+? Shared decision making: In-depth discussion with patient and family present.
+Verbalized understanding and agreed with treatment plan and follow-up
+recommendations.
+
+Sepsis: n/a
+Assessment/Plan
+Diagnosis List
+AP - Abdominal pain (AP - Abdominal
+pain)(3912ABCF-0857-436E-B60C-658A6517728B)
+Orders:
+CM Review
+Consult to Care Coordination
+Consult to Physician
+Consult to Physician
+Sepsis - Patient has No Evidence of Sepsis
+Primary Diagnosis Statement: n/a
+
+Condition: stable
+Medically Cleared: n/a
+Disposition: Admitted to: []INPATIENT
+Counseled: Patient regarding diagnosis, results and treatment plan.
+
+Discharge Prescriptions:
+
+Controlled Substance Prescribed: No
+Acute Pain Exception:
+E-Prescribe: n/a
+
+Emergency Medical Condition Attestation:
+I hereby attest that, upon arrival in the Emergency Department, the patient met the
+definition of Emergency Medical Condition pursuant to Florida Statute 627.732 (16)
+which states:
+
+"Emergency medical condition" means a medical condition manifesting itself by acute
+symptoms of sufficient severity, which may include severe pain, such that the absence
+of immediate medical attention could reasonably be expected to result in any of the
+following:
+(a) Serious jeopardy to patient health.
+(b) Serious impairment to bodily functions.
+(c) Serious dysfunction of any bodily organ or part.
+Allergies
+NKA
+Problem List/Past Medical History
+Ongoing
+Obesity
+Historical
+Kidney stones
+Procedure/Surgical History
+Ureter calculus removal
+
+Social History
+Tobacco
+Exposure to Tobacco Smoke: Pt use <30
+days (08/11/23)
+Tobacco Use: Current daily smoker
+(08/11/23)
+Tobacco Type: Cigarettes (08/11/23)
+Tobacco Use Per Day: Less than 5
+cigarettes/cigars/pipes daily (08/11/23)
+Are You Interested In Quitting Tobacco: No
+(08/11/23)
+Tobacco
+Cigarettes, 1 per day.
+Medications
+Administered:
+Medications:
+Sodium Chloride 0.9% intravenous
+solution, 1000 mL, IV (08/11/2023 23:25
+EDT)
+fentaNYL, 50 mcg, IV (08/11/2023 18:05
+EDT)
+Sodium Chloride 0.9% bolus, 1000 mL, IV
+(08/11/2023 18:05 EDT)
+Omnipaque 350, 75 mL, IV (08/11/2023
+19:26 EDT)
+Toradol, 15 mg, IV (08/11/2023 19:56
+EDT)
+Dilaudid, 0.5 mg, IV (08/11/2023 19:57
+EDT)
+Zosyn (dx intra-abdominal, complicated),
+IVPB (08/11/2023 21:27 EDT)
+Dilaudid, 0.5 mg, IV (08/11/2023 23:03
+EDT)
+Diagnostic Results
+Radiology Results (08/11/23 00:00
+08/12/23 00:34)
+
+Abd/Pelvis W/Cont - CT Scan
+Performed on: 08/11/2023 19:32
+IMPRESSION:
+1. Patient has an active inflammatory
+process in the central and left
+pelvis. There is a 5 cm abscess and there is
+inflammation about the
+sigmoid colon. The finding is likely related to
+diverticulitis with a
+diverticular abscess.
+
+Electronically signed by Michael B Esposito,
+Radiology on 8/11/2023
+7:36 PM
+DICOM format image data is available via a
+secure, media-free system.
+INTERPRETED BY: Michael Benedetto
+Esposito Finalized On: 08/11/2023 19:38
+
+Electronically Signed By:
+Scott Randall E PA-C, on 08.12.2023 12:35 AM
+Electronically Signed By:
+Rennie, Chad T MD, on 08.12.2023 02:08 AM
+
+DOCUMENT TYPE: ED Physician Notes
+SERVICE DATE/TIME: 8/11/2023 19:58 EDT
+RESULT STATUS: Auth (Verified)
+PERFORM INFORMATION: Rennie ,Chad T MD (8/11/2023 20:00 EDT)
+SIGN INFORMATION: Rennie ,Chad T MD (8/11/2023 20:00 EDT)
+Addendum *ED
+
+Patient: TURNER Jr, WILLIAM BENJAMIN MRN: 2106183283 FIN: 106011318640
+Age: 42 years Sex: Male DOB: 09/17/1980
+Associated Diagnoses: None
+Author: Rennie, Chad T MD
+
+Medical Decision Making
+Results review: Lab Fishbone
+Labs (08/10/23 00:00 - 08/11/23 19:58)
+
+CBC - 08/11/23 17:58
+
+\ L 12.7 /
+15.5 / L 38.8 \ 273
+
+BMP - 08/11/23 17:58
+
+138 101 16 /
+L 3.4 24 0.848 \ 91
+
+CBC WBC: H 15.5 HGB: L 12.7 HCT: L 38.8 PLT: 273 (08/11/23 17:58)
+BMP Sodium: 138 Potassium: L 3.4 Chloride: 101 Carbon Dioxide: 24 Glucose: 91 BUN: 16 Creatinine: 0.848 (08/11/23 17:58)
+Hematology RBC: 4.37 MCV: 88.9 MCH: 29.2 MCHC: 32.8 RDW: 13.9 MPV: 7.8 Segs: H 78.3 Lymphs: L 11.0 Mono: 8.7 Eos: 1.6 Baso: 0.4
+Neutrophil, Abs: 112.1 Lymph, Abs: 1.7 Monocyte, Abs: H 1.4 Eosinophil, Abs: 0.2 Basophil, Abs: 0.1 (08/11 17:58)
+Urinalysis Color: Amber Appearance: SI-Cloudy Spec Grav: H 1.032 pH: 5.0 Protein: 2+ Glucose: Negative Ketone: Negative Bilirubin:
+Negative Blood: 2+ Urobilinogen: 4.0 mg/dL Leuk Est: Negative Nitrite: Negative RBC: TNTC WBC: 6-10 Sq Epith: Occasional
+Bacteria: Occasional Mucous: Occasional Hyaline Cast: Few Granular Cast, Ur: Few Culture Reflexed: No (08/11 17:58)
+General Chem BUN/Creatinine: 19 Calcium: 9.4 T Protein: 6.8 Albumin: 3.3 Globulin: 3.5 Alb/Glob: 0.9 Bili Total: 0.9 Alk Phos: 112
+ALT: 17 AST: 17 Anion Gap: 13 Lactic Acid: 0.8 eGFR (Cr): >60 AKI Suspected: N/A (08/11 17:58)
+
+Interpretation (Leukocytosis with white count of 15. Gross hematuria),
+Labs (08/10/23 00:00 - 08/11/23 19:58)
+
+POC BMP
+
+Radiology Results
+Radiology Results ED (08/10/23 00:00 - 08/11/23 19:58)
+
+Abd/Pelvis W/Cont - CT Scan Performed on: 08/11/2023 19:32
+CLINICAL INDICATION: Abdominal pain
+
+TECHNIQUE: Standard CT of the Abdomen and Pelvis was performed with
+IV contrast. This CT exam was performed using one or more of the
+following dose reduction techniques: Automated exposure control,
+adjustment of the mA and/or kV according to patient size, or use of
+iterative reconstruction technique.
+COMPARISON: September 29, 2016
+
+FINDINGS:
+
+Lung base: Linear density at the right lung bases atelectasis.
+
+Liver: The liver is normal in size and density. There are no masses.
+There is no intra-or extrahepatic biliary ductal dilatation.
+
+Spleen: Normal in size without focal lesion.
+
+Pancreas: Normal without calcification, mass or peripancreatic fluid.
+
+Gall Bladder: Normally distended without cholelithiasis, wall
+thickening or pericholecystic fluid.
+
+Adrenal glands: Normal without masses.
+
+Kidneys: The kidneys are normal in size and position. There are no
+stones identified. There is no evidence for obstruction. No masses
+are identified
+
+Bowel: 5 cm extraluminal gas and fluid collection in the mesentery
+of the left pelvis is likely an abscess related to sigmoid
+diverticula disease. There is inflammation seen in the mesentery in
+the central and left pelvis. There is no evidence for bowel
+obstruction. There is no free air. There is no significant ascites..
+The appendix is normal in appearance
+
+Bladder: Normal without wall thickening, calculi or diverticuli.
+
+GU: No acute findings and no pelvic masses or adenopathy.
+
+Osseous structures: Normal.
+
+Retroperitoneum: The aorta is normal in caliber. There is no aneurysm
+or dissection. There is no retroperitoneal or para-aortic
+lymphadenopathy.
+
+IMPRESSION:
+1. Patient has an active inflammatory process in the central and left
+pelvis. There is a 5 cm abscess and there is inflammation about the
+sigmoid colon. The finding is likely related to diverticulitis with a
+diverticular abscess.
+
+Electronically signed by Michael B Esposito, Radiology on 8/11/2023
+7:36 PM
+DICOM format image data is available via a secure, media-free system.
+INTERPRETED BY: Michael Benedetto Esposito Finalized On: 08/11/2023 19:38
+
+Radiology Result Reviewed.
+Emergency Medical Condition EMC Attestation
+I hereby attest that, upon arrival in the Emergency Department, the patient met the definition of Emergency Medical Condition pursuant to Florida
+Statute 627.732 (16) which states:
+
+"Emergency medical condition" means a medical condition manifesting itself by acute symptoms of sufficient severity, which may include severe
+pain, such that the absence of immediate medical attention could reasonably be expected to result in any of the following:
+(a) Serious jeopardy to patient health.
+(2) Immunocompromised (HIV, Cancer, Etc) : No
+(2) New Positive Test Result TST or IGRA No
+(5) HIV Positive W/Resp Presentation No
+Bohnenkamp Kelsey RN - 8/11/2023 16:41 EDT
+TB Symptoms Grid
+(3) Bloody Sputum No
+(2) Cough 2 Weeks) : No
+(2) Fever, Chills, Night Sweats No
+(2) Unexplained Wt Loss > 10 lbs in 30 No
+Bohnenkamp Kelsey RN - 8/11/2023 16:41 EDT
+TB Screening Total Score : 0
+Bohnenkamp Kelsey RN - 8/11/2023 16:41 EDT
+
+DOCUMENT TYPE: ED Physician Notes
+PERFORMED BY: Scott Randall E PA-C (8/12/2023 00:35 EDT)
+RESULT STATUS: Auth (Verified)
+ELECTRONICALLY SIGNED BY: Rennie ,Chad T MD (8/12/2023 02:08 EDT); Scott Randall
+E PA-C (8/12/2023 00:35 EDT)
+
+Chief Complaint
+pt arrives with a C cof lower abd pain radiating to left flank
+History of Present Illness
+Date/Time Seen: 08/11/2023 1650
+
+Patient Provided History: Yes
+Interpreter used: No
+History limitation: None
+Independent History Source:
+
+Chief Complaint:
+Mode of Arrival: ED Mode of Arrival: Ambulatory/WC/Carried (08/11/23 16:41:00)
+NO PCP PER PATIENT
+PCP: Primary Care Physician:
+Birth Sex: male
+Administrative Sex: Male
+
+HPI: Patient is a 42 Years old Male presenting with a complaint of left lower quadrant
+abdominal pain for 3 days. Patient reports his symptoms are similar to when he
+previous had a kidney stone. States that he does have blood in his urine. He denies
+any fevers or chills. Denies any nausea or vomiting.
+
+Physical Exam
+Vitals & Measurements
+Initial:
+T: 99.3 °F (Oral) HR: 91 (Peripheral) BP: 109/75 SpO2: 99%
+WT: 99.4 kg BMI: 30.6
+
+Latest:
+T: 98.8 °F (Oral) HR: 88 (Peripheral) BP: 114/61 SpO2: 97%
+WT: 99.4 kg
+General: alert, in moderate distress. Vital signs noted.
+Skin: warm, dry. No rashes noted
+Head: Normocephalic nontraumatic
+Eyes: Pupils equal, round, reactive to light, EOMI, conjunctiva noninjected, no
+discharge
+ENT: No pharyngeal erythema, no tonsillar exudate, TMs clear bilaterally
+Neck: Supple, trachea midline, no adenopathy, no tenderness.
+Cardiovascular: Regular rate and rhythm, normal S1, S2. No murmurs, gallops or
+rubs. No peripheral edema
+Respiratory: Clear to auscultation, nonlabored respirations, breath sounds equal with
+symmetrical expansion. No adventitious sounds noted.
+Chest wall: Nontender, no deformities
+Gastrointestinal: normal active bowel sounds, nondistended. mild generalized
+tenderness. No organomegaly. No guarding, No rebound. Murphy's: negative,
+McBurney's: negative, Psoas: negative, Obturator: neg, Rovsing: neg
+Back: Nontender, normal ROM, normal alignment, no step-offs
+Extremities: Normal ROM, normal strength, no tenderness, swelling or deformity.
+Neurological: Alert and oriented to person, place, time and situation. Level of
+consciousness is appropriate, CN II-XII intact. Normal motor, normal sensory, normal
+speech, normal coordination.
+Lymphatics: No lymphadenopathy noted.
+Psychiatric: Cooperative, appropriate mood and affect. Normal judgment. Not
+suicidal.
+Medical Decision Making
+Differential Diagnosis: Diverticulitis, abscess, gastroenteritis, cholecystitis, pancreatitis,
+gastritis/PUD, IBS, colitis, constipation
+
+Consideration of Admission/Observation: Based on the differential diagnosis
+documented above I considered escalation of care including admission/observation.
+
+Chronic conditions affecting care: ]
+
+MDM Rationale: 42 Years old Male presenting with a complaint of left lower quadrant
+abdominal pain for 3 days. Patient reports his symptoms are similar to when he
+previous had a kidney stone. States that he does have blood in his urine. He denies
+any fevers or chills. Denies any nausea or vomiting.
+
+This patient is well-appearing, afebrile, and hemodynamically normal.
+
+Lab results - current encounter
+WBC: 16.5 th/ut High
+RBC: 4.37 mill/uL
+HGB: 12.7 g/dL Low
+HCT: 38.8 % Low
+MCV: 88.9 fL
+MCH: 29.2 pg
+MCHC: 32.8 g/dL
+RDW: 13.9 %
+PLT: 273 th/uL
+MPV: 7.8 fL
+Segs: 78.3 % High
+Lymphs: 1 % Low
+Mono: 8.7%
+Eos: 1.6%
+Baso: 0.4%
+Neutrophil, Abs: 12.1 th/ut High
+Lymph, Abs: 1.7 th/uL
+Monocyte, Abs: 1.4 th/ut High
+Eosinophil, Abs: 0.2 th/uL
+Basophil, Abs: 0.1 th/uL
+
+Color: Amber Abnormal
+Appearance: SI-Cloudy Abnormal
+Spec Grav: 1.032 High
+pH: 5
+Protein: 2+ Abnormal
+Glucose: Negative
+Ketone: Negative
+Bilirubin: Negative
+Blood: 2+ Abnormal
+Urobilinogen: 4.0 mg/dL Abnormal
+Leuk Est: Negative
+Nitrite: Negative
+RBC: TNTC Abnormal
+WBC: 6-10 Abnormal
+Sq Epith: Occasional
+Bacteria: Occasional Abnormal
+Mucous: Occasional Abnormal
+Hyaline Cast: Few Abnormal
+Granular Cast, Ur: Few Abnormal
+Culture Reflexed: No
+
+Sodium: 138 mmol/L
+Potassium: 3.4 mmol/L Low
+Chloride: 101 mmol/L
+Carbon Dioxide: 24 mmol/L
+Glucose: 91 mg/dL
+BUN: 16 mg/dL
+Creatinine: 0.848 mg/dL
+BUN/Creatinine: 19
+Calcium: 9.4 mg/dL
+T Protein: 6.8g/dL
+Albumin: 3.3 g/dL. Low
+Globulin: 3.5 g/dL
+Alb/Glob: 0.9
+Bili Total: 0.9 mg/dL
+Alk Phos: 112 IU/L
+ALT: 17 IU/L
+AST: 17 U/L
+Anion Gap: 13
+Lactic Acid: 0.8 mmol/L
+eGFR (Cr): >60
+AKI Suspected: N/A
+
+Procalcitonin: 2.19 ng/ml. High
+
+Abd/Pelvis W/Cont
+
+08/11/23 19:32:00
+IMPRESSION:
+1. Patient has an active inflammatory process in the central and left
+pelvis. There is a 5 cm abscess and there is inflammation about the
+sigmoid colon. The finding is likely related to diverticulitis with a
+diverticular abscess.
+
+Electronically signed by Michael B Esposito, Radiology on 8/11/2023
+7:36 PM
+DICOM format image data is available via a secure, media-free system.
+INTERPRETED BY: Michael Benedetto Esposito Finalized On: 08/11/2023 19:38
+
+Signed By: Esposito, Michael B MD
+
+Discussion of management with other physician/healthcare provider:
+My ED attending: [RENNIE ]
+Hospitalist: []
+Other specialist: [RENNIE to BAMARNI ] REC: TRANSFER CENTER/IR
+IR: Dr Merta: contact RIS
+RIS: Dr. Mina, admit, continue abx, will perform over weekend or Monday depending
+on staffing/facilities
+
+External Notes Reviewed: Previous ED and Inpatient records
+
+Independent Interpretation:
+EKG: My independent interpretation is: .ekg
+Rhythm Strip: My independent interpretation is: n/a
+X-ray: My independent interpretation is: n/a
+
+Discussion of Radiology Result with Radiologist:
+
+Testing considered but not performed:
+The following testing was considered but ultimately not selected after discussion with
+patient/family: n/a
+
+Prescription medication was considered but ultimately not given after discussion with
+patient/family:
+I considered prescription management with: n/a
+
+Patient's care significantly limited by Social Determinants of Health including: []
+? Shared decision making: In-depth discussion with patient and family present.
+Verbalized understanding and agreed with treatment plan and follow-up
+recommendations.
+
+Sepsis: n/a
+
+Assessment/Plan
+Diagnosis List
+AP - Abdominal pain (AP - Abdominal
+pain)(3912ABCF-0857-436E-B60C-658A6517728B)
+Orders:
+CM Review
+Consult to Care Coordination
+Consult to Physician
+Consult to Physician
+Sepsis - Patient has No Evidence of Sepsis
+Primary Diagnosis Statement: n/a
+
+Condition: stable
+Medically Cleared: n/a
+Disposition: Admitted to: [JINPATIENT
+Counseled: Patient regarding diagnosis, results and treatment plan.
+
+Discharge Prescriptions:
+
+Controlled Substance Prescribed: No
+Acute Pain Exception:
+E-Prescribe: n/a
+
+Emergency Medical Condition Attestation:
+I hereby attest that, upon arrival in the Emergency Department, the patient met the
+definition of Emergency Medical Condition pursuant to Florida Statute 627.732 (16)
+which states:
+
+"Emergency medical condition" means a medical condition manifesting itself by acute
+symptoms of sufficient severity, which may include severe pain, such that the absence
+of immediate medical attention could reasonably be expected to result in any of the
+following:
+(a) Serious jeopardy to patient health.
+(b) Serious impairment to bodily functions.
+(c) Serious dysfunction of any bodily organ or part.
+Allergies
+NKA
+Problem List/Past Medical History
+Ongoing
+Obesity
+Historical
+Kidney stones
+Procedure/Surgical History
+Ureter calculus removal
+
+Social History
+Tobacco
+Exposure to Tobacco Smoke: Pt use <30
+days (08/11/23)
+Tobacco Use: Current daily smoker
+(08/11/23)
+Tobacco Type: Cigarettes (08/11/23)
+Tobacco Use Per Day: Less than 5
+cigarettes/cigars/pipes daily (08/11/23)
+Are You Interested In Quitting Tobacco: No
+(08/11/23)
+Tobacco
+Cigarettes, 1 per day.
+Medications
+Administered:
+Medications:
+Sodium Chloride 0.9% intravenous
+solution, 1000 mL, IV (08/11/2023 23:25
+EDT)
+fentaNYL, 50 mcg, IV (08/11/2023 18:05
+EDT)
+Sodium Chloride 0.9% bolus, 1000 mL, IV
+(08/11/2023 18:05 EDT)
+Omnipaque 350, 75 mL, IV (08/11/2023
+19:26 EDT)
+Toradol, 15 mg, IV (08/11/2023 19:56
+EDT)
+Dilaudid, 0.5 mg, IV (08/11/2023 19:57
+EDT)
+Zosyn (dx intra-abdominal, complicated),
+IVPB (08/11/2023 21:27 EDT)
+Dilaudid, 0.5 mg, IV (08/11/2023 23:03
+EDT)
+Diagnostic Results
+Radiology Results (08/11/23 00:00
+08/12/23 00:34)
+
+Abd/Pelvis W/Cont - CT Scan
+Performed on: 08/11/2023 19:32
+IMPRESSION:
+1. Patient has an active inflammatory
+process in the central and left
+pelvis. There is a 5 cm abscess and there is
+inflammation about the
+sigmoid colon. The finding is likely related to
+diverticulitis with a
+diverticular abscess.
+
+Electronically signed by Michael B Esposito,
+Radiology on 8/11/2023
+7:36 PM
+DICOM format image data is available via a
+secure, media-free system.
+INTERPRETED BY: Michael Benedetto
+Esposito Finalized On: 08/11/2023 19:38
+
+Electronically Signed By:
+Scott, Randall E PA-C, on 08.12.2023 12:35 AM
+Electronically Signed By:
+Rennie, Chad T MD, on 08.12.2023 02:08 AM
+DOCUMENT TYPE: ED Physician Notes
+PERFORMED BY: Rennie ,Chad T MD (8/11/2023 20:00 EDT)
+RESULT STATUS: Auth (Verified)
+ELECTRONICALLY SIGNED BY: Rennie ,Chad T MD (8/11/2023 20:00 EDT)
+
+Addendum *ED
+
+Patient: TURNER Jr, WILLIAM BENJAMIN MRN: 2106183283 FIN: 106011318640
+Age: 42 years Sex: Male DOB: 09/17/1980
+Associated Diagnoses: None
+Author: Rennie, Chad T MD
+
+Medical Decision Making
+Results review: Lab Fishbone
+Labs (08/10/23 00:00 - 08/11/23 19:58)
+
+CBC - 08/11/23 17:58
+
+\ L 12.7 /
+H 15.5 / L 38.8 \ 273
+
+BMP - 08/11/23 17:58
+
+138 101 16 /
+L 3.4 24 0.848 \ 91
+
+CBC WBC: H 15.5 HGB: L 12.7 HCT: L 38.8 PLT: 273 (08/11/23 17:58)
+BMP Sodium: 138 Potassium: L 3.4 Chloride: 101 Carbon Dioxide: 24 Glucose: 91 BUN: 16 Creatinine: 0.848 (08/11/23 17:58)
+Hematology RBC: 4.37 MCV: 88.9 MCH: 29.2 MCHC: 32.8 RDW: 13.9 MPV: 7.8 Segs: H 78.3 Lymphs: L 11.0 Mono: 8.7 Eos: 1.6 Baso: 0.4
+Neutrophil, Abs: H 12.1 Lymph, Abs: 1.7 Monocyte, Abs: H 1.4 Eosinophil, Abs: 0.2 Basophil, Abs: 0.1 (08/11 17:58)
+Urinalysis Color: Amber Appearance: SI-Cloudy Spec Grav: H 1.032 pH: 5.0 Protein: 2+ Glucose: Negative Ketone: Negative Bilirubin:
+Negative Blood: 2+ Urobilinogen: 4.0 mg/dL Leuk Est: Negative Nitrite: Negative RBC: TNTC WBC: 6-10 Sq Epith: Occasional
+Bacteria: Occasional Mucous: Occasional Hyaline Cast: Few Granular Cast, Ur: Few Culture Reflexed: No (08/11 17:58)
+General Chem BUN/Creatinine: 19 Calcium: 9.4 T Protein: 6.8 Albumin: L 3.3 Globulin: 3.5 Alb/Glob: 0.9 Bili Total: 0.9 Alk Phos: 112
+ALT: 17 AST: 17 Anion Gap: 13 Lactic Acid: 0.8 eGFR (Cr): >60 AKI Suspected: N/A (08/11 17:58)
+
+Interpretation (Leukocytosis with white count of 15. Gross hematuria),
+Labs (08/10/23 00:00 - 08/11/23 19:58)
+
+POC BMP -
+
+Radiology Results
+Radiology Results ED (08/10/23 00:00 - 08/11/23 19:58)
+
+Abd/Pelvis W/Cont - CT Scan Performed on: 08/11/2023 19:32
+CLINICAL INDICATION: Abdominal pain
+
+TECHNIQUE: Standard CT of the Abdomen and Pelvis was performed with
+IV contrast. This CT exam was performed using one or more of the
+following dose reduction techniques: Automated exposure control,
+adjustment of the mA and/or kV according to patient size, or use of
+iterative reconstruction technique.
+
+COMPARISON: September 29, 2016
+
+FINDINGS:
+
+Lung base: Linear density at the right lung bases atelectasis.
+
+Liver: The liver is normal in size and density. There are no masses.
+There is no intra-or extrahepatic biliary ductal dilatation.
+
+Spleen: Normal in size without focal lesion.
+
+Pancreas: Normal without calcification, mass or peripancreatic fluid.
+
+Gall Bladder: Normally distended without cholelithiasis, wall
+thickening or pericholecystic fluid.
+
+Adrenal glands: Normal without masses.
+
+Kidneys: The kidneys are normal in size and position. There are no
+stones identified. There is no evidence for obstruction. No masses
+are identified
+
+Bowel: 5 cm extraluminal gas and fluid collection in the mesentery
+of the left pelvis is likely an abscess related to sigmoid
+diverticula disease. There is inflammation seen in the mesentery in
+the central and left pelvis. There is no evidence for bowel
+obstruction. There is no free air. There is no significant ascites..
+The appendix is normal in appearance
+
+Bladder: Normal without wall thickening, calculi or diverticuli.
+
+GU: No acute findings and no pelvic masses or adenopathy.
+
+Osseous structures: Normal.
+
+Retroperitoneum: The aorta is normal in caliber. There is no aneurysm
+or dissection. There is no retroperitoneal or para-aortic
+lymphadenopathy.
+
+IMPRESSION:
+1. Patient has an active inflammatory process in the central and left
+pelvis. There is a 5 cm abscess and there is inflammation about the
+sigmoid colon. The finding is likely related to diverticulitis with a
+diverticular abscess.
+
+Electronically signed by Michael B Esposito, Radiology on 8/11/2023
+7:36 PM
+DICOM format image data is available via a secure, media-free system.
+INTERPRETED BY: Michael Benedetto Esposito Finalized On: 08/11/2023 19:38
+

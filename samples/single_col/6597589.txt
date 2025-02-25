@@ -1,0 +1,387 @@
+============================================================================================
+
+WK Medical Center
+2600 Greenwood Road
+Shreveport, LA 71103
+
+Emergency Department Note
+Signed
+
+Patient: PALMS,TIMMIE MR#: D000189677
+DOB: 01/31/1945 Acct:W10084184943
+Age/Sex 78 / M ED ADM Date: 08/05/23
+Loc: ER ED DIS Date:
+Attending Dr:
+
+CC: -
+HPI - Dizziness
+General
+Chief Complaint: Dizziness
+Stated Complaint:
+DIZZINESS
+Time Seen by Provider: 08/06/23 02:06
+Source: patient and RN notes reviewed
+Mode of arrival: ambulatory
+Limitations: no limitations
+History of Present Illness
+HPI Narrative:
+78 Y/O M PRESENTS TO THE ED CC DIZZINESS X 1 WEEK. PT STATES HE FELL BACK A FEW DAYS
+AGO DUE TO SXS. PT DESCRIBES DIZZINESS AS "SPINNING." PCP IS DR. LEE. PT TRAVELS BACK
+AND FORTH FROM HERE AND DALLAS.
+MD elicited complaint: dizziness
+Onset (ago): week(s) (1)
+Timing: constant
+Severity: moderate
+Description: "room spinning"
+Exacerbating factors: nothing
+Relieving factors: nothing
+Associated symptoms: Yes denies other symptoms
+Related Data
+Home Medications
+
+Medication Instructions Recorded Confirmed
+allopurinol 100 mg tablet mg ORAL - TAKE 1 TABLET DAILY 04/21/23 04/21/23
+amlodipine 5 mg tablet mg ORAL 04/21/23 04/21/23
+calcitriol 0.5 mcg capsule mcg ORAL 04/21/23 04/21/23
+hydralazine 50 mg tablet mg ORAL 04/21/23 04/21/23
+lidocaine 5 % topical patch patch TRANSDERM PRN 04/21/23 04/21/23
+methylprednisolone 4 mg tablets in mg ORAL 04/21/23 04/21/23
+a dose pack (Medrol (Pak))
+metoprolol succinate 50 mg mg ORAL 04/21/23 04/21/23
+tablet,extended release 24 hr
+(Toprol XL)
+pravastatin 80 mg tablet mg ORAL .TAKE 1 TABLET DAILY 04/21/23 04/21/23
+
+Previous Rx's
+============================================================================================
+Medication Instructions Recorded
+meclizine 25 mg tablet 25 mg ORAL 2XDAY PRN dizziness #20 08/06/23
+tabs
+
+Allergies
+
+Allergy/AdvReac Type Severity Reaction Status Date / Time
+No Known Allergies Allergy Unverified 04/21/23 17:08
+
+ROS
+Status of ROS
+10 or more systems reviewed and unremarkable except in HPI and below
+Const.
+Constitutional: Denies: fever(s), chills, change in weight or night sweats
+Head
+Denies: headache and Denies: head injury
+Eyes
+Denies: blind spots, eye discomfort, blurred vision, diplopia, discharge, dryness, itching, loss of
+vision, pain, photophobia, redness or swelling
+Ears
+Denies: discharge, hearing impairment, loss of balance, pain, ringing or tinnitus
+Nose
+Denies: epistaxis or rhinorrhea
+Mouth
+Denies: dryness of mouth, Denies: lesion, Denies: ulcer, Denies: mouth pain and Denies: tooth pain
+Throat
+Denies: dysphagia or sore throat
+Neck
+Denies: mass, Denies: neck stiffness, Denies: neck pain and Denies: swelling
+Cardio
+Denies: chest pain, Denies: palpitations, Denies: edema and Denies: syncope
+Breast
+Denies: breast pain and Denies: breast swelling
+Resp.
+Denies: dyspnea, Denies: cough, Denies: stridor, Denies: pain on inspiration, Denies: change in
+phlegm color, Denies: hemoptysis and Denies: snoring
+GI
+Denies: abdominal pain, nausea, vomiting, diarrhea, constipation or hematemesis
+Rectum & Anus
+Denies pain or rectal swelling
+GU
+Denies: dysuria, Denies: urinary frequency and Denies: hematuria
+Musculoskeletal
+Denies: back pain or myalgia
+Peripheral Vascular
+Denies extremity coldness, Denies extremity numbness and Denies claudication
+Neuro
+============================================================================================
+Reports: dizziness;
+Denies: headache(s), change of speech, memory difficulty or difficulty walking
+Psych
+Denies: anxiety, suicidal ideation, homicidal ideation, depression or hallucination
+Endocrine
+Denies: fatigue
+Allergic & Immuno
+Denies: wheezing
+
+PFSH
+PFSH
+Medical History (Reviewed 08/06/23 @ 02:55 by Reaghen Jones)
+
+HLD (hyperlipidemia)
+HTN (hypertension)
+
+Family History (Reviewed 08/06/23 @ 02:55 by Reaghen Jones)
+Other
+Family history non-contributory
+
+Social History (Reviewed 08/06/23 @ 02:55 by Reaghen Jones)
+Lives With: Family
+Smoking Status: Never smoker
+How often do you have a drink containing alcohol?: Never
+AUDIT-C Alcohol total score: 0
+Non-Prescribed Substance Use: Denies Use
+Does Your Home Environment Cause You Fear, Pain, or Injury: Denies
+Have You Recently Felt Abused, Taken Advantage of, or Neglected?: Denies
+
+Exam
+Const
+Attestation: Documenting provider has reviewed patient's vital signs
+Exam limitations: No altered mental status
+General appearance: cooperative
+Nutritional appearance: obese morbidly obese
+Orientation/consciousness awake, oriented to person, oriented to place and oriented to time
+HENMT
+Head and scalp: normal to inspection and normocephalic
+Ear: TM's normal bilaterally;
+No external ears normal (HAIR PINNA)
+Mouth: Normal oral and palatal mucosa present and tonsils normal
+Eye
+General: appearance normal, both eyes and all related structures, normal light reflex and Equal,
+round and reactive pupils present;
+No EOM abnormal and No Nystagmus present
+============================================================================================
+Vision: acuity normal
+Direct Ophthalmoscopy: normal light reflex
+Neck & C-Spine
+General: normal visual inspection, trachea midline and normal carotid upstroke;
+No tenden
+Thyroid: Thyroid normal;
+no masses
+Cervical spine: cervical ROM normal;
+No Cervical spine tenderness
+Chest
+Chest: No Pacemaker present
+Respiratory
+Effort & inspection: normal and able to speak in complete sentences
+Auscultation: clear to auscultation bilaterally;
+no wheezes
+Percussion: percussion normal
+Cardio
+Rate/Rhythm: regular rate and regular rhythm;
+No bradycardic, No tachycardic and No abnormal rhythm
+GI
+Inspection: normal to inspection
+Auscultation: normoactive bowel sounds
+Palpation: Soft to palpation;
+non-tender, No Guarding due to palpation present (GI), No Hepatosplenomegaly present, no ascites
+present and no rebound tenderness present
+Percussion: normal to percussion
+Back & Pelvis
+General back: No paraspinal muscle tenderness and No tenderness
+Extremity/Vascular
+General: No calf tenderness, No cyanosis, No edema and No tenderness
+Peripheral pulses: radial pulses present and dorsalis pedis present
+Neuro
+Sensorium/orientation: awake, oriented to person, oriented to place and oriented to time
+Cranial Nerves: Cranial nerves II - XII intact
+Speech: speech normal
+Gait: Unable to assess gait
+Psych
+Attitude: calm
+Activity/motor behavior: appropriate eye contact
+Speech: normal speech
+Thought content: Normal thought content present
+Memory/cognition: memory grossly intact
+Insight: Good insight present (Psych)
+Judgement: Good judgement present (Psych)
+Skin
+General skin exam: elasticity normal and turgor normal;
+no erythema, no excoriation(s), no jaundice and no mottling
+Rashes: No rashes noted
+
+Course
+============================================================================================
+WIK 5
+Patient name: PALMS, TIMMIE
+Account W10084184943
+Vital Signs
+Vital signs:
+
+Vital Signs
+
+Temp Pulse Resp BP Pulse Ox 02 Del 02 Flow
+Method Rate
+98.0 F 77 16 152/90 H 97 Room Air 0
+08/05/23 08/05/23 08/05/23 08/05/23 08/05/23 08/05/23 08/05/23
+22:29 22:29 22:29 22:29 22:29 22:29 22:29
+
+Temperature: (F or C) 98.0 F 08/06/23 06:29
+Pulse Rate 57 L 08/06/23 06:29
+Respirations 16 08/06/23 06:29
+Blood Pressure 136/81 08/06/23 06:29
+02 Saturation 97 08/06/23 06:29
+02 Delivery Method Room Air 08/06/23 06:29
+Oxygen Flow Rate 0 08/06/23 06:29
+FiO2 0 08/06/23 01:37
+
+MDM - Dizziness
+MDM Narrative
+Medical decision making narrative:
+SCRIBE ATTESTATION: SAW THE PATIENT WITH SCRIBE. AGREE THAT DOCUMENTATION WAS
+CHARTED IN MY PRESENCE AND IS BOTH COMPLETE AND ACCURATE
+PATIENT COMPLAINS OF DIZZINESS VERTIGO TYPE SYMPTOMS. HE DID DRIVE HIMSELF HERE WAS
+NOTED TO HAVE NORMAL GAIT WALKIN
+G IN.
+ON EXAM QUITE OBESE PLEASANT NEURO EXAM NORMAL.
+CT OF THE HEAD SHOWED CHRONIC ISCHEMIC
+CHANGES CHEST X-RAY WAS UNREMARKABLE.
+CBC AND CHEMISTRY PANEL UNREMARKABLE NORMAL
+
+EKG REVIEWED NORMAL SINUS RHYTHM WITH NO ECTOPY NO BLOCKS NO ST ELEVATION NORMAL
+AXIS
+
+WE TREATED HIM WITH MECLIZINE THE FOLLOW-UP WITH DR. LEAH IN THE OFFICE.
+
+ALL LABORATORY EKG LOOKED IMAGING STUDIES NO RECORDS INDEPENDENTLY INTERPRETED BY
+ME
+Lab Data
+
+08/06/23 00:58
+============================================================================================
+13.9
+6.8 182
+42.7
+
+08/06/23 00:58
+138 103 22H
+86
+4.8 26 1.51H
+
+Labs:
+
+Lab Results
+
+08/06/23 08/06/23 Range/Units
+00:58 05:13
+WBC 6.8 (3.1-9.7) 10E3/uL
+RBC 4.56 (4.08-5.70) 10E6/uL
+Hgb 13.9 (13.1-16.8) g/dL
+Hct 42.7 (38.2-48.4) %
+MCV 93,7 (81.4-98.5) fL
+MCH 30.6 (27.1-34.2) pg
+MCHC 32.7 (31.7-35.2) g/dL
+RDW 15.2 (12.3-16.3) %
+Plt Count 182 (130-351) 10E3/uL
+MPV 8.9 (6.6-10.2) fL
+Neut % (Auto) 44.6 (40.6-75.3) %
+Lymph % (Auto) 34.3 (16.1-45.7) %
+Mono % (Auto) 12.5 H (3.7-12.2) %
+Eos % (Auto) 7.5 H (0.0-6.3) %
+Baso % (Auto) 1.1 (0.1-1.3) %
+Neut # (Auto) 3.0 (0.9-7.4) 10E3/uL
+Lymph # (Auto) 2.3 (0.9-3.3) 10E3/uL
+Mono # (Auto) 0.9 (0.2-0.9) 10E3/uL
+Eos # (Auto) 0.5 (0.0-0.5) 10E3/uL
+Baso # (Auto) 0.1 (0.0-0.1) 10E3/uL
+D-Dimer 1.57 H (<0.5) ug/mLFEU
+Sodium 138 (137-145) mmol/L
+Potassium 4.8 (3.5-5.1) mmol/L
+Chloride 103 (98-107) mmol/L
+Carbon Dioxide 26 (21-32) mmol/L
+Anion Gap 9.0 (5.0-15.0) mmol/L
+BUN 22 H (7-20) mg/dL
+Creatinine 1.51 H (0.66-1.25) mg/dL
+Est GFR (CKD-EPI) 47.0 L (>60) SeeBelow
+Glucose 88 (70-109) mg/dL
+Calcium 9.2 (8.4-10.2) mg/dL
+Total Bilirubin 0.8 (0.2-1.3) mg/dL
+Direct Bilirubin 0.4 (0.0-0.4) mg/dL
+AST 40 (3-45) U/L
+ALT 28 (0-50) U/L
+Alkaline Phosphatase 74 (38-126) U/L
+============================================================================================
+Troponin I < 0.012 (0-0.034) ng/ml
+B-Natriuretic Peptide 30 (15-100) pg/ml
+Total Protein 6.9 (6.3-8.2) g/dL
+Albumin 4.0 (3.5-5.0) g/dL
+
+Imaging Data
+Radiologist's impression:
+
+Head CT 08/06/23 03:49
+IMPRESSION:
+1. No acute intracranial findings.
+2. Other chronic changes as described.
+
+Discharge Plan
+Discharge
+Service Date/Time: 08/05/23 22:10
+
+ED Provider: Dillon,Brian Thomas
+
+Patient Disposition: Home
+
+Clinical Impression:
+Vertigo
+
+Patient Education: Benign Positional Vertigo, Dizziness, Easy-to-Read
+
+Referrals/Follow-Up:
+Le,Huan Quoc, MD [ACTIVE] - Next Business Day
+
+Stand Alone Forms: Discharge Handout Stoplight, myWK Portal Instructions
+
+Discharge Orders:
+Discharge Order (Routine); Ordered 08/06/23
+Ordered By: Brian Thomas Dillon
+
+Discharge Medications:
+New
+meclizine 25 mg tablet
+25 mg ORAL 2XDAY PRN (Reason: dizziness) Qty: 20 ORF
+
+No Action
+============================================================================================
+methylprednisolone [Medrol (Pak)] 4 mg tablets,dose pack
+ORAL
+Rx Instructions:
+take by oral route as directed per package instructions
+lidocaine 5 % adhesive patch,medicated
+TRANSDERM PRN
+Rx Instructions:
+APPLY 1 PATCH TRANSDERMALLY DAILY AS NEEDED FOR BACK PAIN (MAY WEAR UP TO 12 HOURS)
+hydralazine 50 mg tablet
+ORAL
+Rx Instructions:
+TAKE 1 TABLET TWICE A DAY WITH FOOD
+calcitriol 0.5 mcg capsule
+ORAL
+Rx Instructions:
+TAKE 1 CAPSULE DAILY
+amlodipine 5 mg tablet
+ORAL
+Rx Instructions:
+TAKE 1 TABLET TWICE A DAY
+metoprolol succinate [Toprol XL] 50 mg tablet extended release 24 hr
+ORAL
+Rx Instructions:
+TAKE 1 TABLET TWICE A DAY
+pravastatin 80 mg tablet
+ORAL .TAKE 1 TABLET DAILY
+Rx Instructions:
+TAKE 1 TABLET DAILY
+allopurinol 100 mg tablet
+ORAL .TAKE 1 TABLET DAILY
+Rx Instructions:
+TAKE 1 TABLET DAILY
+
+Interventions:
+ED Discharge Assessment Last Done: 08/06/23 06:29
+
+Discharge Date/Time: 08/06/23 06:29
+
+Dictated By: Dillon, Brian Thomas, M.D.
+Signed By: <Electronically signed by Brian Thomas Dillon, M.D.> 08/06/23 0636
+
+DD/DT: 08/06/23 0254
+TD/TT: 08/06/23 0254 Transcriptionist: RJ
+============================================================================================
+

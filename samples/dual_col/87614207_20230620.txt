@@ -1,0 +1,89 @@
+
+Result Type: ED Physician Notes
+Result Date: March 02, 2023 11:19 EST
+Result Status: Auth (Verified)
+Result title: ED Physician Note
+Performed by: Boreham, Alex DO on March 02, 2023 11:31 EST
+Verified By: Boreham, Alex DO on March 02, 2023 11:31 EST
+Encounter info: 62401221, Mon Marion Neighborhood Hospital, Emergency, 3/2/2023 - 3/2/2023
+
+Basic Information
+Time Seen:
+Boreham, Alex DO / 03/02/2023 11:06
+Chief Complaint
+tripped and fell into bookshelf at daycare, laceration to left eye. pt laughing and
+playing in triage. no LOC
+History of Present Illness
+2-year-old otherwise healthy immunized male presents to the emergency
+department with a laceration above his left eye after a trip and fall into a bookshelf
+at daycare. Patient presents with mother and grandfather who both state the
+patient is acting his normal self has no repetitive questioning had no LOC or
+vomiting. No medications or medical problems.
+Review of Systems
+10 point ROS was obtained and is otherwise negative except as mentioned above.
+Physical Exam
+Vitals & Measurements
+T: 36.3 °C (Temporal Artery) HR: 96 RR: 20 SpO2: 97%
+HT: 89 cm WT: 14.1 kg WT: 14.10 kg BMI: 17.8 WT Zscore: 0.07 HT
+Zscore: -1.42 BMI Zscore: 1.58 WT LT Zscore: 1.21 BMI %: 94.34
+General: alert, no acute distress, playful, non ill-appearing
+Skin: warm, dry
+Head: 2 cm laceration at the lateral aspect of the left eyebrow, normocephalic, no
+hemotympanum, no battle signs, no rhinorrhea, no raccoon eyes
+Neck: trachea midline, no adenopathy, no tenderness
+Eye: normal conjunctiva, sclera clear
+Cardiovascular: regular rate and rhythm, normal peripheral perfusion
+Respiratory: lungs CTA, respirations non-labored
+Chest wall: no deformity
+Gastrointestinal: soft, non distended, no tenderness, no guarding
+Extremities: no deformity, no trauma
+Neurological: oriented x4, LOC appropriate for age, CN II-XII intact, motor
+strength equal and normally bilaterally, motor strength equal and normally
+bilaterally, speech normal
+Psychiatric: cooperative, affect appropriate for
+age, normal judgement, normal psychiatric thoughts
+Medical Decision Making
+2-year-old male presented emergency department for evaluation of a laceration to
+his left eyebrow. PECARN negative. Immunized. Wound closed with glue.
+Supportive care discussed. Return precaution discussed. Patient discharged home.
+Procedure
+Procedure: Laceration Repair
+Performed by: Self
+Universal Protocol: Time out was performed. Patient, side, site, and procedure were
+verified.
+Description of Wound(s): 2 cm simple linear wound
+Pre-procedure Anesthesia: None
+
+The wound was copiously irrigated with saline solution and explored. There
+were noforeign bodies noted and no tendon injuries. The wound was
+reapproximated in one layer(s) utilizing skin adhesive. No sharp debridement was
+required. There was excellent reapproximation of the wound edges. The patient
+tolerated the procedure without complication and a dressing was placed.
+Patient Education
+Stitches, Staples, or Adhesive Wound Closure, Easy-to-Read
+Facial Laceration
+Follow Up
+With When Contact Information
+Follow up with your own Within 1 to 2 days
+pediatrician.
+Additional Instructions:
+Problem List/Past Medical History
+Ongoing
+No qualifying data
+Historical
+No qualifying data
+Allergies
+NKA
+Diagnostic Results
+No qualifying data available.
+Signature Line
+
+Electronically Signed By
+Boreham, Alex DO
+on 03.02.2023 11:31
+
+Completed Action List:
+* Perform by Boreham, Alex DO on March 02, 2023 11:31 EST
+* Sign by Boreham, Alex DO on March 02, 2023 11:31 EST
+* VERIFY by Boreham, Alex DO on March 02, 2023 11:31 EST
+

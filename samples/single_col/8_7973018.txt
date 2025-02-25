@@ -1,0 +1,362 @@
+============================================================================================
+
+ED Arrival Information
+Expected Arrival Acuity
+- 10/15/2023 22:27 2 - Emergent
+
+Means of arrival Escorted by Service Admission type
+FAMILY MEMBER
+Personal Transportation Emergency Medicine Emergency
+
+Arrival complaint
+fever
+
+Chief Complaint
+Comment
+Complaint
+Fever
+Headache Seen at urgent care yesterday dx with bil ear infections and tonsilitis
+amoxicillin 400mg prescribed two doses taken mom notes fever does
+not go down much
+
+Broussard, Carter W (MRN 14183691) Printed by Leger, Shelbee, RN [335805] at 10/20/2023 12:01 AM
+============================================================================================
+ED Treatment Team
+Provider Role From To Phone Pager
+10/15/23 2248 10/16/23 0011 318-346-6681 --
+Gupta, Prashant, MD Attending Provider
+
+ED Vitals
+(RETIR
+ED) O2
+Device
+(Oxyge
+MAP BP Patient
+n
+Locatio
+(mmHg Positio Therap
+BP n n
+Date/Time Temp Pulse Resp ) SpO2 Weight Who
+y)
+-- -- -- -- -- --
+10/16/23 97.4 °F 120 22 97% SL
+0011
+(36.3
+°C)
+-- -- -- -- -- -- -- --
+10/16/23 98.7 °F SL
+0004 (37.1
+°C)
+-- -- --
+10/15/23 103.2 28 95%
+of Sitting 15.4 kg JC
+168
+2239 OF
+(39.6
+°C) !
+
+Broussard, Carter W (MRN 14183691) Printed by Leger, Shelbee, RN [335805] at 10/20/2023 12:01 AM
+============================================================================================
+ED Notes
+
+ED Notes by Leger, Shelbee, RN 10/15/2023 11:17 PM
+Author: Leger, Shelbee, RN Service: Emergency Medicine Author Type: Registered Nurse
+Filed: 10/15/2023 11:18 PM Creation Time: 10/15/2023 11:17 PM Status: Signed
+Editor: Leger, Shelbee, RN (Registered Nurse)
+
+Previously prescribed antibiotics given by mother at this time. MD okay with this.[SL.1]
+
+Attribution Key
+SL.1 - Leger, Shelbee, RN on 10/15/2023 11:17 PM
+
+Broussard, Carter W (MRN 14183691) Printed by Leger, Shelbee, RN [335805] at 10/20/2023 12:01 AM
+============================================================================================
+ED Provider Notes
+
+ED Provider Notes by Gupta, Prashant, MD at 10/15/2023 10:49 PM
+Author: Gupta, Prashant, MD Service: Emergency Medicine Author Type: Physician
+Filed: 10/16/2023 12:08 AM Creation Time: 10/15/2023 10:49 PM
+Status: Signed
+Editor: Gupta, Prashant, MD (Physician)
+
+Encounter Date:[PG.1] 10/15/2023[PG.2]
+
+History!PG.1]
+
+Chief Complaint
+Patient presents with
+Fever
+Headache
+Seen at urgent care yesterday dx with bil ear infections and tonsilitis amoxicillin 400mg prescribed two
+doses taken mom notes fever does not go down much[PG.2]
+
+Seen at urgent care yesterday dx with bil ear infections and tonsilitis amoxicillin 400mg prescribed two doses
+taken mom notes fever does not go down much
+
+The history is provided by a grandparent.
+Fever
+Primary symptoms of the febrile illness include fever, fatigue and headaches. The current episode started
+yesterday. This is a new problem. The problem has not changed since onset.
+The maximum temperature recorded prior to his arrival was 103 to 104 F. The temperature was taken by an
+oral thermometer.
+The fatigue began yesterday. The fatigue has been unchanged since its onset.
+The headache began yesterday. The headache developed gradually. Headache is a new problem.
+Headache
+Associated symptoms include a fever. [PG.1]
+
+Review of patient's allergies indicates:
+No Known Allergies
+No past medical history on file.
+No past surgical history on file.
+No family history on file. [PG.2]
+
+Review of Systems
+Constitutional: Positive for fatigue and fever.
+HENT: Positive for congestion.
+Eyes: Negative.
+Respiratory: Negative.
+Cardiovascular: Negative.
+Gastrointestinal: Negative.
+Endocrine: Negative.
+Genitourinary: Negative.
+Musculoskeletal: Negative.
+Skin: Negative.
+Allergic/Immunologic: Negative.
+Neurological: Positive for headaches.
+Hematological: Negative.
+Psychiatric/Behavioral Negative.
+Broussard, Carter W (MRN 14183691) Printed by Leger, Shelbee, RN [335805] at 10/20/2023 12:01 AM
+============================================================================================
+ED Provider Notes (continued)
+ED Provider Notes by Gupta, Prashant, MD at 10/15/2023 10:49 PM (continued)
+All other systems reviewed and are negative.
+
+Physical Exam(PG.1)
+
+Initial Vitals [10/15/23 2239]
+BP Pulse Resp Temp SpO2
+-- (1) 168 28 (1) 103.2 95%
+OF (39.6
+°C)
+
+MAP
+__[PG.2]
+
+Physical Exam
+
+Nursing note and vitals reviewed.
+Constitutional: He is active.
+HENT:
+Nose: Nasal discharge present.
+Mouth/Throat: Mucous membranes are moist. Tonsillar exudate.
+Eyes: EOM are normal. Pupils are equal, round, and reactive to light.
+Neck: Neck supple.
+Normal range of motion.
+Cardiovascular: Normal rate and regular rhythm.
+Pulmonary/Chest: Effort normal and breath sounds normal.
+Abdominal: Abdomen is soft. Bowel sounds are normal.
+Musculoskeletal:
+General: Normal range of motion.
+Cervical back: Normal range of motion and neck supple.
+
+Neurological: He is alert. GCS score is 15. GCS eye subscore is 4. GCS verbal subscore is 5. GCS motor
+subscore is 6.
+Skin: Skin is warm and dry.
+
+ED Course
+Procedures!PG.1]
+Labs Reviewed
+COVID/RSV/FLU A&B PCR A Normal
+Narrative:
+The Xpert Xpress SARS-CoV-2/FLU/RSV plus is a
+rapid, multiplexed real-time PCR test intended for the
+simultaneous qualitative detection and differentiation of
+SARS-CoV-2, Influenza A, Influenza B, and respiratory
+syncytial virus (RSV) viral RNA in either nasopharyngeal
+swab or nasal swab specimens.
+
+STREP GROUP A BY PCR
+
+Broussard, Carter W (MRN 14183691) Printed by Leger, Shelbee, RN [335805] at 10/20/2023 12:01 AM
+============================================================================================
+ED Provider Notes (continued)
+ED Provider Notes by Gupta, Prashant, MD at 10/15/2023 10:49 PM (continued)
+
+Imaging Results
+None
+
+Medications
+acetaminophen 32 mg/ml. liquid (PEDS) 230.4 mg (has no
+administration in time range)
+ibuprofen 20 mg/ml. oral liquid 154 mg (has no administration
+in time range) [PG.2]
+
+Medical Decision Making
+Flu COVID and RSV are all negative. Grandmother declined strep testing is the patient is already tested
+positive strep and is currently on antibiotics. The patient also has bilateral ear infections. I advised the
+grandmother to follow up with the primary care physician and continue the antibiotics. Now that the patient has
+been dosed appropriately for Tylenol and Motrin, the fever has subsided, and the patient is much happier.
+
+Amount and/or Complexity of Data Reviewed
+Labs: ordered. [PG.1]
+
+ED Course as of 10/16/23 0007
+Mon Oct 16, 2023
+0001
+Patient was under dosed on both Tylenol and
+Motrin. Now that the appropriate dose has
+been given, fever is markedly improved in the
+child is much happier. (PG)
+
+ED Course User Index
+(PG) Gupta, Prashant, MD[PG.2]
+
+Clinical Impression:{PG.1
+Final diagnoses:
+[J02.9] Pharyngitis, unspecified etiology (Primary)
+[H66.90] Otitis media, unspecified laterality, unspecified otitis media type
+
+ED Disposition Condition
+Discharge Stable
+
+ED Prescriptions
+None
+
+Broussard, Carter W (MRN 14183691) Printed by Leger, Shelbee, RN [335805] at 10/20/2023 12:01 AM
+============================================================================================
+ED Provider Notes (continued)
+ED Provider Notes by Gupta, Prashant, MD at 10/15/2023 10:49 PM (continued)
+
+Follow-up Information
+
+Follow up With Specialties Details Why Contact Info
+Sugeng, Budi N, MD Pediatrics In 1 day 1305 N. State St.
+Abbeville LA 70510
+337-422-6240 [PG.2]
+
+Gupta, Prashant, MD
+10/16/23 0008
+[PG.3]
+
+Electronically signed by Gupta, Prashant, MD at 10/16/2023 12:08 AM
+Attribution Key
+PG.1 - Gupta, Prashant, MD on 10/15/2023 10:49 PM
+PG.2 - Gupta, Prashant, MD on 10/16/2023 12:07 AM
+PG.3 - Gupta, Prashant, MD on 10/16/2023 12:08 AM
+
+ED Diagnoses
+Diagnosis Comment Associated Orders
+
+Final diagnoses
+-- --
+Pharyngitis, unspecified etiology
+Otitis media, unspecified laterality,
+unspecified otitis media type
+
+Broussard, Carter W (MRN 14183691) Printed by Leger, Shelbee, RN [335805] at 10/20/2023 12:01 AM
+============================================================================================
+ED Disposition
+ED Condition Comment
+Disposition Stable
+Discharge
+
+Patient Care Timeline
+No data selected in time range
+
+Lab Results
+
+COVID/RSV/FLU A&B PCR (Final result)
+Respiratory
+SARS-CoV-2
+Syncytial Virus
+Collection Time Result Time Influenza A PCR Influenza B PCR PCR
+PCR
+10/15/23 10/15/23 Not Detected Not Detected Not Detected Not Detected
+23:14:00 23:55:26
+
+Final result
+
+Narrative:
+The Xpert Xpress SARS-CoV-2/FLU/RSV plus is a rapid, multiplexed real-time PCR test intended for the
+simultaneous qualitative detection and differentiation of SARS-CoV-2, Influenza A, Influenza B, and
+respiratory syncytial virus (RSV) viral RNA in either nasopharyngeal swab or nasal swab specimens.
+
+Imaging Results
+None
+
+ECG Results
+None
+
+Medication Administration through 10/20/2023 0001
+Date/Time Order Dose Route Action Action by Comments
+--
+10/15/2023 230.4 Oral Given
+acetaminophen 32 mg/mL Leger,
+2300 CDT
+liquid (PEDS) 230.4 mg mg Shelbee,
+RN
+10/15/2023 ibuprofen 20 mg/mL oral 54 mg Oral Given Leger, Pt got 100mg prior to
+2300 CDT liquid 154 mg Shelbee, arrival. MD notfied of
+RN this and okay with
+giiving onlt remaning
+dosage
+
+Home Medications
+Taking? Last Dose Start Date End Date Provider
+-- --
+amoxicillin (AMOXIL) 400 mg/5 mL 10/14/23 Provider,
+Historical
+suspension
+
+Medication Documentation Review Audit
+**Prior to Admission medications have not yet been reviewed for this encounter**
+
+ED ADT Orders (From admission, onward)
+None
+
+ED Medication Orders (From admission, onward)
+Start Ordered Status Ordering Provider
+10/15/23 2300 10/15/23 2253 acetaminophen 32 mg/mL Last MAR action: GUPTA, PRASHANT
+
+Broussard, Carter W (MRN 14183691) Printed by Leger, Shelbee, RN [335805] at 10/20/2023 12:01 AM
+============================================================================================
+ED Medication Orders (continued) (From admission, onward)
+
+Start Ordered Status Ordering Provider
+liquid (PEDS) 230.4 mg ED 1 Given - by LEGER,
+Time SHELBEE on
+Route: Oral Ordered Dose: 15 10/15/23 at 2300
+mg/kg
+
+10/15/23 2300 10/15/23 2254 ibuprofen 20 mg/mL oral Last MAR action: GUPTA, PRASHANT
+liquid 154 mg ED 1 Time Given - by LEGER,
+Route: Oral Ordered Dose: 10 SHELBEE on
+10/15/23 at 2300
+mg/kg
+
+ED Imaging Orders (From admission, onward)
+None
+
+ED Micro, Lab, POCT (From admission, onward)
+Start Ordered Status Ordering Provider
+10/15/23 2251 10/15/23 2250 Strep Group A by PCR STAT Canceled GUPTA, PRASHANT
+10/15/23 2250 10/15/23 2249 COVID/RSV/FLU A&B PCR Final result GUPTA, PRASHANT
+STAT
+
+ED All Other Orders (From admission, onward)
+None
+
+Code Iso.Restraint (From admission, onward)
+None
+
+Broussard, Carter W (MRN 14183691) Printed by Leger, Shelbee, RN [335805] at 10/20/2023 12:01 AM
+============================================================================================
+ED Prescriptions
+None
+
+ED Discharge Orders (From admission, onward)
+None
+
+Broussard, Carter W (MRN 14183691) Printed by Leger, Shelbee, RN [335805] at 10/20/2023 12:01 AM
+============================================================================================
+

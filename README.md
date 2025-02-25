@@ -1,4 +1,4 @@
-# PDF Medical Health Record Processing
+# PDF Medical Health Records Processing
 
 ## Overview
 This repository contains code for processing PDF medical health records and converting them into readable markup text in JSON format. The project leverages OpenCV, PDF libraries in Python, and AI-based models like Vision Transformers (ViT) and Layout Parser to perform Document Layout Analysis (DLA). The processed output ensures structured and accessible medical records for further analysis.

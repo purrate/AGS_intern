@@ -11,6 +11,21 @@ from scipy.signal import find_peaks
 from scipy.ndimage import gaussian_filter1d
 import requests
 import io
+import json
+from datetime import datetime
+
+
+class NumpyEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        elif isinstance(obj, np.floating):
+            return float(obj)
+        elif isinstance(obj, np.ndarray):
+            return obj.tolist()
+        elif isinstance(obj, np.bool_):
+            return bool(obj)
+        return super(NumpyEncoder, self).default(obj)
 
 def detect_tables(image):
     """
@@ -35,7 +50,7 @@ def detect_tables(image):
     except Exception as e:
         print(f"Error detecting tables: {e}")
         return []
-      
+
 def exclude_table_regions(content_blocks, table_boxes):
     """
     Excludes text blocks that overlap with table regions.
@@ -59,22 +74,90 @@ def exclude_table_regions(content_blocks, table_boxes):
     return filtered_blocks
   
 def visualize_tables(ax, table_boxes):
-  """
-  Draws rectangles around detected tables in the visualization.
-  """
-  for table in table_boxes:
-      x_min, y_min, x_max, y_max = table['bbox']
-      width = x_max - x_min
-      height = y_max - y_min
-      rect = patches.Rectangle(
-          (x_min, y_min), width, height,
-          linewidth=2, edgecolor='purple', facecolor='none', linestyle='--'
-      )
-      ax.add_patch(rect)
-      ax.text(
-          x_min, y_min - 10, f"Table ({table['confidence']:.2f})",
-          color='purple', fontsize=10, backgroundcolor='white'
-      )
+    """
+    Draws rectangles around detected tables in the visualization.
+    """
+    for table in table_boxes:
+        x_min, y_min, x_max, y_max = table['bbox']
+        width = x_max - x_min
+        height = y_max - y_min
+        rect = patches.Rectangle(
+            (x_min, y_min), width, height,
+            linewidth=2, edgecolor='purple', facecolor='none', linestyle='--'
+        )
+        ax.add_patch(rect)
+        ax.text(
+            x_min, y_min - 10, f"Table ({table['confidence']:.2f})",
+            color='purple', fontsize=10, backgroundcolor='white'
+        )
+
+def extract_table_text(img, table_boxes):
+    """
+    Extracts text content from detected tables.
+    """
+    table_data = []
+    
+    for i, table in enumerate(table_boxes):
+        x_min, y_min, x_max, y_max = table['bbox']
+        
+        # Create a cropped image for the table region
+        table_img = img[int(y_min):int(y_max), int(x_min):int(x_max)]
+        
+        # Check if the table image is valid
+        if table_img.size == 0:
+            continue
+            
+        # Convert table image to grayscale
+        if len(table_img.shape) > 2:
+            table_gray = cv2.cvtColor(table_img, cv2.COLOR_BGR2GRAY)
+        else:
+            table_gray = table_img
+            
+        # Apply adaptive thresholding for better text detection
+        binary = cv2.adaptiveThreshold(table_gray, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, 
+                                      cv2.THRESH_BINARY, 11, 2)
+        
+        # Extract text using OCR
+        custom_config = r'--oem 3 --psm 6'  # Assuming the table is structured text
+        table_text = pytesseract.image_to_string(binary, config=custom_config)
+        
+        # Extract structured data with layout information
+        data = pytesseract.image_to_data(binary, config=custom_config, output_type=pytesseract.Output.DICT)
+        
+        # Compile table text blocks
+        text_blocks = []
+        for j in range(len(data['text'])):
+            if data['text'][j].strip() != '' and data['conf'][j] > 40:
+                # Convert to global coordinates by adding table offset
+                global_left = data['left'][j] + x_min
+                global_top = data['top'][j] + y_min
+                
+                text_blocks.append({
+                    'text': data['text'][j],
+                    'left': global_left,
+                    'top': global_top,
+                    'width': data['width'][j],
+                    'height': data['height'][j],
+                    'conf': data['conf'][j]
+                })
+        
+        # Determine if table has visible borders
+        # A simple heuristic: Count edges in the image
+        edges = cv2.Canny(table_gray, 50, 150)
+        edge_count = np.sum(edges > 0)
+        edge_density = edge_count / (table_gray.shape[0] * table_gray.shape[1])
+        has_borders = edge_density > 0.1  # Threshold can be adjusted
+        
+        table_data.append({
+            'id': i,
+            'bbox': [float(x_min), float(y_min), float(x_max), float(y_max)],
+            'confidence': float(table['confidence']),
+            'text': table_text.strip(),
+            'text_blocks': text_blocks,
+            'has_borders': has_borders
+        })
+    
+    return table_data
 
 def detect_columns_with_density(x_midpoints, width):
     """
@@ -251,17 +334,43 @@ def determine_layout(content_blocks, width):
     
     return "Single-column", centers1
 
-def combined_pdf_layout_analysis(pdf_path, output_dir=None):
+def extract_header_footer_text(header_blocks, footer_blocks):
     """
-    Combined algorithm that leverages advanced column detection:
+    Extracts and formats header and footer text with coordinates.
+    """
+    header_data = {
+        "text": " ".join([block['text'] for block in header_blocks]),
+        "blocks": [{
+            "text": block['text'],
+            "coords": [float(block['left']), float(block['top']), 
+                      float(block['left'] + block['width']), float(block['top'] + block['height'])]
+        } for block in header_blocks]
+    }
+    
+    footer_data = {
+        "text": " ".join([block['text'] for block in footer_blocks]),
+        "blocks": [{
+            "text": block['text'],
+            "coords": [float(block['left']), float(block['top']), 
+                      float(block['left'] + block['width']), float(block['top'] + block['height'])]
+        } for block in footer_blocks]
+    }
+    
+    return header_data, footer_data
+
+def combined_pdf_layout_analysis(pdf_path, output_dir=None, save_json=True):
+    """
+    Combined algorithm that leverages advanced column detection with JSON output:
     1. Uses density-based peak detection
     2. Applies DBSCAN clustering
     3. Verifies column consistency
     4. Enhanced visualization
+    5. Stores results in JSON format
     
     Parameters:
     - pdf_path: Path to the PDF file
     - output_dir: Optional custom output directory
+    - save_json: Whether to save the JSON output to a file
     """
     # Create output directory
     if output_dir is None:
@@ -275,6 +384,14 @@ def combined_pdf_layout_analysis(pdf_path, output_dir=None):
     print(f"\nAnalyzing layout for: {pdf_name}")
     print("-" * 70)
     
+    # Initialize JSON structure
+    json_result = {
+        "pdf_name": pdf_name,
+        "analysis_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "total_pages": len(images),
+        "pages": []
+    }
+    
     # Process each page
     page_results = []
     
@@ -286,6 +403,7 @@ def combined_pdf_layout_analysis(pdf_path, output_dir=None):
         img_cv = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
         img_rgb = cv2.cvtColor(img_cv, cv2.COLOR_BGR2RGB)  # For matplotlib
         
+        # Detect tables
         table_boxes = detect_tables(img)
         print(f"Detected {len(table_boxes)} tables on page {page_num}")
         
@@ -312,6 +430,15 @@ def combined_pdf_layout_analysis(pdf_path, output_dir=None):
         # Analyze distribution of x-coordinates
         if not x_coords:
             result = "No text detected"
+            page_data = {
+                "page_number": page_num,
+                "layout": result,
+                "header": {"text": "", "blocks": []},
+                "footer": {"text": "", "blocks": []},
+                "tables": [],
+                "columns": []
+            }
+            json_result["pages"].append(page_data)
             page_results.append({"page": page_num, "layout": result})
             print(f"  Page {page_num}: {result}")
             continue
@@ -344,9 +471,68 @@ def combined_pdf_layout_analysis(pdf_path, output_dir=None):
         content_blocks = [block for block in text_blocks 
                          if block['top'] >= header_height and block['top'] <= footer_start]
         
-        # STAGE 4: Enhanced column detection (our main improvement)
+        # Extract header and footer text with coordinates
+        header_data, footer_data = extract_header_footer_text(header_blocks, footer_blocks)
+        
+        # STAGE 4: Extract table data with text content
+        # --------------------------------------------
+        table_data = extract_table_text(img_cv, table_boxes)
+        
+        # STAGE 5: Enhanced column detection
         # -------------------------------------------------------
         layout_type, centers = determine_layout(content_blocks, width)
+        
+        # Process column data for JSON
+        column_data = []
+        if layout_type == "Dual-column" and len(centers) >= 2:
+            # Midpoint between columns for classification
+            mid_separator = (centers[0] + centers[1]) / 2
+            
+            # Group blocks by column
+            col1_blocks = []
+            col2_blocks = []
+            
+            for block in content_blocks:
+                block_center = block['left'] + block['width']/2
+                if block_center < mid_separator:
+                    col1_blocks.append(block)
+                else:
+                    col2_blocks.append(block)
+            
+            # Add column data to JSON
+            column_data = [
+                {
+                    "column_index": 0,
+                    "center": float(centers[0]),
+                    "blocks": [{
+                        "text": block['text'],
+                        "coords": [float(block['left']), float(block['top']), 
+                                  float(block['left'] + block['width']), float(block['top'] + block['height'])]
+                    } for block in col1_blocks]
+                },
+                {
+                    "column_index": 1,
+                    "center": float(centers[1]),
+                    "blocks": [{
+                        "text": block['text'],
+                        "coords": [float(block['left']), float(block['top']), 
+                                  float(block['left'] + block['width']), float(block['top'] + block['height'])]
+                    } for block in col2_blocks]
+                }
+            ]
+        elif layout_type == "Single-column":
+            # Add all content blocks to a single column
+            column_data = [
+                {
+                    "column_index": 0,
+                    "center": float(centers[0]) if centers else float(width/2),
+                    "blocks": [{
+                        "text": block['text'],
+                        "coords": [float(block['left']), float(block['top']), 
+                                  float(block['left'] + block['width']), float(block['top'] + block['height'])]
+                    } for block in content_blocks]
+                }
+            ]
         
         # Store the results
         page_results.append({
@@ -357,12 +543,32 @@ def combined_pdf_layout_analysis(pdf_path, output_dir=None):
             "content_blocks": len(content_blocks)
         })
         
+        # Store page data for JSON output
+        page_data = {
+            "page_number": page_num,
+            "layout": layout_type,
+            "header": header_data,
+            "footer": footer_data,
+            "tables": table_data,
+            "columns": column_data
+        }
+        json_result["pages"].append(page_data)
+        
+       
+        # Then modify your JSON saving code to use the custom encoder
+        if save_json:
+            json_output_path = os.path.join(output_dir, f"{pdf_name}_analysis.json")
+            with open(json_output_path, 'w') as json_file:
+                json.dump(json_result, json_file, indent=4, cls=NumpyEncoder)
+            print(f"JSON analysis saved to: {json_output_path}")
+            
         print(f"  Final classification: {layout_type}")
         print(f"  Header blocks: {len(header_blocks)}")
         print(f"  Footer blocks: {len(footer_blocks)}")
         print(f"  Content blocks: {len(content_blocks)}")
+        print(f"  Tables found: {len(table_data)}")
         
-        # STAGE 5: Visualization
+        # STAGE 6: Visualization
         # ----------------------
         # Create detailed visualization
         fig = plt.figure(figsize=(15, 10))
@@ -502,9 +708,10 @@ def combined_pdf_layout_analysis(pdf_path, output_dir=None):
         ax4.text(0.1, 0.6, f"Content blocks: {len(content_blocks)}", fontsize=10)
         ax4.text(0.1, 0.5, f"Header blocks: {len(header_blocks)}", fontsize=10)
         ax4.text(0.1, 0.4, f"Footer blocks: {len(footer_blocks)}", fontsize=10)
+        ax4.text(0.1, 0.3, f"Tables detected: {len(table_data)}", fontsize=10)
         
         if centers:
-            ax4.text(0.1, 0.3, f"Column centers: {', '.join([f'{c:.1f}' for c in centers])}", fontsize=10)
+            ax4.text(0.1, 0.2, f"Column centers: {', '.join([f'{c:.1f}' for c in centers])}", fontsize=10)
         
         plt.tight_layout()
         
@@ -577,7 +784,7 @@ def batch_analyze_pdfs(directories):
 # Run the analysis
 sample_dirs = {
     #  "single_column": "./samples/single_col",
-     "dual_column": "./samples/dual_col"
+     "dual_column": "./samples/single_col"
 }
 
 # Example usage

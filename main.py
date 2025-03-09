@@ -4,16 +4,17 @@ import pytesseract
 from pdf2image import convert_from_path
 import matplotlib.pyplot as plt
 import os
-from sklearn.cluster import KMeans, DBSCAN
-import matplotlib.patches as patches
-from collections import Counter
+from sklearn.cluster import DBSCAN
 from scipy.signal import find_peaks
 from scipy.ndimage import gaussian_filter1d
-import requests
-import io
 import json
 from datetime import datetime
 
+from tables import detect_tables, exclude_table_regions, extract_table_text
+from visualisation import create_enhanced_visualization
+from header_footer import extract_header_footer_text
+from layout import calculate_layout_features, classify_layout_with_features
+from seperator import find_optimal_separator, analyze_vertical_whitespace
 
 class NumpyEncoder(json.JSONEncoder):
     def default(self, obj):
@@ -27,137 +28,6 @@ class NumpyEncoder(json.JSONEncoder):
             return bool(obj)
         return super(NumpyEncoder, self).default(obj)
 
-def detect_tables(image):
-    """
-    Sends the image to the Flask API for table detection and returns the bounding boxes.
-    """
-    try:
-        # Convert image to bytes
-        img_byte_arr = io.BytesIO()
-        image.save(img_byte_arr, format='PNG')
-        img_byte_arr = img_byte_arr.getvalue()
-
-        # Send request to the Flask API
-        response = requests.post(
-            "https://d37e-34-19-48-115.ngrok-free.app/predict",  # Replace with your ngrok URL
-            files={"image": img_byte_arr}
-        )
-        response.raise_for_status()
-
-        # Parse the response
-        detections = response.json().get("detections", [])
-        return detections
-    except Exception as e:
-        print(f"Error detecting tables: {e}")
-        return []
-
-def exclude_table_regions(content_blocks, table_boxes):
-    """
-    Excludes text blocks that overlap with table regions.
-    """
-    filtered_blocks = []
-    for block in content_blocks:
-        block_center_x = block['left'] + block['width'] / 2
-        block_center_y = block['top'] + block['height'] / 2
-
-        # Check if the block center is inside any table bounding box
-        inside_table = False
-        for table in table_boxes:
-            x_min, y_min, x_max, y_max = table['bbox']
-            if (x_min <= block_center_x <= x_max) and (y_min <= block_center_y <= y_max):
-                inside_table = True
-                break
-
-        if not inside_table:
-            filtered_blocks.append(block)
-
-    return filtered_blocks
-  
-def visualize_tables(ax, table_boxes):
-    """
-    Draws rectangles around detected tables in the visualization.
-    """
-    for table in table_boxes:
-        x_min, y_min, x_max, y_max = table['bbox']
-        width = x_max - x_min
-        height = y_max - y_min
-        rect = patches.Rectangle(
-            (x_min, y_min), width, height,
-            linewidth=2, edgecolor='purple', facecolor='none', linestyle='--'
-        )
-        ax.add_patch(rect)
-        ax.text(
-            x_min, y_min - 10, f"Table ({table['confidence']:.2f})",
-            color='purple', fontsize=10, backgroundcolor='white'
-        )
-
-def extract_table_text(img, table_boxes):
-    """
-    Extracts text content from detected tables.
-    """
-    table_data = []
-    
-    for i, table in enumerate(table_boxes):
-        x_min, y_min, x_max, y_max = table['bbox']
-        
-        # Create a cropped image for the table region
-        table_img = img[int(y_min):int(y_max), int(x_min):int(x_max)]
-        
-        # Check if the table image is valid
-        if table_img.size == 0:
-            continue
-            
-        # Convert table image to grayscale
-        if len(table_img.shape) > 2:
-            table_gray = cv2.cvtColor(table_img, cv2.COLOR_BGR2GRAY)
-        else:
-            table_gray = table_img
-            
-        # Apply adaptive thresholding for better text detection
-        binary = cv2.adaptiveThreshold(table_gray, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, 
-                                      cv2.THRESH_BINARY, 11, 2)
-        
-        # Extract text using OCR
-        custom_config = r'--oem 3 --psm 6'  # Assuming the table is structured text
-        table_text = pytesseract.image_to_string(binary, config=custom_config)
-        
-        # Extract structured data with layout information
-        data = pytesseract.image_to_data(binary, config=custom_config, output_type=pytesseract.Output.DICT)
-        
-        # Compile table text blocks
-        text_blocks = []
-        for j in range(len(data['text'])):
-            if data['text'][j].strip() != '' and data['conf'][j] > 40:
-                # Convert to global coordinates by adding table offset
-                global_left = data['left'][j] + x_min
-                global_top = data['top'][j] + y_min
-                
-                text_blocks.append({
-                    'text': data['text'][j],
-                    'left': global_left,
-                    'top': global_top,
-                    'width': data['width'][j],
-                    'height': data['height'][j],
-                    'conf': data['conf'][j]
-                })
-        
-        # Determine if table has visible borders
-        # A simple heuristic: Count edges in the image
-        edges = cv2.Canny(table_gray, 50, 150)
-        edge_count = np.sum(edges > 0)
-        edge_density = edge_count / (table_gray.shape[0] * table_gray.shape[1])
-        has_borders = edge_density > 0.1  # Threshold can be adjusted
-        
-        table_data.append({
-            'id': i,
-            'bbox': [float(x_min), float(y_min), float(x_max), float(y_max)],
-            'confidence': float(table['confidence']),
-            'text': table_text.strip(),
-            'text_blocks': text_blocks,
-            'has_borders': has_borders
-        })
-    
-    return table_data
 
 def detect_columns_with_density(x_midpoints, width):
     """
@@ -334,29 +204,7 @@ def determine_layout(content_blocks, width):
     
     return "Single-column", centers1
 
-def extract_header_footer_text(header_blocks, footer_blocks):
-    """
-    Extracts and formats header and footer text with coordinates.
-    """
-    header_data = {
-        "text": " ".join([block['text'] for block in header_blocks]),
-        "blocks": [{
-            "text": block['text'],
-            "coords": [float(block['left']), float(block['top']), 
-                      float(block['left'] + block['width']), float(block['top'] + block['height'])]
-        } for block in header_blocks]
-    }
-    
-    footer_data = {
-        "text": " ".join([block['text'] for block in footer_blocks]),
-        "blocks": [{
-            "text": block['text'],
-            "coords": [float(block['left']), float(block['top']), 
-                      float(block['left'] + block['width']), float(block['top'] + block['height'])]
-        } for block in footer_blocks]
-    }
-    
-    return header_data, footer_data
+
 
 def combined_pdf_layout_analysis(pdf_path, output_dir=None, save_json=True):
     """
@@ -456,7 +304,6 @@ def combined_pdf_layout_analysis(pdf_path, output_dir=None, save_json=True):
                     'height': data['height'][j],
                     'conf': data['conf'][j]
                 })
-                
         content_blocks = exclude_table_regions(text_blocks, table_boxes)
         
         # STAGE 3: Header/Footer detection
@@ -479,22 +326,57 @@ def combined_pdf_layout_analysis(pdf_path, output_dir=None, save_json=True):
         table_data = extract_table_text(img_cv, table_boxes)
         
         # STAGE 5: Enhanced column detection
-        # -------------------------------------------------------
+        
         layout_type, centers = determine_layout(content_blocks, width)
+                # Analyze vertical whitespace for column separation
+        whitespace_profile, whitespace_separators = analyze_vertical_whitespace(gray, width, height)
+        print(f"  Detected {len(whitespace_separators)} potential column separators")
+        
+        # Calculate layout features for more robust classification
+        layout_features = calculate_layout_features(
+            content_blocks, header_blocks, footer_blocks, table_boxes, 
+            width, height, whitespace_profile
+        )
+
+        # Get layout classification and confidence based on features
+        feature_layout, feature_confidence = classify_layout_with_features(layout_features)
+        print(f"  Feature-based classification: {feature_layout} (confidence: {feature_confidence:.2f})")
+
+        # Combine feature-based classification with existing methods
+        if feature_confidence > 0.8:
+            # High confidence in feature-based classification
+            layout_type = feature_layout
+        elif layout_type == feature_layout:
+            # Both methods agree
+            layout_type = feature_layout
+        elif feature_layout == "Dual-column" and layout_type == "Possible dual-column":
+            # Feature-based supports existing suspicion
+            layout_type = "Dual-column"
+        elif feature_layout == "Possible dual-column" and layout_type == "Single-column":
+            # Feature-based suggests possibility not caught by other methods
+            layout_type = "Possible dual-column"
         
         # Process column data for JSON
         column_data = []
-        if layout_type == "Dual-column" and len(centers) >= 2:
-            # Midpoint between columns for classification
-            mid_separator = (centers[0] + centers[1]) / 2
+        # Incorporate whitespace information into column detection
+        if layout_type == "Dual-column" or "Possible dual-column" and len(centers) >= 2:
+            # Find the whitespace separator closest to the midpoint between column centers
+            mid_point = (centers[0] + centers[1]) / 2
             
-            # Group blocks by column
+            if whitespace_separators:
+                # Find closest whitespace separator to the midpoint
+                optimal_separator = min(whitespace_separators, key=lambda x: abs(x - mid_point))
+            else:
+                # Fallback to finding optimal separator
+                optimal_separator = find_optimal_separator(content_blocks, centers, width)
+            
+            # Group blocks by column using the whitespace-based separator
             col1_blocks = []
             col2_blocks = []
             
             for block in content_blocks:
                 block_center = block['left'] + block['width']/2
-                if block_center < mid_separator:
+                if block_center < optimal_separator:
                     col1_blocks.append(block)
                 else:
                     col2_blocks.append(block)
@@ -570,156 +452,19 @@ def combined_pdf_layout_analysis(pdf_path, output_dir=None, save_json=True):
         
         # STAGE 6: Visualization
         # ----------------------
-        # Create detailed visualization
-        fig = plt.figure(figsize=(15, 10))
         
-        # Original image with layout overlay
-        ax1 = fig.add_subplot(2, 2, 1)
-        ax1.imshow(img_rgb)
-        ax1.set_title(f"Layout Analysis - Page {page_num}")
-        visualize_tables(ax1, table_boxes)
-        
-        # Draw header region
-        header_rect = patches.Rectangle((0, 0), width, header_height, 
-                                      linewidth=2, edgecolor='r', facecolor='r', alpha=0.1)
-        ax1.add_patch(header_rect)
-        
-        # Draw footer region
-        footer_rect = patches.Rectangle((0, footer_start), width, height-footer_start, 
-                                      linewidth=2, edgecolor='r', facecolor='r', alpha=0.1)
-        ax1.add_patch(footer_rect)
-        
-        # Draw columns
-        if layout_type == "Dual-column" and len(centers) >= 2:
-            # Estimate column widths
-            col_width = width * 0.35  # Approximate width for visualization
-            
-            # Left column
-            left_col = patches.Rectangle((centers[0] - col_width/2, header_height), 
-                                      col_width, footer_start-header_height, 
-                                      linewidth=2, edgecolor='g', facecolor='g', alpha=0.1)
-            ax1.add_patch(left_col)
-            
-            # Right column
-            right_col = patches.Rectangle((centers[1] - col_width/2, header_height), 
-                                       col_width, footer_start-header_height, 
-                                       linewidth=2, edgecolor='g', facecolor='g', alpha=0.1)
-            ax1.add_patch(right_col)
-        elif layout_type == "Possible dual-column" and len(centers) >= 2:
-            # Draw possible columns with different color
-            col_width = width * 0.35
-            
-            # Left column
-            left_col = patches.Rectangle((centers[0] - col_width/2, header_height), 
-                                       col_width, footer_start-header_height, 
-                                       linewidth=2, edgecolor='y', facecolor='y', alpha=0.1)
-            ax1.add_patch(left_col)
-            
-            # Right column
-            right_col = patches.Rectangle((centers[1] - col_width/2, header_height), 
-                                        col_width, footer_start-header_height, 
-                                        linewidth=2, edgecolor='y', facecolor='y', alpha=0.1)
-            ax1.add_patch(right_col)
-        else:
-            # Full width content area with margins
-            margin = width * 0.15
-            content_rect = patches.Rectangle((margin, header_height), 
-                                          width - 2*margin, footer_start-header_height, 
-                                          linewidth=2, edgecolor='g', facecolor='g', alpha=0.1)
-            ax1.add_patch(content_rect)
-        
-        # Add layout type info
-        ax1.text(10, height-10, f"Layout: {layout_type}", 
-                color='black', fontsize=12, backgroundcolor='white')
-        
-        # Text block visualization
-        ax2 = fig.add_subplot(2, 2, 2)
-        ax2.imshow(np.ones_like(img_rgb) * 255)  # White background
-        ax2.set_title(f"Text Block Detection - Page {page_num}")
-        
-        # Draw text blocks by category
-        for block in header_blocks:
-            rect = patches.Rectangle((block['left'], block['top']), 
-                                  block['width'], block['height'], 
-                                  linewidth=1, edgecolor='orange', facecolor='orange', alpha=0.3)
-            ax2.add_patch(rect)
-            
-        for block in footer_blocks:
-            rect = patches.Rectangle((block['left'], block['top']), 
-                                  block['width'], block['height'], 
-                                  linewidth=1, edgecolor='orange', facecolor='orange', alpha=0.3)
-            ax2.add_patch(rect)
-        
-        # For dual-column layouts, color-code the blocks by column
-        if layout_type in ["Dual-column", "Possible dual-column"] and len(centers) >= 2:
-            mid_separator = (centers[0] + centers[1]) / 2
-            
-            for block in content_blocks:
-                block_center = block['left'] + block['width']/2
-                color = 'blue' if block_center < mid_separator else 'green'
-                rect = patches.Rectangle((block['left'], block['top']), 
-                                      block['width'], block['height'], 
-                                      linewidth=1, edgecolor=color, facecolor=color, alpha=0.3)
-                ax2.add_patch(rect)
-        else:
-            for block in content_blocks:
-                rect = patches.Rectangle((block['left'], block['top']), 
-                                      block['width'], block['height'], 
-                                      linewidth=1, edgecolor='blue', facecolor='blue', alpha=0.3)
-                ax2.add_patch(rect)
-        
-        # X-coordinate histogram
-        ax3 = fig.add_subplot(2, 2, 3)
-        ax3.set_title(f"X-coordinate Distribution - Page {page_num}")
-        
-        if content_blocks:
-            x_centers = [block['left'] + (block['width'] / 2) for block in content_blocks]
-            ax3.hist(x_centers, bins=30, color='blue', alpha=0.7)
-            ax3.set_xlabel("X-coordinate")
-            ax3.set_ylabel("Frequency")
-            
-            # Add vertical lines for detected column centers
-            for center in centers:
-                ax3.axvline(x=center, color='red', linestyle='--', linewidth=2)
-                
-            # Add smoothed density curve
-            if len(x_centers) > 2:
-                hist, bin_edges = np.histogram(x_centers, bins=50, range=(0, width))
-                smoothed_hist = gaussian_filter1d(hist, sigma=1.5)
-                bin_centers = (bin_edges[:-1] + bin_edges[1:]) / 2
-                # Scale the smoothed histogram to match the regular histogram
-                scale_factor = ax3.get_ylim()[1] / max(smoothed_hist) if max(smoothed_hist) > 0 else 1
-                ax3.plot(bin_centers, smoothed_hist * scale_factor, color='red', linewidth=2)
-        
-        # Classification explanation
-        ax4 = fig.add_subplot(2, 2, 4)
-        ax4.set_title("Classification Analysis")
-        ax4.axis('off')  # Hide axes
-        
-        # Text explanation
-        ax4.text(0.5, 0.9, "Classification Summary", 
-                fontsize=12, fontweight='bold', ha='center')
-        ax4.text(0.1, 0.8, f"Final layout: {layout_type}", fontsize=11)
-        
-        if layout_type == "Possible dual-column":
-            ax4.text(0.1, 0.7, "Note: Some evidence of dual columns, but not conclusive", 
-                    fontsize=10, fontstyle='italic')
-        
-        ax4.text(0.1, 0.6, f"Content blocks: {len(content_blocks)}", fontsize=10)
-        ax4.text(0.1, 0.5, f"Header blocks: {len(header_blocks)}", fontsize=10)
-        ax4.text(0.1, 0.4, f"Footer blocks: {len(footer_blocks)}", fontsize=10)
-        ax4.text(0.1, 0.3, f"Tables detected: {len(table_data)}", fontsize=10)
-        
-        if centers:
-            ax4.text(0.1, 0.2, f"Column centers: {', '.join([f'{c:.1f}' for c in centers])}", fontsize=10)
-        
-        plt.tight_layout()
-        
+        # Create enhanced visualization
+        fig = create_enhanced_visualization(
+            img_rgb, content_blocks, header_blocks, footer_blocks, table_boxes,
+            layout_type, centers, whitespace_profile, None, None, None
+        )
+
         # Save the visualization
         output_path = os.path.join(output_dir, f"{pdf_name}_page{page_num}_analysis.png")
         plt.savefig(output_path, dpi=150, bbox_inches='tight')
         plt.close(fig)
-        print(f"  Visualization saved to: {output_path}")
+        print(f"  Enhanced visualization saved to: {output_path}")
+
     
     # Summarize results
     single_count = sum(1 for p in page_results if p["layout"].startswith("Single"))
@@ -780,19 +525,18 @@ def batch_analyze_pdfs(directories):
             results[pdf_file] = combined_pdf_layout_analysis(pdf_file)
     
     return results
-
 # Run the analysis
 sample_dirs = {
     #  "single_column": "./samples/single_col",
-     "dual_column": "./samples/single_col"
+     "dual_column": "./samples/dual_col"
 }
-
+    
 # Example usage
 if __name__ == "__main__":
     # Analyze a single PDF
-    # result = combined_pdf_layout_analysis("./samples/dual_col/637847713.pdf")
+    result = combined_pdf_layout_analysis("./samples/dual_col/6675433.pdf")
     
     # This function could be extended with batch processing capabilities
     # from the second algorithm if needed
     
-    batch_results = batch_analyze_pdfs(sample_dirs)
+    # batch_results = batch_analyze_pdfs(sample_dirs)

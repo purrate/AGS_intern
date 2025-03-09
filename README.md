@@ -1,74 +1,132 @@
-# PDF Medical Health Records Processing
+# PDF Layout Analysis Tool
 
-## Overview
-This repository contains code for processing PDF medical health records and converting them into readable markup text in JSON format. The project leverages OpenCV, PDF libraries in Python, and AI-based models like Vision Transformers (ViT) and Layout Parser to perform Document Layout Analysis (DLA). The processed output ensures structured and accessible medical records for further analysis.
+A comprehensive Python tool for analyzing PDF document layouts, with a focus on detecting column structures, tables, headers, and footers.
 
 ## Features
-- **Document Layout Analysis (DLA):** Extracts and processes structured text from medical PDFs.
-- **Footer & Header Removal:** Accurately detects and removes repetitive footers and headers across multiple pages.
-- **JSON Conversion:** Outputs structured, readable JSON format for easy parsing and further usage.
-- **AI-Based Processing:** Implements ViT and Layout Parser for enhanced document segmentation.
+
+- **Advanced Column Detection**: Uses multiple methods including density-based peak detection and DBSCAN clustering
+- **Table Detection**: Identifies table regions within PDF documents
+- **Header and Footer Extraction**: Detects and extracts text from header and footer regions
+- **Layout Classification**: Classifies pages as single-column, dual-column, or possible dual-column
+- **Visualization**: Creates enhanced visualizations of the document layout analysis
+- **JSON Output**: Generates detailed JSON output of the analysis results
+
+## Requirements
+
+- Python 3.6+
+- OpenCV (`cv2`)
+- NumPy
+- PyTesseract
+- pdf2image
+- Matplotlib
+- scikit-learn
+- SciPy
+- Poppler (for pdf2image)
 
 ## Installation
-To use this repository, clone it and install the required dependencies:
+
+1. Clone this repository
+2. Install required dependencies:
 
 ```bash
-# Clone the repository
-git clone https://github.com/purrate/AGS_intern.git
-cd [Directory name]
-
-# Install dependencies
-pip install -r requirements.txt
+pip install opencv-python numpy pytesseract pdf2image matplotlib scikit-learn scipy
 ```
+
+3. Install Tesseract OCR engine:
+   - For Ubuntu: `sudo apt-get install tesseract-ocr`
+   - For Windows: Download and install from [Tesseract GitHub](https://github.com/UB-Mannheim/tesseract/wiki)
+   - For macOS: `brew install tesseract`
+
+4. Install Poppler for pdf2image:
+   - For Ubuntu: `sudo apt-get install poppler-utils`
+   - For Windows: Download from [Poppler for Windows](http://blog.alivate.com.au/poppler-windows/)
+   - For macOS: `brew install poppler`
 
 ## Usage
-Run the main processing script to convert PDFs into JSON format:
 
-```bash
-python process_pdf.py --input path/to/medical_record.pdf --output path/to/output.json
+### Running the Notebook
+
+To analyze PDF layouts using the `tabledetection.ipynb` notebook:
+
+1. Open a terminal or command prompt and navigate to the project directory.
+2. Start Jupyter Notebook or Jupyter Lab:
+   
+   ```bash
+   jupyter notebook
+   ```
+   or
+   ```bash
+   jupyter lab
+   ```
+3. Open `tabledetection.ipynb` in the Jupyter interface.
+4. Run the notebook cells sequentially to process a PDF document and analyze its table structures.
+
+### Single PDF Analysis (Script-Based)
+
+```python
+from pdf_layout_analyzer import combined_pdf_layout_analysis
+
+result = combined_pdf_layout_analysis("path/to/your/document.pdf")
 ```
 
-### Arguments:
-- `--input`: Path to the input PDF file.
-- `--output`: Path to save the processed JSON output.
+### Batch Processing
 
-## Output Format
-The extracted text is structured into a JSON file, with sections categorized based on document layout analysis.
+```python
+from pdf_layout_analyzer import batch_analyze_pdfs
 
-```json
-{
-  "patient_info": {
-    "name": "John Doe",
-    "age": 45,
-    "gender": "Male"
-  },
-  "medical_history": [
-    {
-      "date": "2024-02-10",
-      "diagnosis": "Hypertension",
-      "treatment": "Prescribed medication X"
-    }
-  ],
-  "footer_removed": true
+directories = {
+    "single_column": "./samples/single_col",
+    "dual_column": "./samples/dual_col"
 }
+
+results = batch_analyze_pdfs(directories)
 ```
+
+## Output
+
+The tool produces:
+
+1. **JSON files** containing detailed analysis of each page, including:
+   - Overall layout classification
+   - Header and footer text
+   - Table locations and content
+   - Column information with text blocks
+
+2. **Visualization images** for each page showing:
+   - Detected text blocks
+   - Column structure
+   - Tables, headers, and footers
+   - Whitespace analysis
 
 ## Project Structure
-```
-AGS_Health/
-│-- process_pdf.py         # Main script to process PDFs
-│-- utils.py               # Utility functions for PDF processing
-│-- models/                # AI-based models for document layout analysis
-│-- samples/               # Sample medical PDFs for testing
-│-- output/                # Processed JSON files
-│-- requirements.txt       # List of dependencies
+
+- `tables.py`: Functions for table detection and extraction
+- `visualisation.py`: Functions for creating visualizations
+- `header_footer.py`: Header and footer extraction functions
+- `layout.py`: Layout analysis functions
+- `seperator.py`: Column separator detection functions
+- `pdf_layout_analyzer.py`: Main script containing the combined analysis
+
+## Example
+
+```python
+# Analyze a single PDF
+result = combined_pdf_layout_analysis("./samples/dual_col/6675433.pdf")
+
+# Print summary
+print(f"Overall classification: {result['overall_classification']}")
+print(f"Single-column pages: {result['single_column_pages']}")
+print(f"Dual-column pages: {result['dual_column_pages']}")
 ```
 
-## Future Enhancements
-- Implementing OCR for handwritten medical notes.
-- Enhancing entity recognition using NLP models.
+## Advanced Features
 
+- **Whitespace Analysis**: Detects vertical whitespace to improve column separation
+- **Feature-based Classification**: Uses multiple features for robust layout classification
+- **Adaptive Thresholding**: Improves text detection in varying document qualities
+- **Confidence-based Filtering**: Reduces noise in text detection
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[MIT License]
 
